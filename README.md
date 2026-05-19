@@ -1,4 +1,4 @@
-# TRIAD -  three-stage automated mulit-hop dataset generation approach
+# TRIAD — A Three-Stage Automated Multi-Hop Dataset Generation Approach
 
 A comprehensive system for generating, validating and extracting question-answer pairs for RAG (Retrieval-Augmented Generation) systems. TRIAD leverages multiple LLM models to create high-quality QA datasets from complex document collections.
 
