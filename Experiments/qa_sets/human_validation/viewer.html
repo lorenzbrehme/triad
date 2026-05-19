@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>MHQA Viewer</title>
+
+<style>
+body{
+    font-family: Arial, sans-serif;
+    margin:40px;
+    background:#f7f7f7;
+}
+
+h1{
+    margin-bottom:20px;
+}
+
+.controls{
+    margin-bottom:20px;
+}
+
+select,input{
+    padding:6px;
+    margin-right:10px;
+}
+
+.card{
+    background:white;
+    padding:20px;
+    margin-bottom:20px;
+    border-radius:8px;
+    box-shadow:0 2px 6px rgba(0,0,0,0.1);
+}
+
+.question{
+    font-weight:bold;
+    font-size:18px;
+}
+
+.answer{
+    margin-top:5px;
+    color:#0a7a2f;
+    font-weight:bold;
+}
+
+.meta{
+    margin-top:8px;
+    color:#555;
+}
+
+details{
+    margin-top:10px;
+}
+
+.context{
+    background:#fafafa;
+    padding:10px;
+    border-radius:6px;
+    margin-top:5px;
+}
+
+.relevant{
+    border-left:5px solid green;
+}
+
+.notrelevant{
+    border-left:5px solid #ccc;
+}
+</style>
+</head>
+
+<body>
+
+<h1>MHQA Dataset Viewer</h1>
+
+<div class="controls">
+<label>Type:</label>
+<select id="typeFilter">
+<option value="all">All</option>
+</select>
+
+<label>Binary:</label>
+<select id="binaryFilter">
+<option value="all">All</option>
+<option value="true">True</option>
+<option value="false">False</option>
+</select>
+
+<label>Accepted:</label>
+<select id="acceptedFilter">
+<option value="all">All</option>
+<option value="true">True</option>
+<option value="false">False</option>
+</select>
+
+<label>Both Context Flags False:</label>
+<select id="bothFlagsFalseFilter">
+<option value="all">All</option>
+<option value="true">Yes</option>
+<option value="false">No</option>
+</select>
+
+<label>Both Context Flags False:</label>
+<select id="bothFlagsFalseFilter">
+<option value="all">All</option>
+<option value="true">Yes</option>
+<option value="false">No</option>
+</select>
+
+<input type="file" id="fileInput">
+</div>
+
+<div id="filterSummary" style="margin-bottom:12px; font-weight:bold; color:#333;"></div>
+<div id="container"></div>
+
+<script>
+
+let data = []
+
+document.getElementById("fileInput").addEventListener("change",function(e){
+
+    const reader = new FileReader()
+
+    reader.onload = function(){
+        data = JSON.parse(reader.result)
+        initFilters()
+        render()
+    }
+
+    reader.readAsText(e.target.files[0])
+
+})
+
+function initFilters(){
+
+    const types = [...new Set(data.map(d=>d.type))]
+    const typeFilter = document.getElementById("typeFilter")
+
+    types.forEach(t=>{
+        const opt = document.createElement("option")
+        opt.value = t
+        opt.textContent = t
+        typeFilter.appendChild(opt)
+    })
+}
+
+document.getElementById("typeFilter").addEventListener("change",render)
+document.getElementById("binaryFilter").addEventListener("change",render)
+document.getElementById("acceptedFilter").addEventListener("change",render)
+document.getElementById("bothFlagsFalseFilter").addEventListener("change",render)
+
+function getAcceptedValue(item){
+    return item.quality_validation && typeof item.quality_validation.accepted !== 'undefined' ? String(item.quality_validation.accepted) : ''
+}
+
+function hasBothContextFlagsFalse(item){
+    return Array.isArray(item.sufficient_context_flags) && item.sufficient_context_flags.length >= 2 && item.sufficient_context_flags[0] === false && item.sufficient_context_flags[1] === false
+}
+
+function render(){
+
+    const container = document.getElementById("container")
+    container.innerHTML = ""
+
+    const typeFilter = document.getElementById("typeFilter").value
+    const binaryFilter = document.getElementById("binaryFilter").value
+    const acceptedFilter = document.getElementById("acceptedFilter").value
+    const bothFlagsFalseFilter = document.getElementById("bothFlagsFalseFilter").value
+
+    const filterSummary = document.getElementById("filterSummary")
+    filterSummary.textContent = `Accepted: ${acceptedFilter}, Both Context Flags False: ${bothFlagsFalseFilter}`
+
+    const filtered = data.filter(d=>{
+
+        if(typeFilter !== "all" && d.type !== typeFilter) return false
+
+        if(binaryFilter !== "all" && String(d.binary) !== binaryFilter) return false
+
+        if(acceptedFilter !== "all" && getAcceptedValue(d) !== acceptedFilter) return false
+
+        if(bothFlagsFalseFilter !== "all" && String(hasBothContextFlagsFalse(d)) !== bothFlagsFalseFilter) return false
+
+        return true
+    })
+
+    if(filtered.length === 0){
+        container.innerHTML = '<p>Keine Einträge gefunden.</p>'
+        return
+    }
+
+    filtered.forEach(item=>{
+
+        const card = document.createElement("div")
+        card.className="card"
+
+        const chunks = Array.isArray(item.chunks) ? item.chunks : []
+        const extractedContexts = Array.isArray(item.extracted_contexts) ? item.extracted_contexts : []
+
+        const chunksHTML = chunks.map(c=>`<div class="context">${c}</div>`).join("")
+
+        const extractedHTML = extractedContexts.map(c=>{
+
+            const cls = c.relevant === "Relevant" ? "relevant":"notrelevant"
+
+            return `
+            <div class="context ${cls}">
+                <b>${c.relevant || 'Unbekannt'}</b><br>
+                ${c.context || ''}
+            </div>
+            `
+        }).join("")
+
+        card.innerHTML = `
+            <div class="question">${item.multi_hop_question || 'N/A'}</div>
+            <div class="answer">Answer: ${item.multi_hop_answer || 'N/A'}</div>
+
+            <div class="meta">
+                ID: ${item.id || 'N/A'} |
+                Type: ${item.type || 'N/A'} |
+                Binary: ${item.binary ?? 'N/A'} |
+                Bridging Topic: ${item.bridging_topic || 'N/A'}
+            </div>
+
+            <details>
+                <summary>Main Context (chunks)</summary>
+                ${chunksHTML || '<div class="context">Keine Chunks vorhanden.</div>'}
+            </details>
+
+            <details>
+                <summary>Extracted Contexts</summary>
+                ${extractedHTML || '<div class="context">Keine extrahierten Kontexte vorhanden.</div>'}
+            </details>
+        `
+
+        container.appendChild(card)
+    })
+
+}
+
+</script>
+
+</body>
+</html>

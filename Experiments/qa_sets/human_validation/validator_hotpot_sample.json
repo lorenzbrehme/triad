@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "chunks": [
+            "The 2005\u201306 season is FC Vaslui's 4th season of its existence, and its first, in Divizia A.  FC Vaslui has promoted last season, after finished 1st in Liga II.  In the summer, a lot of experienced players were signed, but after 15 matches, FC Vaslui was in the 16th place, having no victory, with only 6 points (all draws).  In the winter, FC Vaslui bought Hu\u0163an, Sf\u00e2rlea, Bukvi\u0107 and Mihalcea.  The team impressed in the second half of the season, finishing on 7th place.  FC Vaslui assured its presence in the next season in Liga I, on 29th matchday.  In the last game of the season, Steaua came to Vaslui, who needed a victory to assure its 23rd title.  Unsurprisingly, Steaua won the match, but the win was very contested by Rapid Bucuresti's officials, but also by the team owner, Adrian Porumboiu.  On the very next day, he announced his retirement from FC Vaslui, and the team also remained with only 8 players for the new season. ",
+            "The Liga I (] ; English: First League ), also spelled Liga 1 (] ; English: League One ), is a Romanian professional league for men's association football clubs.  It is currently sponsored by betting company Betano, and thus officially known as the Liga 1 Betano.  At the top of the Romanian football league system, it is the country's primary football competition.  Contested by 14 clubs, it operates on a system of promotion and relegation with Liga II.  The teams play 26 matches each in the regular season, and then enter the play-off or the play-out according to their position in the regular season. "
+        ],
+        "bridging_topic": "Liga II",
+        "multi_hop_question": "Was FC Vaslui's final position in Liga II a numerically lower rank than the total number of clubs contesting Liga I?",
+        "multi_hop_answer": "Yes",
+        "type": "comparison_question",
+        "binary": false,
+        "quality_validation": {
+            "reason": "The question is invalid for two primary reasons. First, it fails the 'Answerability' and 'Correctness' criteria: the context states FC Vaslui finished 1st in Liga II, but it does not provide the total number of clubs in Liga I during that specific season (the context mentions 14 clubs for the 'current' Liga I, but does not equate this to the 2005-06 season timeframe). Second, it relies on a temporal mismatch where the 'current' Liga I size is applied to a historical record, leading to an answer that cannot be verified solely from the provided chunks. To improve, the question should explicitly state the context year or league size being referenced: 'According to the provided text, did FC Vaslui finish in 1st place in Liga II, and how does this rank compare to the 14 clubs currently in Liga I?'",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is invalid for two primary reasons. First, it fails the 'Answerability' and 'Correctness' criteria: the context states FC Vaslui finished 1st in Liga II, but it does not provide the total number of clubs in Liga I during that specific season (the context mentions 14 clubs for the 'current' Liga I, but does not equate this to the 2005-06 season timeframe). Second, it relies on a temporal mismatch where the 'current' Liga I size is applied to a historical record, leading to an answer that cannot be verified solely from the provided chunks. To improve, the question should explicitly state the context year or league size being referenced: 'According to the provided text, did FC Vaslui finish in 1st place in Liga II, and how does this rank compare to the 14 clubs currently in Liga I?'\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 2,
+        "chunks": [
+            "The Romanian Raven Shepherd Dog is a very large Romanian livestock guardian dog, taxonomized within the second group of dog breeds - Pinscher and Schanuzer - Molossoid Breeds - Swiss Mountain and Cattle Dogs, section 2.2: Molossoid Breeds - Mountain type. ",
+            "The breed originates from Asia Minor.  It came to Hungary at the end of the 18th century through Balkans and Romania, these former Hungarian names prove the fact: Zombori sheep, Ol\u00e1h sheep but they called it berke too (nowadays they call it Cig\u00e1ja).  Its name originates from the Romanian \u00feig\u00e1ie word.  It has become widely spread because people bred it for three different things: its flesh, its milk and its soft wool.  Lots of Transylvanian farmers changed their ordinary sheep to Tsigai, because people bought its wool much more.  Although it was a mountain sheep it adapted to lowlands really fast.  Most of the Tsigais were kept between the Danube and the Tisza, and this is where they remained breed them after the I. World War too.  In Hungary it's not an endangered species but they are living in small stocks.  In Moldova it is the leading breed of sheep, and it is also important in Romania and Slovakia. "
+        ],
+        "bridging_topic": "Romanian",
+        "multi_hop_question": "Which animal breed, the Romanian Raven Shepherd Dog or the Tsigai, is explicitly stated in the provided text as originating from Asia Minor?",
+        "multi_hop_answer": "Tsigai",
+        "type": "comparison_question",
+        "binary": false,
+        "quality_validation": {
+            "reason": "The question is of low quality for a RAG system because it references 'the provided text' explicitly. According to the instructions, the question must be standalone and meaningful without access to the context. A user querying a database should not have to include phrases like 'in the provided text' in their search query. Additionally, the question is ambiguous/incorrect because the context states the Tsigai originates from Asia Minor, but the context does NOT mention the origin of the Romanian Raven Shepherd Dog; therefore, the premise 'Which animal breed... is explicitly stated' forces the retriever to evaluate a comparative claim that the context doesn't fully support for both subjects. To improve: 'Where did the Tsigai sheep breed originate?'",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            true
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is of low quality for a RAG system because it references 'the provided text' explicitly. According to the instructions, the question must be standalone and meaningful without access to the context. A user querying a database should not have to include phrases like 'in the provided text' in their search query. Additionally, the question is ambiguous/incorrect because the context states the Tsigai originates from Asia Minor, but the context does NOT mention the origin of the Romanian Raven Shepherd Dog; therefore, the premise 'Which animal breed... is explicitly stated' forces the retriever to evaluate a comparative claim that the context doesn't fully support for both subjects. To improve: 'Where did the Tsigai sheep breed originate?'\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "yes"
+        ]
+    },
+    {
+        "id": 3,
+        "chunks": [
+            "Katharine Juliet Ross (born January 29, 1940) is an American film and stage actress.  She starred in three of the most popular films of the 1960s and 1970s: as Elaine Robinson in \"The Graduate\" (1967), for which she received an Academy Award nomination for Best Supporting Actress; as Etta Place in \"Butch Cassidy and the Sundance Kid\" (1969), for which she won a BAFTA Award for Best Actress; and \"The Stepford Wives\" (1975).  She won a Golden Globe for \"Voyage of the Damned\" (1976). ",
+            "Katharine Houghton Hepburn (May 12, 1907\u00a0\u2013 June 29, 2003) was an American actress.  Known for her fierce independence and spirited personality, Hepburn was a leading lady in Hollywood for more than 60 years.  She appeared in a range of genres, from screwball comedy to literary drama, and she received four Academy Awards\u2014a record for any performer\u2014for Best Actress.  In 1999, Hepburn was named by the American Film Institute as the greatest female star of Classic Hollywood Cinema. "
+        ],
+        "bridging_topic": "Academy Award",
+        "multi_hop_question": "Did the actress who received an Academy Award nomination for Best Supporting Actress also win four Academy Awards for Best Actress?",
+        "multi_hop_answer": "No",
+        "type": "attribute_composition",
+        "binary": true,
+        "quality_validation": {
+            "reason": "The question is of low quality for a RAG system because it fails the 'Standalone Retrieval Clarity' and 'Explicit Entity Grounding' criteria. The question uses the phrase 'the actress who received an Academy Award nomination for Best Supporting Actress' without naming her. Because there could be many actresses who have received such a nomination, the retriever would not know which specific actress or documents to target, forcing the system to rely on the context to identify the subject rather than the question itself. To improve this, the question should explicitly name the actress: 'Did Katharine Ross, who received an Academy Award nomination for Best Supporting Actress, also win four Academy Awards for Best Actress?'",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is of low quality for a RAG system because it fails the 'Standalone Retrieval Clarity' and 'Explicit Entity Grounding' criteria. The question uses the phrase 'the actress who received an Academy Award nomination for Best Supporting Actress' without naming her. Because there could be many actresses who have received such a nomination, the retriever would not know which specific actress or documents to target, forcing the system to rely on the context to identify the subject rather than the question itself. To improve this, the question should explicitly name the actress: 'Did Katharine Ross, who received an Academy Award nomination for Best Supporting Actress, also win four Academy Awards for Best Actress?'\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 4,
+        "chunks": [
+            "KVKI-FM (96.5 FM) is a radio station broadcasting an adult contemporary music format.  Licensed to Shreveport, Louisiana, United States, the station serves the Shreveport area.  The station is currently owned by Townsquare Media.  Its studios are shared with its other five sister stations in West Shreveport (one mile west of Shreveport Regional Airport), and the transmitter is in Blanchard, Louisiana.  The call letters were originally KBCL, and later became religious station KEPT, before the call letters were changed to KVKI to be similar to the call letters of the popular KVIL radio station in Dallas, Texas. ",
+            "KVOM (800 AM, ) is a radio station licensed to serve Morrilton, Arkansas, United States.  The station is owned by Bobby Caldwell's East Arkansas Broadcasters, through licensee EAB of Morrilton, LLC.  KVOM translates on K223CR-FM 92.5, presenting a format of oldies rock and roll, R&B and pop, along with news, weather, local sports and St. Louis Cardinal baseball. "
+        ],
+        "bridging_topic": "United States",
+        "multi_hop_question": "Is the radio station owned by Townsquare Media located in the same country as the station that broadcasts St. Louis Cardinal baseball?",
+        "multi_hop_answer": "Yes",
+        "type": "attribute_composition",
+        "binary": true,
+        "quality_validation": {
+            "reason": "The question is of low quality for RAG because it fails the 'Standalone Retrieval Clarity' and 'Explicit Entity Grounding' criteria. While it mentions 'Townsquare Media' and 'St. Louis Cardinal baseball', it relies on the internal context to establish the links between these entities and specific stations. More importantly, the provided context describes two different stations (KVKI-FM and KVOM), but it does not provide a comprehensive list or a database to verify if there are other Townsquare Media stations or other stations broadcasting St. Louis Cardinal baseball. Furthermore, the question implies a comparison that cannot be factually resolved solely from the provided snippets, as the context for KVKI-FM mentions its ownership but not the broadcasting of baseball, and the context for KVOM mentions baseball but not its relationship to Townsquare Media. To improve, the question should explicitly name the specific radio stations being compared, e.g., 'Is the radio station KVKI-FM, which is owned by Townsquare Media, located in the same country as the radio station KVOM, which broadcasts St. Louis Cardinal baseball?'",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is of low quality for RAG because it fails the 'Standalone Retrieval Clarity' and 'Explicit Entity Grounding' criteria. While it mentions 'Townsquare Media' and 'St. Louis Cardinal baseball', it relies on the internal context to establish the links between these entities and specific stations. More importantly, the provided context describes two different stations (KVKI-FM and KVOM), but it does not provide a comprehensive list or a database to verify if there are other Townsquare Media stations or other stations broadcasting St. Louis Cardinal baseball. Furthermore, the question implies a comparison that cannot be factually resolved solely from the provided snippets, as the context for KVKI-FM mentions its ownership but not the broadcasting of baseball, and the context for KVOM mentions baseball but not its relationship to Townsquare Media. To improve, the question should explicitly name the specific radio stations being compared, e.g., 'Is the radio station KVKI-FM, which is owned by Townsquare Media, located in the same country as the radio station KVOM, which broadcasts St. Louis Cardinal baseball?'\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 5,
+        "chunks": [
+            "Epicureanism is a system of philosophy based upon the teachings of the ancient Greek philosopher Epicurus, founded around 307 BC.  Epicurus was an atomic materialist, following in the steps of Democritus.  His materialism led him to a general attack on superstition and divine intervention.  Following Aristippus\u2014about whom very little is known\u2014Epicurus believed that what he called \"pleasure\" was the greatest good, but that the way to attain such pleasure was to live modestly, to gain knowledge of the workings of the world, and to limit one's desires.  This would lead one to attain a state of tranquility (\"ataraxia\") and freedom from fear as well as an absence of bodily pain (\"aponia\").  The combination of these two states constitutes happiness in its highest form.  Although Epicureanism is a form of hedonism insofar as it declares pleasure to be its sole intrinsic goal, the concept that the absence of pain and fear constitutes the greatest pleasure, and its advocacy of a simple life, make it very different from \"hedonism\" as it is colloquially understood. ",
+            "Atomism or social atomism is a sociological theory arising from the scientific notion \"atomic theory\", coined by the ancient Greek philosopher Democritus and the Roman philosopher Lucretius.  In the scientific rendering of the word, atomism refers to the notion that all matter in the universe is composed of basic indivisible components, or atoms.  When placed into the field of sociology, atomism assigns the individual as the basic unit of analysis for all implications of social life.  This theory refers to \"the tendecy for society to be made up of a collection of self-interested and largely self-sufficient individuals, operating as separate atoms\".  Therefore, all social values, institutions, developments and procedures evolve entirely out of the interests and actions of the individuals who inhabit any particular society.  The individual is the \u2018atom\u2019 of society and therefore the only true object of concern and analysis. "
+        ],
+        "bridging_topic": "Democritus",
+        "multi_hop_question": "Did the founding of Epicureanism by Epicurus occur earlier than Democritus's coining of atomic theory?",
+        "multi_hop_answer": "No",
+        "type": "comparison_question",
+        "binary": true,
+        "quality_validation": {
+            "reason": "The question is of low quality for RAG because it is not fully answerable based solely on the provided context. While the context provides the founding date of Epicureanism (307 BC), it mentions that Democritus coined atomic theory but provides no timeframe or date for this event. Therefore, it is impossible to compare the two chronologically using only the provided text. Additionally, because the answer cannot be derived, the question is ambiguous and fails the requirement for factual grounding.",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is of low quality for RAG because it is not fully answerable based solely on the provided context. While the context provides the founding date of Epicureanism (307 BC), it mentions that Democritus coined atomic theory but provides no timeframe or date for this event. Therefore, it is impossible to compare the two chronologically using only the provided text. Additionally, because the answer cannot be derived, the question is ambiguous and fails the requirement for factual grounding.\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 6,
+        "chunks": [
+            "Hugh Milburn Stone, sometimes known as Milly Stone (July 5, 1904 \u2013 June 12, 1980), was an American film and television actor best known as \"Doc\" (Dr. Galen Adams) on the CBS western series \"Gunsmoke\". ",
+            "Gunsmoke is an American radio and television Western drama series created by director Norman Macdonnell and writer John Meston.  The stories take place in and around Dodge City, Kansas, during the settlement of the American West.  The central character is lawman Marshal Matt Dillon, played by William Conrad on radio and James Arness on television.  When aired in the UK, the television series was initially titled Gun Law, later reverting to \"Gunsmoke\". "
+        ],
+        "bridging_topic": "Gunsmoke",
+        "multi_hop_question": "Which character's common name or alias, associated with the 'Gunsmoke' series, is shorter: the one played by Hugh Milburn Stone or the one played by William Conrad?",
+        "multi_hop_answer": "Doc",
+        "type": "comparison_question",
+        "binary": false,
+        "quality_validation": {
+            "reason": "The question is of low quality for RAG because it fails the 'Standalone Retrieval Clarity' and 'Explicit Entity Grounding' criteria. While it mentions 'Gunsmoke', the question relies on the reader's prior knowledge to link the actors to their specific character roles or aliases within the context. Specifically, the context for William Conrad identifies him as playing 'Marshal Matt Dillon', but the question requires the retriever to infer that 'Matt Dillon' is the character/alias to be compared. Furthermore, the context does not explicitly list 'Doc' as an alias of comparable status to the character name 'Matt Dillon' in a way that makes the comparison straightforward without external processing. Most importantly, the phrasing 'the one played by...' refers to the character/alias without naming the character explicitly, creating a dependency on the context to resolve the identity of the characters before the comparison can be made. To improve: 'In the Gunsmoke series, which character name is shorter: Doc (played by Hugh Milburn Stone) or Matt Dillon (played by William Conrad)?'",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "```json\n{\n    \"reason\": \"The question is of low quality for RAG because it fails the 'Standalone Retrieval Clarity' and 'Explicit Entity Grounding' criteria. While it mentions 'Gunsmoke', the question relies on the reader's prior knowledge to link the actors to their specific character roles or aliases within the context. Specifically, the context for William Conrad identifies him as playing 'Marshal Matt Dillon', but the question requires the retriever to infer that 'Matt Dillon' is the character/alias to be compared. Furthermore, the context does not explicitly list 'Doc' as an alias of comparable status to the character name 'Matt Dillon' in a way that makes the comparison straightforward without external processing. Most importantly, the phrasing 'the one played by...' refers to the character/alias without naming the character explicitly, creating a dependency on the context to resolve the identity of the characters before the comparison can be made. To improve: 'In the Gunsmoke series, which character name is shorter: Doc (played by Hugh Milburn Stone) or Matt Dillon (played by William Conrad)?'\",\n    \"accepted\": false\n}\n```",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 7,
+        "chunks": [
+            "Gopalpur village is famous for producing Tussar fabrics.  It is in Jajpur District in the Indian state of Odisha.  This handicraft received the Geographical Indication tag by the Government of India in 2009.  Tussar textiles are related to dhoti, joda, Shawl stole, scarves and saris. ",
+            "Pashmina is a fine type of cashmere wool.  The textiles made from it were first woven in Kashmir, India.  The name comes from Persian: \u067e\u0634\u0645\u06cc\u0646\u0647\u200e \u200e / \"pa\u0161mina\", meaning \"made from wool\" and literally translates to \"Soft Gold\" in Kashmiri.  Pashmina shawls are known to pass entirely through a wearable ring with diameter of about half an inch.  Pashmina came to be known as 'cashmere' in the West because Europeans first encountered this fibre in Kashmir.  The wool comes from four distinct breeds of the Cashmere goat; namely the Changthangi or Kashmir Pashmina goat from the Changthang plateau in Kashmir region, the Malra from Kargil area in Kashmir region, the Chegu from Himachal Pradesh in northern India and Pakistan, and Chyangara or Nepalese Pashmina goat from Nepal.  These shawls are hand spun, and woven in Kashmir and Nepal, and made from fine cashmere fibre. "
+        ],
+        "bridging_topic": "India",
+        "multi_hop_question": "Is there a textile mentioned in the provided information that both received a Geographical Indication tag from the Government of India and was first woven in Kashmir, India?",
+        "multi_hop_answer": "No",
+        "type": "intersection_question",
+        "binary": true,
+        "quality_validation": {
+            "reason": "The question is rejected because it is poorly formulated for a RAG system. While it is self-contained and avoids pronouns, it asks a yes/no question that forces a search for a specific intersection of criteria. More importantly, the question relies on the phrasing 'mentioned in the provided information,' which is a 'meta' question style that is discouraged in RAG because it focuses on the document set rather than the actual topic. Additionally, while the question is technically answerable, it is inefficient: a better RAG query would directly ask for the entity or the status of a specific textile. To improve, the question should be framed as: 'Which textile, if any, holds both a Geographical Indication tag from the Government of India and originated in Kashmir?'",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is rejected because it is poorly formulated for a RAG system. While it is self-contained and avoids pronouns, it asks a yes/no question that forces a search for a specific intersection of criteria. More importantly, the question relies on the phrasing 'mentioned in the provided information,' which is a 'meta' question style that is discouraged in RAG because it focuses on the document set rather than the actual topic. Additionally, while the question is technically answerable, it is inefficient: a better RAG query would directly ask for the entity or the status of a specific textile. To improve, the question should be framed as: 'Which textile, if any, holds both a Geographical Indication tag from the Government of India and originated in Kashmir?'\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 8,
+        "chunks": [
+            "The 2005\u201306 season is FC Vaslui's 4th season of its existence, and its first, in Divizia A.  FC Vaslui has promoted last season, after finished 1st in Liga II.  In the summer, a lot of experienced players were signed, but after 15 matches, FC Vaslui was in the 16th place, having no victory, with only 6 points (all draws).  In the winter, FC Vaslui bought Hu\u0163an, Sf\u00e2rlea, Bukvi\u0107 and Mihalcea.  The team impressed in the second half of the season, finishing on 7th place.  FC Vaslui assured its presence in the next season in Liga I, on 29th matchday.  In the last game of the season, Steaua came to Vaslui, who needed a victory to assure its 23rd title.  Unsurprisingly, Steaua won the match, but the win was very contested by Rapid Bucuresti's officials, but also by the team owner, Adrian Porumboiu.  On the very next day, he announced his retirement from FC Vaslui, and the team also remained with only 8 players for the new season. ",
+            "The Liga I (] ; English: First League ), also spelled Liga 1 (] ; English: League One ), is a Romanian professional league for men's association football clubs.  It is currently sponsored by betting company Betano, and thus officially known as the Liga 1 Betano.  At the top of the Romanian football league system, it is the country's primary football competition.  Contested by 14 clubs, it operates on a system of promotion and relegation with Liga II.  The teams play 26 matches each in the regular season, and then enter the play-off or the play-out according to their position in the regular season. "
+        ],
+        "bridging_topic": "Liga II",
+        "multi_hop_question": "Was the number of players FC Vaslui had for the new season after Adrian Porumboiu retired numerically lower than the number of clubs that currently contest Liga I?",
+        "multi_hop_answer": "Yes",
+        "type": "comparison_question",
+        "binary": false,
+        "quality_validation": {
+            "reason": "The question is of low quality for RAG because it is 'context-dependent' in its construction. Specifically, it relies on the user already knowing or assuming that the provided text contains the information needed to answer the question, rather than being a standalone query. While the question provides the entities (FC Vaslui, Adrian Porumboiu, Liga I), the premise 'after Adrian Porumboiu retired' refers to a specific, context-bound event that is not independently verifiable or clear without reading the provided text. Furthermore, the question asks for a comparison of 'current' Liga I clubs against a specific number mentioned in a historical context, which is potentially confusing for a search engine. A better question would be: 'After Adrian Porumboiu retired from FC Vaslui, how many players remained for the new season, and how does that number compare to the number of clubs that currently contest Liga I?' This phrasing is more direct and ensures the retrieval engine has clear points of reference.",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is of low quality for RAG because it is 'context-dependent' in its construction. Specifically, it relies on the user already knowing or assuming that the provided text contains the information needed to answer the question, rather than being a standalone query. While the question provides the entities (FC Vaslui, Adrian Porumboiu, Liga I), the premise 'after Adrian Porumboiu retired' refers to a specific, context-bound event that is not independently verifiable or clear without reading the provided text. Furthermore, the question asks for a comparison of 'current' Liga I clubs against a specific number mentioned in a historical context, which is potentially confusing for a search engine. A better question would be: 'After Adrian Porumboiu retired from FC Vaslui, how many players remained for the new season, and how does that number compare to the number of clubs that currently contest Liga I?' This phrasing is more direct and ensures the retrieval engine has clear points of reference.\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 9,
+        "chunks": [
+            "Waterloo Bridge ( ) is a road and foot traffic bridge crossing the River Thames in London, between Blackfriars Bridge and Hungerford Bridge.  Its name commemorates the victory of the British, the Dutch and the Prussians at the Battle of Waterloo in 1815.  Thanks to its location at a strategic bend in the river, the views from the bridge (of Westminster, the South Bank and the London Eye to the west, and of the City of London and Canary Wharf to the east) are widely held to be the finest from any spot in London at ground level. ",
+            "Waterloo Road is the main road in the Waterloo district of London, England straddling the boroughs of Lambeth and Southwark.  It runs between Westminster Bridge Road close to St George's Circus at the south-east end and Waterloo Bridge across the River Thames towards London's West End district at the north-west end. "
+        ],
+        "bridging_topic": "Waterloo Bridge",
+        "multi_hop_question": "Considering Blackfriars Bridge and Westminster Bridge Road, which of these is identified as a road?",
+        "multi_hop_answer": "Westminster Bridge Road",
+        "type": "comparison_question",
+        "binary": false,
+        "quality_validation": {
+            "reason": "The question is of low quality for RAG because it relies on information that is not fully contained within the provided context. While the context mentions 'Westminster Bridge Road', it does not explicitly state that it is a 'road' (it is only used as a reference point for the location of Waterloo Road). More importantly, the context provides no information about 'Blackfriars Bridge' other than its name as a bridge, leaving the retriever or the model to rely on external knowledge or assume characteristics not explicitly defined in the provided text. The question is technically answerable by process of elimination or external knowledge, but fails the requirement that the answer must be derived *strictly* from the provided context.",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is of low quality for RAG because it relies on information that is not fully contained within the provided context. While the context mentions 'Westminster Bridge Road', it does not explicitly state that it is a 'road' (it is only used as a reference point for the location of Waterloo Road). More importantly, the context provides no information about 'Blackfriars Bridge' other than its name as a bridge, leaving the retriever or the model to rely on external knowledge or assume characteristics not explicitly defined in the provided text. The question is technically answerable by process of elimination or external knowledge, but fails the requirement that the answer must be derived *strictly* from the provided context.\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 10,
+        "chunks": [
+            "This is a list of chess books that are used as references in articles related to chess.  The list is organized by alphabetical order of the author's surname, then the author's first name, then the year of publication, then the alphabetical order of title. ",
+            "This page explains commonly used terms in board games in alphabetical order.  For a list of board games, see List of board games.  For terms specific to chess, see Glossary of chess.  For terms related to chess problems, see Glossary of chess problems. "
+        ],
+        "bridging_topic": "chess",
+        "multi_hop_question": "Do both provided texts describe a resource related to chess that is organized alphabetically?",
+        "multi_hop_answer": "Yes",
+        "type": "intersection_question",
+        "binary": true,
+        "quality_validation": {
+            "reason": "The question is rejected because it is not a high-quality RAG question. Specifically, it fails the 'Standalone Retrieval Clarity' criterion. The phrase 'both provided texts' relies on the user already knowing that these specific two chunks exist, rather than using explicit entity naming to retrieve them from a larger knowledge base. If this question were used in a production RAG system, the retriever would not know which documents correspond to 'both provided texts'. To improve this, the question should be specific: 'Are the 'list of chess books' and the 'glossary of board game terms' both organized in alphabetical order?'",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is rejected because it is not a high-quality RAG question. Specifically, it fails the 'Standalone Retrieval Clarity' criterion. The phrase 'both provided texts' relies on the user already knowing that these specific two chunks exist, rather than using explicit entity naming to retrieve them from a larger knowledge base. If this question were used in a production RAG system, the retriever would not know which documents correspond to 'both provided texts'. To improve this, the question should be specific: 'Are the 'list of chess books' and the 'glossary of board game terms' both organized in alphabetical order?'\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 11,
+        "chunks": [
+            "Ala Kart is a custom car, a customized 1929 Ford Model A roadster pickup, built by George Barris, Richard Peters, and Mike \"Blackie\" Gejeian in 1957.  Originally owned by Peters, it is a two-time winner of the Grand National Roadster Show \"America's Most Beautiful Roadster\" (AMBR) trophy (1958 and 1959) and \"Hot Rod\" cover car in October 1958.  Featured in hundreds of car shows, Ala Kart has won more than 200 trophies.  It has also made numerous appearances in movies, usually in the background of drive-in shots,<ref name=\"Hot Rod, 12/86, p.29 sidebar\">\"Hot Rod\", 12/86, p.29 sidebar. </ref> and dozens of magazine articles since.  It is considered \"one of the most iconic hot rods ever built.\" ",
+            "The Ford Mustang is an American car manufactured by Ford.  It was originally based on the platform of the second generation North American Ford Falcon, a compact car.  The original 1962 Ford Mustang I two-seater concept car had evolved into the 1963 Mustang II four-seater concept car which Ford used to pretest how the public would take interest in the first production Mustang.  The 1963 Mustang II concept car was designed with a variation of the production model's front and rear ends with a roof that was 2.7 inches shorter.  Introduced early on April 17, 1964 (16 days after the Plymouth Barracuda), and thus dubbed as a \"1964\u00bd\" by Mustang fans, the 1965 Mustang was the automaker's most successful launch since the Model A.  The Mustang has undergone several transformations to its current sixth generation. "
+        ],
+        "bridging_topic": "Ford",
+        "multi_hop_question": "Did the Ford Model A appear in movies and serve as a benchmark for a successful car launch for Ford?",
+        "multi_hop_answer": "Yes",
+        "type": "intersection_question",
+        "binary": true,
+        "quality_validation": {
+            "reason": "The question is rejected for two primary reasons. First, it fails the 'Answerability' and 'Correctness' criteria: the context confirms that the Ford Mustang's launch was compared to the Model A, but the context does not contain information to verify whether the Model A itself appeared in movies. The context mentions that the 'Ala Kart' (a custom 1929 Ford Model A) appeared in movies, but not the Ford Model A as a standard production vehicle. Second, the question is ambiguous because it conflates a specific custom vehicle ('Ala Kart') with the general 'Ford Model A'. To improve the question, specify the exact vehicle or context intended, e.g., 'Did the 1965 Ford Mustang launch compare to the success of the Ford Model A, and did the Ala Kart custom 1929 Ford Model A appear in movies?'",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is rejected for two primary reasons. First, it fails the 'Answerability' and 'Correctness' criteria: the context confirms that the Ford Mustang's launch was compared to the Model A, but the context does not contain information to verify whether the Model A itself appeared in movies. The context mentions that the 'Ala Kart' (a custom 1929 Ford Model A) appeared in movies, but not the Ford Model A as a standard production vehicle. Second, the question is ambiguous because it conflates a specific custom vehicle ('Ala Kart') with the general 'Ford Model A'. To improve the question, specify the exact vehicle or context intended, e.g., 'Did the 1965 Ford Mustang launch compare to the success of the Ford Model A, and did the Ala Kart custom 1929 Ford Model A appear in movies?'\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 12,
+        "chunks": [
+            "Ringling is a small unincorporated community in southern Meagher County, Montana, United States, along the route of U.S. Route 89.  The town was a station stop on the transcontinental main line of the Chicago, Milwaukee, St. Paul and Pacific Railroad (\"the Milwaukee Road\"); it was also the southern terminus of the White Sulphur Springs and Yellowstone Park Railway, which ran from Ringling to White Sulphur Springs.  Ringling served as a community center for ranchers and homesteaders in the vicinity, but the town's population declined throughout most of the twentieth century as the region's agricultural activity dwindled.  Both railroad lines through Ringling were abandoned in 1980, and only a handful of people remain in the town today. ",
+            "Ingomar is a small unincorporated community in northwestern Rosebud County, Montana, United States, along the route of U.S. Route 12.  The town was established in 1908, as a station stop on the Chicago, Milwaukee, St. Paul and Pacific Railroad, then under construction in Montana.  Although the land around Ingomar attracted numerous homesteaders during the decade following the railroad's completion, the region proved to be far too arid and inhospitable for intensive agricultural use, and by the 1920s the town was in decline.  The railroad through the area was abandoned in 1980, and only a handful of people remain in Ingomar today. "
+        ],
+        "bridging_topic": "Montana",
+        "multi_hop_question": "Which railroad operated a transcontinental main line through a community in southern Meagher County, Montana, and also served as a station stop for a community established in 1908?",
+        "multi_hop_answer": "Chicago, Milwaukee, St. Paul and Pacific Railroad",
+        "type": "intersection_question",
+        "binary": false,
+        "quality_validation": {
+            "reason": "The question is of low quality for RAG because it is 'leaky'\u2014it relies on the hidden context to be understood as a singular query. While it is specific, it functions as a riddle that requires the retriever to synthesize information across multiple specific locations (Ringling and Ingomar) that are not named in the question. A retriever would struggle to find the correct chunks because the query is too abstract; it asks for a railroad based on characteristics of two different communities without naming the communities or identifying the link between them. To improve, the question should be more direct, such as: 'Which railroad operated as a station stop for both Ringling, Montana, and the community of Ingomar, Montana?'",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is of low quality for RAG because it is 'leaky'\u2014it relies on the hidden context to be understood as a singular query. While it is specific, it functions as a riddle that requires the retriever to synthesize information across multiple specific locations (Ringling and Ingomar) that are not named in the question. A retriever would struggle to find the correct chunks because the query is too abstract; it asks for a railroad based on characteristics of two different communities without naming the communities or identifying the link between them. To improve, the question should be more direct, such as: 'Which railroad operated as a station stop for both Ringling, Montana, and the community of Ingomar, Montana?'\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 13,
+        "chunks": [
+            "Keadue Rovers Football Club is a football club based in Keadue, County Donegal currently playing in the Ulster Senior League.  Founded in 1896, Keadue play their soccer at Central Park.  Nicknamed \"The Gulls\", Keadue are a well-respected junior football club in Ireland.  The club's most famous past player is Packie Bonner, who signed for Celtic at the age of 17 from Keadue Rovers.  Other famous sons to don the clubs famous candystripes were Dennis Bonner Galway United, Tony Boyle All Ireland winner with Donegal in 1992, Martin Ferry (formerly of Ayr United, currently Limavady United), Lee Boyle of Aston Villa and Mark Forker (former of Heart of Midlothian and currently at Institute).  Other names synonymous with the club are its most successful manager, Manus McCole and Anthony \"Dutch\" Doherty.  The club celebrated its centenary in 1996 with Celtic playing a game at Central Park. ",
+            "Shamrock Rovers Football Club (Irish: \"Cumann Peile Ruagair\u00ed na Seamr\u00f3ige\" ) is an Irish association football club based in Tallaght, South Dublin.  The club's senior team competes in the League of Ireland Premier Division and it is the most successful club in the Republic of Ireland.  The club has won the League of Ireland title a record 17 times and the FAI Cup a record 24 times.  Shamrock Rovers have supplied more players to the Republic of Ireland national football team (62) than any other club.  In All-Ireland competitions, such as the Intercity Cup, they hold the record for winning the most titles, having won seven cups overall. "
+        ],
+        "bridging_topic": "Republic of Ireland",
+        "multi_hop_question": "Which Irish association football club had a player who signed for Celtic?",
+        "multi_hop_answer": "Keadue Rovers Football Club",
+        "type": "intersection_question",
+        "binary": false,
+        "quality_validation": {
+            "reason": "The question is of low quality for RAG because it is ambiguous and relies on the provided context to define its scope. The question asks 'Which Irish association football club...', but the context contains information about multiple clubs (Keadue Rovers and Shamrock Rovers), and many Irish clubs have historically had players sign for Celtic. Furthermore, the question is ambiguous because it does not specify a timeframe or a unique identifier to distinguish between potential answers that might exist within a larger dataset (or even within the provided context, as other clubs could theoretically fit this description). To improve this, the question should be made more specific, for example: 'According to the provided text, which junior football club based in County Donegal produced Packie Bonner before he signed for Celtic?'",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            true,
+            false
+        ],
+        "quality_validation_original_response": "```json\n{\n    \"reason\": \"The question is of low quality for RAG because it is ambiguous and relies on the provided context to define its scope. The question asks 'Which Irish association football club...', but the context contains information about multiple clubs (Keadue Rovers and Shamrock Rovers), and many Irish clubs have historically had players sign for Celtic. Furthermore, the question is ambiguous because it does not specify a timeframe or a unique identifier to distinguish between potential answers that might exist within a larger dataset (or even within the provided context, as other clubs could theoretically fit this description). To improve this, the question should be made more specific, for example: 'According to the provided text, which junior football club based in County Donegal produced Packie Bonner before he signed for Celtic?'\",\n    \"accepted\": false\n}\n```",
+        "sufficient_context_original_responses": [
+            "yes",
+            "no"
+        ]
+    },
+    {
+        "id": 14,
+        "chunks": [
+            "The Move are a British rock band of the late 1960s and the early 1970s.  They scored nine Top 20 UK singles in five years, but were among the most popular British bands not to find any real success in the United States.  Although bassist-vocalist Chris \"Ace\" Kefford was the original leader, for most of their career the Move was led by guitarist, singer and songwriter Roy Wood.  He wrote all the group's UK singles and, from 1968, also sang lead vocals on many songs, although Carl Wayne was the main lead singer up to 1970.  Initially, the band had 4 main vocalists (Wayne, Wood, Trevor Burton and Kefford) who split the lead vocals on a number of their earlier songs. ",
+            "Duran Duran ( ) are an English new wave and synth-pop band formed in Birmingham in 1978.  The band grew from alternative sensations in 1982 to mainstream pop stars by 1984.  By the end of the decade, membership and music style changes challenged the band before a resurgence in the early 1990s.  The group were a leading band in the MTV-driven \"Second British Invasion\" of the US.  The band achieved 14 singles in the top 10 of the UK Singles Chart and 21 in the \"Billboard\" Hot 100, and have sold over 70 million records worldwide. "
+        ],
+        "bridging_topic": "UK",
+        "multi_hop_question": "Which British band, whose formation year was after the period The Move was led by Roy Wood, was formed in Birmingham and achieved 14 singles in the top 10 of the UK Singles Chart?",
+        "multi_hop_answer": "Duran Duran",
+        "type": "intersection_question",
+        "binary": false,
+        "quality_validation": {
+            "reason": "The question is rejected because it is not fully answerable using ONLY the provided context. While the context provides details about 'The Move' (their era and leadership) and 'Duran Duran' (formation location and UK chart success), the context DOES NOT contain information regarding the specific years of The Move's leadership under Roy Wood or their formation timeline, nor does it provide a comparative timeline to verify if Duran Duran's formation (1978) was indeed 'after the period The Move was led by Roy Wood.' The user is required to use external knowledge of music history to validate the temporal premise of the question. Additionally, the question relies on an implicit assumption that the answer can be deduced from the two snippets, but the necessary temporal link is missing from the provided text.",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is rejected because it is not fully answerable using ONLY the provided context. While the context provides details about 'The Move' (their era and leadership) and 'Duran Duran' (formation location and UK chart success), the context DOES NOT contain information regarding the specific years of The Move's leadership under Roy Wood or their formation timeline, nor does it provide a comparative timeline to verify if Duran Duran's formation (1978) was indeed 'after the period The Move was led by Roy Wood.' The user is required to use external knowledge of music history to validate the temporal premise of the question. Additionally, the question relies on an implicit assumption that the answer can be deduced from the two snippets, but the necessary temporal link is missing from the provided text.\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 15,
+        "chunks": [
+            "Konstantin Andreyevich Trenyov (\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u2032\u043d \u0410\u043d\u0434\u0440\u0435\u2032\u0435\u0432\u0438\u0447 \u0422\u0440\u0435\u043d\u0451\u2032\u0432, 2 June\u00a0[O.S. 19 May]\u00a01876 , Baksheevka, Kharkov Governorate, Russian Empire, now Ukraine - May 19, 1945, Moscow, USSR) was a Soviet Russian writer and playwright, USSR State Prize laureate (1941), best known for his Russian Civil War history drama \"Lyubov Yarovaya\" (1926). ",
+            "Grand Duke Konstantin Konstantinovich of Russia (Russian: \u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u0301\u043d \u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u0301\u043d\u043e\u0432\u0438\u0447 ; ] ; 22 August 1858 in Strelna \u2013 15 June 1915 in Pavlovsk) was a grandson of Emperor Nicholas I of Russia, and a poet and playwright of some renown.  He wrote under the pen name \"K.R.\", initials of his given name and family name, Konstantin Romanov. "
+        ],
+        "bridging_topic": "Russian Empire",
+        "multi_hop_question": "Was the writer best known for 'Lyubov Yarovaya' born in the same country as a grandson of Emperor Nicholas I of Russia?",
+        "multi_hop_answer": "Yes",
+        "type": "attribute_composition",
+        "binary": true,
+        "quality_validation": {
+            "reason": "The question is of low quality for RAG because it relies on the context to identify the subject. Specifically, the phrase 'the writer best known for Lyubov Yarovaya' serves as a pointer to the context rather than being a standalone, searchable query. If a retriever were to search for this question, it might struggle to match it to the correct document because the name of the writer is not explicitly stated in the question. To make this a high-quality RAG question, the name of the writer should be explicitly included. Suggested improvement: 'Was Konstantin Andreyevich Trenyov born in the same country as Grand Duke Konstantin Konstantinovich of Russia?'",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is of low quality for RAG because it relies on the context to identify the subject. Specifically, the phrase 'the writer best known for Lyubov Yarovaya' serves as a pointer to the context rather than being a standalone, searchable query. If a retriever were to search for this question, it might struggle to match it to the correct document because the name of the writer is not explicitly stated in the question. To make this a high-quality RAG question, the name of the writer should be explicitly included. Suggested improvement: 'Was Konstantin Andreyevich Trenyov born in the same country as Grand Duke Konstantin Konstantinovich of Russia?'\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 16,
+        "chunks": [
+            "Milk and Honey is an album by John Lennon and Yoko Ono released in 1984.  Following the compilation \"The John Lennon Collection\", it is Lennon's eighth and final studio album, and the first posthumous release of new Lennon music, having been recorded in the last months of his life during and following the sessions for their 1980 album \"Double Fantasy\".  It was assembled by Yoko Ono in association with the Geffen label. ",
+            "Lennon Legend: The Very Best of John Lennon is the third official compilation album of John Lennon's solo career, coming after 1975's \"Shaved Fish\" and 1982's \"The John Lennon Collection\".  Because neither collection spanned Lennon's releases up to and including 1984's \"Milk and Honey\", \"Lennon Legend: The Very Best of John Lennon\" \u2013 considered the definitive Lennon retrospective \u2013 was compiled to rectify the situation.  It was released in the UK in 1997 through Parlophone and early 1998 in the US by EMI Records. "
+        ],
+        "bridging_topic": "John Lennon",
+        "multi_hop_question": "Was the third official compilation album that was designed to include music from the first posthumous release by the artist of 'Double Fantasy' also released posthumously?",
+        "multi_hop_answer": "Yes",
+        "type": "attribute_composition",
+        "binary": true,
+        "quality_validation": {
+            "reason": "The question is of low quality for RAG retrieval for several reasons. First, it relies on overly complex, convoluted phrasing ('the third official compilation album that was designed to include music from the first posthumous release by the artist of 'Double Fantasy'') which makes it difficult for a vector-based retriever to map effectively to the content. Second, it violates the requirement for 'Standalone Retrieval Clarity' because the identity of the artist is hidden behind a description ('the artist of 'Double Fantasy'') rather than being explicitly named. A retrieval system performing a semantic search would struggle to identify the relevant documents because 'John Lennon' is not present in the question. Finally, while the answer is technically derivable through multiple steps of logical processing, the question itself is structurally confusing, violating the principle that RAG queries should be clear and explicitly grounded in identifiable entities.",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is of low quality for RAG retrieval for several reasons. First, it relies on overly complex, convoluted phrasing ('the third official compilation album that was designed to include music from the first posthumous release by the artist of 'Double Fantasy'') which makes it difficult for a vector-based retriever to map effectively to the content. Second, it violates the requirement for 'Standalone Retrieval Clarity' because the identity of the artist is hidden behind a description ('the artist of 'Double Fantasy'') rather than being explicitly named. A retrieval system performing a semantic search would struggle to identify the relevant documents because 'John Lennon' is not present in the question. Finally, while the answer is technically derivable through multiple steps of logical processing, the question itself is structurally confusing, violating the principle that RAG queries should be clear and explicitly grounded in identifiable entities.\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 17,
+        "chunks": [
+            "Chitram is a 2000 Telugu film written and directed by Teja.  This film stars Uday Kiran & Reema Sen in the lead roles and marked the debut of the lead actors.  The film was sensational hit in 2000.  The film is produced by Ramoji Rao and has music composed by R.P. Patnaik.  The film was released as \"Chithiram\" in Tamil in 2001 with the film mostly featuring scenes dubbed from the original although scenes involving Manivannan and Senthil were added.  \"Chitram\" and \"Nuvve Kavali\" were the two movies which set a trend of college campus romance stories in the same year.  The movie was remade in Kannada as \"Chithra\", starring Prabhu Deva's brother Nagendra Prasad and Rekha Vedavyas in 2001 under the direction of Dinesh Baboo and the production of Ramoji Rao.  The movie was a superhit in Kannada and marked the debut of the lead actors. ",
+            "Chirutha (English: \"Leopard\") is a 2007 Indian Telugu action film directed by Puri Jagannadh.  This film is an unofficial copy of Guy Ritchie's 2002 film, \"Swept Away\".  The film marks the debut of Ram Charan, son of the popular Telugu actor Chiranjeevi, in the lead role.  Delhi-based model Neha Sharma plays the female lead with Ashish Vidyarthi, Prakash Raj and Brahmanandam playing supporting roles.  The film revolves around Cherry, who searches for Mattubhai who murders his father during his childhood.  In the process, he falls in love with Sanjana and also finds his mother.  The rest of the plot shows how Cherry avenges his father's death. "
+        ],
+        "bridging_topic": "Telugu",
+        "multi_hop_question": "Who directed the Telugu film that featured the debut of Ram Charan, the son of popular Telugu actor Chiranjeevi, similar to how the lead actors debuted in a Telugu film produced by Ramoji Rao?",
+        "multi_hop_answer": "Puri Jagannadh",
+        "type": "attribute_composition",
+        "binary": false,
+        "quality_validation": {
+            "reason": "The question is rejected because it is unnecessarily complex and conflates unrelated information, leading to retrieval and logic issues. While the entities (Ram Charan, Chiranjeevi, Ramoji Rao) are explicitly named, the phrasing 'similar to how the lead actors debuted in a Telugu film produced by Ramoji Rao' makes it a 'leading' or comparative question that is not effectively answerable by simple retrieval. Furthermore, the question structure is cumbersome, making it difficult for a RAG system to isolate the target information (Who directed Ram Charan's debut film?) because the second half of the sentence adds extraneous information about Ramoji Rao's film production that is not actually necessary to identify the director of 'Chirutha'. To improve, the question should be split or simplified: 'Who directed the 2007 Telugu film Chirutha, which marked the debut of Ram Charan?'",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is rejected because it is unnecessarily complex and conflates unrelated information, leading to retrieval and logic issues. While the entities (Ram Charan, Chiranjeevi, Ramoji Rao) are explicitly named, the phrasing 'similar to how the lead actors debuted in a Telugu film produced by Ramoji Rao' makes it a 'leading' or comparative question that is not effectively answerable by simple retrieval. Furthermore, the question structure is cumbersome, making it difficult for a RAG system to isolate the target information (Who directed Ram Charan's debut film?) because the second half of the sentence adds extraneous information about Ramoji Rao's film production that is not actually necessary to identify the director of 'Chirutha'. To improve, the question should be split or simplified: 'Who directed the 2007 Telugu film Chirutha, which marked the debut of Ram Charan?'\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 18,
+        "chunks": [
+            "Kamen Rider Battle: Ganbaride (\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30d0\u30c8\u30eb \u30ac\u30f3\u30d0\u30e9\u30a4\u30c9 , Kamen Raid\u0101 Batoru Ganbaraido , \"Masked Rider Battle: Ganbaride\") is a combination of an arcade game and a collectible item game featuring the protagonists of the Kamen Rider Series.  The game is being released as part of the 10th anniversary of the Heisei run Kamen Rider Series by Toei, TV Asahi, Ishimori Productions, and Bandai and features heavy tie-ins with the television series \"Kamen Rider Decade\", whose protagonists use cards similar to those used in the game.  It is played in a similar fashion to Sega's \"\" and \"Dinosaur King\" games, and uses special Data Cardass cards released by Bandai.  The game's card input uses collectible card game terminologies, and has resemblance and functionality similarly to the Decadriver in \"Decade\".  As the series progresses, the game controls change to suit the new Kamen Rider.  During the airing of \"Kamen Rider OOO\", \"Ganbaride\" arcade systems included an OOO Driver interface for the toy Core Medals, and with the broadcast of \"Kamen Rider Fourze\", slots for the Astro Switches became available, and the system became 3 VS. 3.  With the current broadcast of \"Kamen Rider Wizard\", Wizard Rings are available to use, and the game has reverted to 2 VS. 2 battles.  Ever since \"Kamen Rider Gaim\"'s TV series airing until onwards, the game is now renamed to Kamen Rider Battle: Ganbarizing (\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30d0\u30c8\u30eb \u30ac\u30f3\u30d0\u30e9\u30a4\u30b8\u30f3\u30b0 , Kamen Raid\u0101 Batoru Ganbaraizingu , \"Masked Rider Battle: Ganbarizing\") . ",
+            "Takeshi Gear are items used in the Japanese \"tokusatsu\" television series, \"Kamen Rider Hibiki\".  The various Takeshi Gear are both ancient items as well as items using technology to advance the mystical power of the \"Oni Kamen\" Riders.  The Takeshi Gear is modeled after several Japanese and non-Japanese objects.  Ranging from tuning forks to whistles, these are some of the more distinctive transformation items used in any Kamen Rider series. "
+        ],
+        "bridging_topic": "Kamen Rider Series",
+        "multi_hop_question": "What is the name of the items that are modeled after objects like tuning forks and whistles, given that Astro Switches are used in the Kamen Rider Battle: Ganbaride game?",
+        "multi_hop_answer": "Takeshi Gear",
+        "type": "attribute_composition",
+        "binary": false,
+        "quality_validation": {
+            "reason": "The question is of low quality for RAG because it creates a false premise or a non-sequitur by connecting two unrelated pieces of information ('Astro Switches are used in the Kamen Rider Battle: Ganbaride game') to retrieve information about 'Takeshi Gear'. The provided context mentions Astro Switches in the context of the Ganbaride arcade game, but that information is irrelevant to the existence or definition of Takeshi Gear. A retriever would likely struggle to find a single chunk that connects these two distinct topics, and the user query implies a causal or factual relationship that does not exist in the source text. To improve, the question should be split into two parts or focus specifically on the definition of Takeshi Gear without the arbitrary inclusion of unrelated game mechanics.",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            true
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is of low quality for RAG because it creates a false premise or a non-sequitur by connecting two unrelated pieces of information ('Astro Switches are used in the Kamen Rider Battle: Ganbaride game') to retrieve information about 'Takeshi Gear'. The provided context mentions Astro Switches in the context of the Ganbaride arcade game, but that information is irrelevant to the existence or definition of Takeshi Gear. A retriever would likely struggle to find a single chunk that connects these two distinct topics, and the user query implies a causal or factual relationship that does not exist in the source text. To improve, the question should be split into two parts or focus specifically on the definition of Takeshi Gear without the arbitrary inclusion of unrelated game mechanics.\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "yes"
+        ]
+    },
+    {
+        "id": 19,
+        "chunks": [
+            "Garrabrant Ryerson Alyea (born December 8, 1940) is a former outfielder in Major League Baseball outfielder who played with four different teams from 1965 through 1972 . ",
+            "Gary Lawrence Ryerson (born June 17, 1948 at Los Angeles) is a former Major League Baseball pitcher.  Ryerson was drafted in the thirteenth round of the 1966 Major League Baseball draft by the San Francisco Giants.  In 1971, Ryerson was traded along with minor league player Wes Scott to the Milwaukee Brewers for John Morris.  During his time with the Brewers, Ryerson played parts of two seasons at the Major League level.  In 1973, he was traded along with Ollie Brown, Joe Lahoud, Skip Lockwood, and Ellie Rodr\u00edguez to the California Angels for Steve Barber, Ken Berry, Art Kusnyer, Clyde Wright, and cash.  Later that year, Ryerson was selected by the Giants in the Rule 5 draft, but never played at the Major League level with the organization. "
+        ],
+        "bridging_topic": "Major League Baseball",
+        "multi_hop_question": "What team did the Major League Baseball player play for who was traded to the Milwaukee Brewers in the same year that an outfielder named Ryerson was still actively playing?",
+        "multi_hop_answer": "Milwaukee Brewers",
+        "type": "attribute_composition",
+        "binary": false,
+        "quality_validation": {
+            "reason": "The question is rejected for the following reasons: 1) It fails the 'Standalone Retrieval Clarity' test because it refers to 'an outfielder named Ryerson' in a way that suggests the user is unsure if that specific person is the correct reference, making it ambiguous. 2) The logic is convoluted and internally contradictory based on the context: the context identifies 'Garrabrant Ryerson Alyea' as an outfielder (nicknamed 'Gates' or 'Garrabrant', but not commonly referred to by his middle name 'Ryerson'), while 'Gary Lawrence Ryerson' is a pitcher. The question asks about an outfielder named Ryerson, which does not clearly map to the context provided. 3) The question is confusingly phrased, making it difficult for a retrieval system to map the entities correctly. Suggested improvement: 'Which Major League Baseball team was John Morris traded from in 1971 when Gary Ryerson was traded to the Milwaukee Brewers?'",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is rejected for the following reasons: 1) It fails the 'Standalone Retrieval Clarity' test because it refers to 'an outfielder named Ryerson' in a way that suggests the user is unsure if that specific person is the correct reference, making it ambiguous. 2) The logic is convoluted and internally contradictory based on the context: the context identifies 'Garrabrant Ryerson Alyea' as an outfielder (nicknamed 'Gates' or 'Garrabrant', but not commonly referred to by his middle name 'Ryerson'), while 'Gary Lawrence Ryerson' is a pitcher. The question asks about an outfielder named Ryerson, which does not clearly map to the context provided. 3) The question is confusingly phrased, making it difficult for a retrieval system to map the entities correctly. Suggested improvement: 'Which Major League Baseball team was John Morris traded from in 1971 when Gary Ryerson was traded to the Milwaukee Brewers?'\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 20,
+        "chunks": [
+            "Garrabrant Ryerson Alyea (born December 8, 1940) is a former outfielder in Major League Baseball outfielder who played with four different teams from 1965 through 1972 . ",
+            "Gary Lawrence Ryerson (born June 17, 1948 at Los Angeles) is a former Major League Baseball pitcher.  Ryerson was drafted in the thirteenth round of the 1966 Major League Baseball draft by the San Francisco Giants.  In 1971, Ryerson was traded along with minor league player Wes Scott to the Milwaukee Brewers for John Morris.  During his time with the Brewers, Ryerson played parts of two seasons at the Major League level.  In 1973, he was traded along with Ollie Brown, Joe Lahoud, Skip Lockwood, and Ellie Rodr\u00edguez to the California Angels for Steve Barber, Ken Berry, Art Kusnyer, Clyde Wright, and cash.  Later that year, Ryerson was selected by the Giants in the Rule 5 draft, but never played at the Major League level with the organization. "
+        ],
+        "bridging_topic": "Major League Baseball",
+        "multi_hop_question": "To which Major League Baseball team was a pitcher drafted by the San Francisco Giants traded during the period when Garrabrant Ryerson Alyea was actively playing?",
+        "multi_hop_answer": "Milwaukee Brewers",
+        "type": "attribute_composition",
+        "binary": false,
+        "quality_validation": {
+            "reason": "The question is of low quality for RAG because it relies on external knowledge to link the entities. Specifically, the question asks about a pitcher drafted by the San Francisco Giants without naming the pitcher, and it asks about a timeframe defined by 'Garrabrant Ryerson Alyea'. While the context provides information about both Gary Lawrence Ryerson and Garrabrant Ryerson Alyea, a RAG system would struggle to perform the search because the query implies a search for an unnamed entity (the pitcher) whose identity must first be resolved via external knowledge or a multi-step inference process not fully supported by the prompt's request for standalone retrieval. Furthermore, 'Garrabrant Ryerson Alyea' is referred to in the context simply as 'Garrabrant Ryerson Alyea', but the question uses his full name as a reference point for a timeframe. A higher quality question would explicitly name the pitcher: 'To which team was Gary Lawrence Ryerson traded after being drafted by the San Francisco Giants?'",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is of low quality for RAG because it relies on external knowledge to link the entities. Specifically, the question asks about a pitcher drafted by the San Francisco Giants without naming the pitcher, and it asks about a timeframe defined by 'Garrabrant Ryerson Alyea'. While the context provides information about both Gary Lawrence Ryerson and Garrabrant Ryerson Alyea, a RAG system would struggle to perform the search because the query implies a search for an unnamed entity (the pitcher) whose identity must first be resolved via external knowledge or a multi-step inference process not fully supported by the prompt's request for standalone retrieval. Furthermore, 'Garrabrant Ryerson Alyea' is referred to in the context simply as 'Garrabrant Ryerson Alyea', but the question uses his full name as a reference point for a timeframe. A higher quality question would explicitly name the pitcher: 'To which team was Gary Lawrence Ryerson traded after being drafted by the San Francisco Giants?'\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    }
+]

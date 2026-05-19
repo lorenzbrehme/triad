@@ -1,0 +1,4211 @@
+{
+    "file_path": "musique_gpt-5-nano_5_chunks-bge-small-rag.json",
+    "average_scores": {
+        "correctness_aspect_critic": 0.3743037388792322,
+        "faithfulness_aspect_critic": 0.699907915308583,
+        "context_precision": 0.21633333333333335,
+        "context_recall": 0.5408333333333334
+    },
+    "detailed_results": [
+        {
+            "content": "Who is the spouse of the Green performer?",
+            "correctness_aspect_critic": 0.18895923304985657,
+            "faithfulness_aspect_critic": 0.6,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Who founded the company that distributed the film UHF?",
+            "correctness_aspect_critic": 0.18226374105902696,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What administrative territorial entity is the owner of Ciudad Deportiva located?",
+            "correctness_aspect_critic": 0.21570839193614136,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Where is Ulrich Walter's employer headquartered?",
+            "correctness_aspect_critic": 0.18347333891129008,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which company owns the manufacturer of Learjet 60?",
+            "correctness_aspect_critic": 0.9999996270337838,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the child of Caroline LeRoy's spouse?",
+            "correctness_aspect_critic": 0.7390027273929353,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the grandmother of Philippe, Duke of Orl\u00e9ans?",
+            "correctness_aspect_critic": 0.4184062959352097,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the goal of the group that European Movement Germany is a member of?",
+            "correctness_aspect_critic": 0.9707193583296095,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What company succeeded the owner of Empire Sports Network?",
+            "correctness_aspect_critic": 0.20973806953497037,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What province shares a border with the province where Lago District is located?",
+            "correctness_aspect_critic": 0.20335047722098656,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What league does the team that plays in Stadio Ciro Vigorito play for?",
+            "correctness_aspect_critic": 0.200005109900475,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is a notable work written by the author of The Timothy files?",
+            "correctness_aspect_critic": 0.19484290202301105,
+            "faithfulness_aspect_critic": 0.8333333333333334,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "In which borough was Callum McManaman born?",
+            "correctness_aspect_critic": 0.4243051531681016,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What other county does the county where Imperial is located share a border with?",
+            "correctness_aspect_critic": 0.4401196543674891,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "In what county is William W. Blair's birthplace located?",
+            "correctness_aspect_critic": 0.7400707909443747,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What award did the author of The Red Tree receive?",
+            "correctness_aspect_critic": 0.1900681821527905,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Where was Tyler MacDuff's child educated?",
+            "correctness_aspect_critic": 0.22689940785492121,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the spouse of the Rabbit Hole's producer?",
+            "correctness_aspect_critic": 0.19603040842192812,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the child of Sigrid Eskilsdotter's child?",
+            "correctness_aspect_critic": 0.21049079738483956,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "In which county is Kimbrough Memorial Stadium located?",
+            "correctness_aspect_critic": 0.19425077256610251,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What record label is the performer of Almost Made Ya signed to?",
+            "correctness_aspect_critic": 0.7331902876448773,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Where was the author of Hannibal and Scipio educated at?",
+            "correctness_aspect_critic": 0.187919874629862,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "In which county is Southern Maryland Electric Cooperative headquartered?",
+            "correctness_aspect_critic": 0.7418090846759672,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who is the child of the Victim of Romance performer?",
+            "correctness_aspect_critic": 0.21800685447092166,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What county was Tim Dubois born in?",
+            "correctness_aspect_critic": 0.4959769340490888,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What record label did the person who is part of The Bruce Lee Band start?",
+            "correctness_aspect_critic": 0.19903086017488997,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is another notable work made by the author of Miss Sara Sampson?",
+            "correctness_aspect_critic": 0.19534954364355647,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What instrument is played by the person from The Blackout All-Stars?",
+            "correctness_aspect_critic": 0.19313375647846037,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the seat of the county where Van Hook Township is located?",
+            "correctness_aspect_critic": 0.1791018195607188,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the father of Edward Baring, 1st Baron Revelstoke's father?",
+            "correctness_aspect_critic": 0.596987097841861,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What group was the performer of Be the One a member of?",
+            "correctness_aspect_critic": 0.6081440544908034,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the lead singer of the band performing Bang Bang Rock & Roll?",
+            "correctness_aspect_critic": 0.20220408782125635,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the network which National Cycle Route 57 is part of an example of?",
+            "correctness_aspect_critic": 0.23232293538640786,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who is the spouse of the child of Peter Andreas Heiberg?",
+            "correctness_aspect_critic": 0.9962587840064088,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "The Unwinding author volunteered for which organisation?",
+            "correctness_aspect_critic": 0.19324438122386545,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the capital of the county that Pine Springs is located in?",
+            "correctness_aspect_critic": 0.5159584275373785,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What district is the headquarter of Julia's House located?",
+            "correctness_aspect_critic": 0.19867922712806782,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the spouse of Young Man Luther's author?",
+            "correctness_aspect_critic": 0.996466103834234,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What record label did the performer of The Place and the Time belong to?",
+            "correctness_aspect_critic": 0.21610661384030286,
+            "faithfulness_aspect_critic": NaN,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the child of the person who followed Tihomir of Serbia?",
+            "correctness_aspect_critic": 0.73148309119815,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What team was Anna Benson's husband on?",
+            "correctness_aspect_critic": 0.6174740375297082,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What place does the administrative territorial entity that Juba is located in share a border with?",
+            "correctness_aspect_critic": 0.7465724228226849,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Where was the spouse of Frances Tupper born?",
+            "correctness_aspect_critic": 0.19228440098356037,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who founded the political party of Dimuthu Bandara Abayakoon?",
+            "correctness_aspect_critic": 0.5108428485414411,
+            "faithfulness_aspect_critic": 0.6,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Bancroft's county borders what county?",
+            "correctness_aspect_critic": 0.19441186617417378,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "In which county is Mark Dismore's birthplace located?",
+            "correctness_aspect_critic": 0.3875250843263487,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who was the sibling of Nannina de' Medici?",
+            "correctness_aspect_critic": 0.22194429472181343,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What county is the NRHEG High School located in?",
+            "correctness_aspect_critic": 0.7423847126194044,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What league does the team that occupies the Rabat Ajax Football Ground belong to?",
+            "correctness_aspect_critic": 0.19013010231569505,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who was married to the star of No Escape?",
+            "correctness_aspect_critic": 0.18513540236428513,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What administrative territorial entity contains the place where KPRM is licensed to broadcast to?",
+            "correctness_aspect_critic": 0.488663679157736,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Where are the headquarters for the publisher of In the Shadow of Greatness?",
+            "correctness_aspect_critic": 0.19506131841407168,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is part of the band that performed Full Cooperation?",
+            "correctness_aspect_critic": 0.2147212617873657,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "The territory containing Bansaan Island is located at which island?",
+            "correctness_aspect_critic": 0.22136032360981978,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "In which county did Snappy Tomato Pizza form?",
+            "correctness_aspect_critic": 0.7403065187012521,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What's the place of birth of the former member of The Sunnyboys?",
+            "correctness_aspect_critic": 0.7377786813198101,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "In which district was Ernie Watts born?",
+            "correctness_aspect_critic": 0.17823015413051416,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which county does Lloyd Dane's birthplace belong to?",
+            "correctness_aspect_critic": 0.7339721525429723,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the spouse of the screenwriter of The Actress?",
+            "correctness_aspect_critic": 0.18443245068286784,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What award was received by the person who authored Missing Person?",
+            "correctness_aspect_critic": 0.5161002704276876,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What event caused the founder of Australia's liberal party to become Prime Minister?",
+            "correctness_aspect_critic": 0.196913400980958,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What event caused the Liberal Party of Australia's longest-serving leader to become Prime Minister?",
+            "correctness_aspect_critic": 0.18890725651247803,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What was the average per capita GVA in 2013 of the country which created Burma's academic system?",
+            "correctness_aspect_critic": 0.6221609946617994,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who is the spouse of the creator of The Nanny Reunion: A Nosh to Remember?",
+            "correctness_aspect_critic": 0.17987599550477176,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Who founded the publisher of The Final Testament of the Holy Bible?",
+            "correctness_aspect_critic": 0.20327806535179826,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "During which era was the company that makes Nirbhay founded?",
+            "correctness_aspect_critic": 0.18995973052423987,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "During what era was the manufacturer of Agni-V founded?",
+            "correctness_aspect_critic": 0.19453296236635076,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "In what era was the company known as the manufacturer of Agni-V founded?",
+            "correctness_aspect_critic": 0.19544816949924554,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What city is located in the county containing Qiantong?",
+            "correctness_aspect_critic": 0.7440829440308823,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the performer of Heartbeat named after?",
+            "correctness_aspect_critic": 0.18250171472804427,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "The Move Ya Body song's band is named after who?",
+            "correctness_aspect_critic": 0.23480492403800057,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "When did the spacecraft that detected storms on Neptune leave our solar system?",
+            "correctness_aspect_critic": 0.18558835248155192,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "The Nicole and Natalie album's band is named after who?",
+            "correctness_aspect_critic": 0.22395085204490958,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Where was the founder of the National Women's Party born?",
+            "correctness_aspect_critic": 0.19286615915350008,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the place of birth of the person who submitted the first version of the equal rights amendment to congress in 1923?",
+            "correctness_aspect_critic": 0.2200813808480223,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "The Directory of Public Worship was approved by a parliament whose modern equivalent has been based where since 2004?",
+            "correctness_aspect_critic": 0.6020974118348263,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Where was the person featured on the Chester Arthur coin born?",
+            "correctness_aspect_critic": 0.18833679604473738,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Since 2004, what is the location of the body to which, if a matter is not specifically reserved, it is devolved?",
+            "correctness_aspect_critic": 0.23231196329133305,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "The city which contains Broadhurst Park shares a border with what town?",
+            "correctness_aspect_critic": 0.20142061770789738,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the record label of the Metalworks Studio founder?",
+            "correctness_aspect_critic": NaN,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the mouth of watercourse for the body of water where Bartram's Covered Bridge is located?",
+            "correctness_aspect_critic": 0.20491483155478768,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the ruler of the underworld in ancient Egypt a part of?",
+            "correctness_aspect_critic": 0.21261277138892004,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What pantheon is the God of the underworld in ancient Egypt a part of?",
+            "correctness_aspect_critic": 0.22560205163917119,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "In which district was Alhandra born?",
+            "correctness_aspect_critic": 0.9960356796156813,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "In which state is Vera Barbosa's place of birth located?",
+            "correctness_aspect_critic": 0.2140343333847651,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "In which state is P\u00f3voa de Santa Iria's municipality located?",
+            "correctness_aspect_critic": 0.7414636955741858,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "How old was Mary when engaged to the person from whom S\u00e3o Jos\u00e9 dos Campos takes it's name?",
+            "correctness_aspect_critic": 0.5909615939799394,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Where was Mary's betrothed born?",
+            "correctness_aspect_critic": 0.20224389121772735,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Where is the country with ISO code ISO 3166-2:CV located?",
+            "correctness_aspect_critic": 0.2026204870642654,
+            "faithfulness_aspect_critic": 0.4,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Where is Assomada located?",
+            "correctness_aspect_critic": 0.18905663331598654,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Where is Am\u00edlcar Cabral International Airport?",
+            "correctness_aspect_critic": 0.1940685817531126,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Where was the person who wrote about the rioting being a dividing factor in Birmingham educated?",
+            "correctness_aspect_critic": 0.19520915103055989,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Where was the designer of the Lap Engine educated?",
+            "correctness_aspect_critic": 0.19290695531318347,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Where was the creator of the Lap Engine educated?",
+            "correctness_aspect_critic": 0.19239045465033136,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "The 1967 Federation Cup is an instance of this tournament which is named after what organization?",
+            "correctness_aspect_critic": 0.5396622046723172,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What is the competition that the 1965 Federation Cup is part of named after?",
+            "correctness_aspect_critic": 0.2071664954995649,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What is the competition the 1972 Federation Cup is part of named after?",
+            "correctness_aspect_critic": 0.5256486971873947,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What is the capital of the county which contains Hickory Grove Estates, Mississippi?",
+            "correctness_aspect_critic": 0.45936064342602045,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the father of the performer of Je dis aime?",
+            "correctness_aspect_critic": 0.45975681438815313,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the father of the Labo M performer?",
+            "correctness_aspect_critic": 0.20388680008908427,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the father of the performer of Qui de noux deux?",
+            "correctness_aspect_critic": 0.21273735099381624,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the child of the cast member of Green Ice?",
+            "correctness_aspect_critic": 0.20870713354969994,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the sibling of the actress who played Susan Walker in Miracle on 34th street?",
+            "correctness_aspect_critic": 0.20961775803905053,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Who is the sibling of the actress that played the little girl in Miracle on 34th street 1947?",
+            "correctness_aspect_critic": 0.24628329949710154,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Whose sister played Susie in miracle on 34th street?",
+            "correctness_aspect_critic": 0.4716513913995073,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What company did the company that initiated a successful price war among PC manufacturers in 1994 merge with in 2002?",
+            "correctness_aspect_critic": 0.7414062509486424,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What company merged in 2002 with the CEMM developer?",
+            "correctness_aspect_critic": 0.18241890515299097,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "In 2002, what company merged with the top PC manufacturer from 1994?",
+            "correctness_aspect_critic": 0.6164062509486424,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who has played for both West Ham Ajax and the team that Adam Hammill is on?",
+            "correctness_aspect_critic": 0.1832111682678106,
+            "faithfulness_aspect_critic": 0.8571428571428571,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who has played for West Ham Ajax and the team that David Currie plays for?",
+            "correctness_aspect_critic": 0.18300951769721435,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Who has played for West Ham Ajax and the team from the city where Malcolm Graham died?",
+            "correctness_aspect_critic": 0.1846831782771159,
+            "faithfulness_aspect_critic": 0.8571428571428571,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Who is the employer of the person Mach's principle was named after?",
+            "correctness_aspect_critic": 0.21349971451670477,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who is the employer of the physicist who Mach number is named after?",
+            "correctness_aspect_critic": 0.18920216152461045,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which university employed the person that Mach bands are named after?",
+            "correctness_aspect_critic": 0.1911912778124078,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who is the spouse of a cast member from King of the Mountain?",
+            "correctness_aspect_critic": 0.17964702268590194,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What is the birthplace of the person after whom S\u00e3o Jos\u00e9 dos Campos was named?",
+            "correctness_aspect_critic": 0.19851477412862922,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What year did the author of Prince Prigio die?",
+            "correctness_aspect_critic": 0.7499993031799541,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When did military instruction start at the place where Larry Alcala was educated?",
+            "correctness_aspect_critic": 0.18847484114807794,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When did the military instruction start in the university that Paulo Manalo attended?",
+            "correctness_aspect_critic": 0.5746363502438243,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What county shares a border with Cedar Springs?",
+            "correctness_aspect_critic": 0.19492559847567767,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the father of Empress Wang's husband?",
+            "correctness_aspect_critic": 0.745230311092471,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "In which county was James Finch born?",
+            "correctness_aspect_critic": 0.20728633110363942,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the other child of Chian Hsiao-chang's father?",
+            "correctness_aspect_critic": 0.22532013459426958,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who is the uncle of Liu Bin?",
+            "correctness_aspect_critic": 0.19859391133928123,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the child of Chiang Hsiao-wen's father?",
+            "correctness_aspect_critic": 0.24132400937198162,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What is the movie starring Preity Zinta, Madhuri Dixit and the spouse of Kajol?",
+            "correctness_aspect_critic": 0.2006511913598496,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What film features Anil Devgan's sibling?",
+            "correctness_aspect_critic": 0.1931843293977636,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What preity zinta and madhuri dixit movie had a cast member from U Me Aur Hum ?",
+            "correctness_aspect_critic": 0.19349572802565346,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the record label for the band which performed Pythons?",
+            "correctness_aspect_critic": 0.21474494745683065,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the child of the actor who is a cast member of Love in Pawn?",
+            "correctness_aspect_critic": 0.2183176398071546,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the creator of Mickey Mouse's spouse?",
+            "correctness_aspect_critic": 0.22795408947563298,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who was the US physicist who directed the project that developed the first atomic bomb at the same place where Feynman worked on Water Boiler?",
+            "correctness_aspect_critic": 0.9959375550002783,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What political party does the person that Adversary in the House is based on a member of?",
+            "correctness_aspect_critic": 0.9942783089577691,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What political party was the socialist candidate part of who ran for president in 1912?",
+            "correctness_aspect_critic": 0.7442881303116518,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What political party was the candidate who garnered a million votes during the 1920 election despite being in prison, a member of?",
+            "correctness_aspect_critic": 0.9942783089577691,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the river that the Kettle Generating Station is located on a tributary of?",
+            "correctness_aspect_critic": 0.19778079795828535,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the river where Long Spruce Generating Station is located a tributary of?",
+            "correctness_aspect_critic": 0.4583485486407204,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Of which river is the river Kichi Sipi Bridge crosses a tributary?",
+            "correctness_aspect_critic": 0.19688242216020335,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who married the publisher of abolitionist newspaper The North Star?",
+            "correctness_aspect_critic": 0.22397504269392246,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the spouse of the first nominated African American presidential candidate?",
+            "correctness_aspect_critic": 0.20463292793621088,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Who was the spouse of a leading speaker against slavery and publisher of an antislavery newspaper?",
+            "correctness_aspect_critic": 0.23219379236593501,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the spouse of the producer of Dolores Claiborne?",
+            "correctness_aspect_critic": 0.21009309186527447,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the city that AvtoVAZ's headquarters is located in named after?",
+            "correctness_aspect_critic": 0.41703067262838,
+            "faithfulness_aspect_critic": 0.6,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the city where Lesnoye Sanatorium is located named after?",
+            "correctness_aspect_critic": 0.4569750274271763,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Whom is the birth place of Ravil Aryapov named after?",
+            "correctness_aspect_critic": 0.9958142712764545,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When did the person who first brought a postal service into Umayyad lands become caliph?",
+            "correctness_aspect_critic": 0.4989624039246659,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What university did the author of 1967: The Last Good Year attend?",
+            "correctness_aspect_critic": 0.19352589287497857,
+            "faithfulness_aspect_critic": 0.6,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Where did the author of The National Dream go to university?",
+            "correctness_aspect_critic": 0.19520606695145545,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What university did the author of The Secret World of Og go to?",
+            "correctness_aspect_critic": 0.1999389301553077,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "This is an instance of who was named commander in chief of texas forces by the new national government of texas National Forest?",
+            "correctness_aspect_critic": 0.19136062399152037,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who was honored with the highest award in India before becoming president?",
+            "correctness_aspect_critic": 0.20351939119421147,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who was given India's highest civilian honor before he became President of India?",
+            "correctness_aspect_critic": 0.5215125340941541,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Who was honoured with the highest award a citizen without military experience in India before becoming a president?",
+            "correctness_aspect_critic": 0.20409717474643388,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What type of animal is Xiao Liwu's mother?",
+            "correctness_aspect_critic": 0.5286418918288882,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who was honored with the award Dhondo Keshav Karve received prior to becoming president of India?",
+            "correctness_aspect_critic": 0.2051973705175103,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What recognition did the actor of Truman Capote from Capote receive?",
+            "correctness_aspect_critic": 0.21413154338474732,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What kind of recognition did the actor who played the game maker in hunger games receive?",
+            "correctness_aspect_critic": 0.19126557325815546,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What other recognition did the Oscar winner for Best Actor in 2006 receive?",
+            "correctness_aspect_critic": 0.1973877226171955,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What recognition did the Jack Goes Boating director receive?",
+            "correctness_aspect_critic": 0.19885181734379093,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What was the show named after the character featured in the video game Mickey's Safari in Letterland?",
+            "correctness_aspect_critic": 0.9966562919014037,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who developed the eponymous character from the series that contains Mickey's Safari in Letterland?",
+            "correctness_aspect_critic": 0.727954089475633,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who did the original voice for the character whose series Mickey's safari in Letterland is from?",
+            "correctness_aspect_critic": 0.5904905416804918,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the child of the creator of A Distinguished Member of the Humane Society?",
+            "correctness_aspect_critic": 0.20899860603759288,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What was the old show that was named after a character that Walt Disney created in 1928 called?",
+            "correctness_aspect_critic": 0.9966562919014037,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What military overran much of Erich Zakowski's place of birth?",
+            "correctness_aspect_critic": 0.20049819940116748,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "According to the agency that published U.S. and World Population Clock, what is the total area in square miles?",
+            "correctness_aspect_critic": 0.9971339370112348,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What else happened in the northern part of Erich Zakowski's birthplace in the now Russian area?",
+            "correctness_aspect_critic": 0.2050322137306364,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What happened to the Curonians who lived in the area where Erich Zakowski was born?",
+            "correctness_aspect_critic": 0.2134928167292759,
+            "faithfulness_aspect_critic": 0.6,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Where did the producer of Julius Caesar study or work?",
+            "correctness_aspect_critic": 0.18603759243749446,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "According to the agency that considers if Los Angeles County is to be a separate metropolitan area, what is the total area in square miles?",
+            "correctness_aspect_critic": 0.19141996176872045,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "According to the organization that creates census county division, what is the total area in square miles?",
+            "correctness_aspect_critic": 0.9971339370112348,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "According to the developer of Topologically Integrated Geographic Encoding and Referencing, what is the total area of Atlantic City in square miles?",
+            "correctness_aspect_critic": 0.1922242592093108,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Where did the producer of On Dangerous Ground study or work?",
+            "correctness_aspect_critic": 0.18532079440168306,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Where did the founder of the Acting Company study?",
+            "correctness_aspect_critic": 0.19619667069796032,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "When did the crowning of the person under whom the Chapter House was built happen?",
+            "correctness_aspect_critic": 0.20369882562828562,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the spouse of the person who sang holding out for a hero in shrek 2?",
+            "correctness_aspect_critic": 0.20224476277316839,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the spouse of the creator of Absolutely Fabulous?",
+            "correctness_aspect_critic": 0.20096815154697267,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the spouse of the actress who played the fairy god mother in Shrek 2?",
+            "correctness_aspect_critic": 0.1837681122423809,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When was John's eldest son crowned?",
+            "correctness_aspect_critic": 0.5022538389801439,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "When was the sibling of Alice de Lusignan, Countess of Surrey crowned?",
+            "correctness_aspect_critic": 0.19913119624193143,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What year was the father of Katherine of England crowned?",
+            "correctness_aspect_critic": 0.21289117426975057,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What month did the person who retained trust in Longchamp go away to the Holy Land?",
+            "correctness_aspect_critic": 0.2065441136249617,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When did a storm disperse the fleet led by the English king who trusted William de Longchamp?",
+            "correctness_aspect_critic": 0.1985252155200764,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "In the King's Speech, who played the person who was the King of England in 1950?",
+            "correctness_aspect_critic": 0.5499993374588439,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the record label for the singer who originally sang You Belong To Me.",
+            "correctness_aspect_critic": 0.19366227942213302,
+            "faithfulness_aspect_critic": 0.6,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What record label does the artist who sang you belong to me belong to?",
+            "correctness_aspect_critic": 0.21515871064615627,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "When is the next episode of the series that Steven the Sword Fighter is a part of being released?",
+            "correctness_aspect_critic": 0.1881177638529366,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who played the monarch at the end of WW2 in The King's Speech?",
+            "correctness_aspect_critic": 0.6518140281173118,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who played king whose regal Name did Albert Adopt in the king's speech?",
+            "correctness_aspect_critic": 0.7456307300730634,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who played the king that was king of england in 1951 in the king's speech?",
+            "correctness_aspect_critic": 0.6034971667376929,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "In A League of Their Own, who played the husband of the actress who played Thelma in Thelma and Louise?",
+            "correctness_aspect_critic": 0.18931379398202858,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "In the movie A League of their Own, who played the husband of the person who also played Thelma in the movie Thelma and Louise?",
+            "correctness_aspect_critic": 0.6011146784869155,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What character in A League of their Own was played by the actress who played Thelma in the movie Thelma and Louise?",
+            "correctness_aspect_critic": 0.24691790157876733,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "The actor who played Thelma in \"Thelma and Louise\" also played which character in \"A League of Their Own\"?",
+            "correctness_aspect_critic": 0.24691790157876733,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the sibling of the author of Kapalkundala?",
+            "correctness_aspect_critic": 0.20536094305440544,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the voice of the character in Spongebob Squarepants with the same name as the creature that annelid larvae live like?",
+            "correctness_aspect_critic": 0.7454575053437273,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "The actor who plays the girl in Spiderman Homecoming is signed to which record label?",
+            "correctness_aspect_critic": 0.20264530286743931,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What is the record label of the co-writer and recording artist of Permission to Fly?",
+            "correctness_aspect_critic": 0.18883842952859595,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What team drafted the winner of the NBA scoring title this year?",
+            "correctness_aspect_critic": 0.2173993457493136,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Who voices the character in Spongebob Squarepants who is named after a glowing species found in some beaches in Portugal?",
+            "correctness_aspect_critic": 0.7454575053437273,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What administrative territorial entity does Heinrich Gross's birth place located?",
+            "correctness_aspect_critic": 0.1870838063216236,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "In what year did the founder of the Presbyterian Church die?",
+            "correctness_aspect_critic": 0.497954660009713,
+            "faithfulness_aspect_critic": 0.25,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What year did the author of History of the Reformation in Scotland die?",
+            "correctness_aspect_critic": 0.9999996004842358,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What year did the author of The First Blast of the Trumpet Against the Monstruous Regiment of Women die?",
+            "correctness_aspect_critic": 0.6249997258018523,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What month did the person with whom Henry fought a short war in 1183 go away from the holy land?",
+            "correctness_aspect_critic": 0.1977120652621195,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "In what year did Margaret Knox's spouse pass away?",
+            "correctness_aspect_critic": 0.19257801301803407,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What year did the storm hit the fleet of the person that Henry fought a short war with in 1183?",
+            "correctness_aspect_critic": 0.19681142787994205,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "In True Grit, who did the star play?",
+            "correctness_aspect_critic": 0.5876072268583112,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who did the producer of Big Jim McLain play in True Grit?",
+            "correctness_aspect_critic": 0.2188864778275102,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who did the cast member of Rooster Cogburn play in True Grit?",
+            "correctness_aspect_critic": 0.5288984006002695,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who did the actor in Advernture's End play in True Grit?",
+            "correctness_aspect_critic": 0.19290840127635833,
+            "faithfulness_aspect_critic": 0.6,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which is the body of water by Leo Bennett's place of death?",
+            "correctness_aspect_critic": 0.736105109688444,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the body of water by the area where Athlete was formed?",
+            "correctness_aspect_critic": 0.20063474371531492,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which is the body of water by the village which borders Long Ditton?",
+            "correctness_aspect_critic": 0.986105109688444,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Which is the body of water near George Mills' place of birth?",
+            "correctness_aspect_critic": NaN,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When was the celestial body that transforms nuclear potential energy to other forms of energy discovered to be the center of the solar system?",
+            "correctness_aspect_critic": 0.5339172077783108,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When was the star to which Solgr\u00e4nd is named after discovered to be the center of the solar system?",
+            "correctness_aspect_critic": 0.45677546579212114,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who employs the author of \"Ravenswood: The Steelworkers' Victory and the Revival of American Labor\"?",
+            "correctness_aspect_critic": 0.5902412727899033,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "When was the celestial object that eluded efforts to measure oxygen discovered to be the center of the solar system?",
+            "correctness_aspect_critic": 0.20204029692192704,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "When was the celestial body that all objects focus on according to Kepler's laws discovered to be the center of the solar system?",
+            "correctness_aspect_critic": 0.1979484920075598,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who is the father of the man who conceived of the 'new' police?",
+            "correctness_aspect_critic": 0.2221074009631422,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Who was the father of the person who issued the Tamworth manifesto?",
+            "correctness_aspect_critic": 0.9981258850563703,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who is the child of the person who issued the Tamworth manifesto?",
+            "correctness_aspect_critic": 0.23356582855437436,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the father of the person who came up with the concept of the \"new\" police?",
+            "correctness_aspect_critic": 0.7481258850563703,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When does season 4 of the series that The Bag or the Bat is a part of come out?",
+            "correctness_aspect_critic": 0.7015651809558443,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When does season 4 of the series The Bag or the Bat was part of come out?",
+            "correctness_aspect_critic": 0.568808263706416,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who were the leaders of the opposition of the political group that has a large number of Protestants?",
+            "correctness_aspect_critic": 0.1835568844305177,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What watercourse is the river on which the Lostock Dam is located the mouth of?",
+            "correctness_aspect_critic": 1.0,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who were the leaders of the opposition of the party that controlled the house of representatives in 2002?",
+            "correctness_aspect_critic": 0.1833559371474285,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who were the leaders of the opposition of the party that dominated until the mid-20th century?",
+            "correctness_aspect_critic": 0.18839881914398135,
+            "faithfulness_aspect_critic": 0.6,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Who were the leaders of the opposition party that was created as a result of the kansas-nebraska act?",
+            "correctness_aspect_critic": 0.21406424599616167,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "In what city is Alain Lascoux's employer located?",
+            "correctness_aspect_critic": 0.33394250811410575,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What worldwide ranking does the university that Pedro Ramirez Vasquez attended hold?",
+            "correctness_aspect_critic": 0.17787002254772483,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who did the original voice of the character played by mila kunis in the cleveland show?",
+            "correctness_aspect_critic": 0.2006083051955838,
+            "faithfulness_aspect_critic": 0.6,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who did the original voice of the character Mila Kunis plays on family Guy?",
+            "correctness_aspect_critic": 0.2143095709275277,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who did the original voice of the character Mila Kunis plays on Family Guy?",
+            "correctness_aspect_critic": 0.21779065441227569,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who did the original voice of the character that Mila Kunis plays in Family Guy?",
+            "correctness_aspect_critic": 0.9969081004127465,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What worldwide ranking does Javier Barros Sierra's employer hold?",
+            "correctness_aspect_critic": 0.17796626455378084,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What worldwide ranking is held by Mario Pani's alma mater?",
+            "correctness_aspect_critic": 0.19452503457826698,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What worldwide ranking does the university where Manuel Isa\u00edas L\u00f3pez was educated hold?",
+            "correctness_aspect_critic": 0.19278297240065526,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who did Hay work for after being hired by his other notable influence regarding resource distribution other than Max Weber?",
+            "correctness_aspect_critic": 0.18198900649814806,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who did Hayek work for upon being hired by the author of Omnipotent Government?",
+            "correctness_aspect_critic": 0.5861817319627138,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who did Hayek work for after being hired by the author of Human Action?",
+            "correctness_aspect_critic": 0.22360155199306703,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who did Hayek work for upon being hired by the author of Bureaucracy?",
+            "correctness_aspect_critic": 0.1981754036421266,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What date did the Japanese get to the city where New Plaza Stadium is located, and the rest of the Guangdong province?",
+            "correctness_aspect_critic": 0.20297719982720858,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "what year did the Japanese get to city where Wang Yue died and the rest of Guangdong province?",
+            "correctness_aspect_critic": 0.19702599067693105,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who led the military expedition to where now Min dialects are spoken on border with Zhejiang?",
+            "correctness_aspect_critic": 0.527721396541707,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What year did the japanese get to the current administrative territorial entity of the Century Lotus Stadium and the rest of the guangdong province?",
+            "correctness_aspect_critic": 0.19313539572354113,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "When did the Japanese get to Liang Jiahong's birthplace and the rest of Guangdong?",
+            "correctness_aspect_critic": 0.182078395815716,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who led the military expedition in the province where Gong Beibi was born?",
+            "correctness_aspect_critic": 0.19698141574838698,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Who led the military expedition in the place where the fight between Ming loyalists and Manchus occurred?",
+            "correctness_aspect_critic": 0.20128285110650276,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who led the military expedition in the province that borders Zhejiang to the south?",
+            "correctness_aspect_critic": 0.22346899907965,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What other film is the cast member of Now You See Him, Now You Don't a character for?",
+            "correctness_aspect_critic": 0.19140866828441677,
+            "faithfulness_aspect_critic": 0.6,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What other movie did the cast member of Escape from L.A. play a character in?",
+            "correctness_aspect_critic": 0.24701827791966088,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "In what league did Jose Miranda's team compete?",
+            "correctness_aspect_critic": 0.2204817032865028,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "The actor who plays copper in Fox and the Hound is a character in which film?",
+            "correctness_aspect_critic": 0.20310516785325233,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "This cast member in \"Search for the Gods\" also plays a character in which film?",
+            "correctness_aspect_critic": 0.18847818000820565,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What county is Erik Hort's birthplace a part of?",
+            "correctness_aspect_critic": 0.4543956351464252,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "How many games in a season of the league in which Barcelona won titles in 1948 and 1949?",
+            "correctness_aspect_critic": 0.19210078658033142,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "How many games does the team play that had the most champion league wins between 1992 and 2013?",
+            "correctness_aspect_critic": 0.19259073089751388,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "How many games are in a season for the league that had the most Champions League wins between 1992 and 2013?",
+            "correctness_aspect_critic": 0.4995445168671818,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "How many games do team in the league where Barcelona won titles in 1948 and 1949 play?",
+            "correctness_aspect_critic": 0.19286215176848961,
+            "faithfulness_aspect_critic": 0.4,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "In which county was Larkin I. Smith born?",
+            "correctness_aspect_critic": 0.7387258456505872,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who was the father of The Portrait of George Dyer Talking's creator?",
+            "correctness_aspect_critic": 0.4212289396690807,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the father of the author of Novum Organum?",
+            "correctness_aspect_critic": 0.4595881703659621,
+            "faithfulness_aspect_critic": 0.25,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the father of the artist who painted Head I?",
+            "correctness_aspect_critic": 0.19917054581972227,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What movement was Vibullia Alcia Agrippina's child a proponent for?",
+            "correctness_aspect_critic": 0.18002168646425537,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Where is the mission for the agency that controls the monetary policy of the EU found?",
+            "correctness_aspect_critic": 0.8785326945859335,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Where is the headquarters of the operator of Operation Entebbe?",
+            "correctness_aspect_critic": 0.18810344640118962,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Where is the mission for the bank that began to increase their coverage of weaker debts found?",
+            "correctness_aspect_critic": 0.18602462700874653,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Who is the Vice-President of the organization that controls the monetary policy of the EU?",
+            "correctness_aspect_critic": 0.9951564252352701,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What record label does the performer of Adventures in Your Own Backyard belong to?",
+            "correctness_aspect_critic": 0.19098059136389844,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the Vice-President of the body that began to increase their coverage of weaker debts?",
+            "correctness_aspect_critic": 0.1784207598418443,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "The singer, who starred in Shake It Up, signed to which record label?",
+            "correctness_aspect_critic": 0.9966113841364974,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "When does the new season of the Carolina Hurricanes' league start?",
+            "correctness_aspect_critic": 0.22521201801793733,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "In which year did Taifa of Francisco Giner de los Rios' birthplace cease to exist?",
+            "correctness_aspect_critic": 0.18221071693964352,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "In what year did Taifa, of the birthplace of Ibn Abbad al-Rundi, cease to exist?",
+            "correctness_aspect_critic": 0.9863008122786927,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "When does the regular season for the league which the Buffalo Sabres Alumni Hockey Team had most of its members from begin?",
+            "correctness_aspect_critic": 0.19714752493597587,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "When does the regular season begin for the league the Carolina Hurricanes belong to?",
+            "correctness_aspect_critic": 0.9769504835130347,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who does William Clito's father follow?",
+            "correctness_aspect_critic": 0.24244427517216982,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When does the new season of the league where most members of the Buffalo Sabres Alumni Hockey Team are from start?",
+            "correctness_aspect_critic": 0.19656245107561654,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the mother of the father of Julia Murdock Smith?",
+            "correctness_aspect_critic": 0.9970025363729907,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who is the mother of the founder of Mormonism?",
+            "correctness_aspect_critic": 0.9970025363729907,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who was the mother of the person who found the sacred writings that became the Book of Mormon?",
+            "correctness_aspect_critic": 0.9970025363729907,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who played the character in the Santa Clause 3 that has a series named after it that includes Frost at Christmas?",
+            "correctness_aspect_critic": 0.245756681423001,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What former contestant did the performer of Addicted ask to marry him?",
+            "correctness_aspect_critic": 0.1954610836435723,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What season was the performer of Addicted a part of?",
+            "correctness_aspect_critic": 0.5681437683928855,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What season was the performer of Blue Skies on?",
+            "correctness_aspect_critic": 0.19276309965838265,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which season was the runner up of the third season of American Idol on?",
+            "correctness_aspect_critic": 0.2112166637038971,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "who did the performer of Sings America play on young and restless?",
+            "correctness_aspect_critic": NaN,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What country does team that Pa Amadou Gai is a member of play for?",
+            "correctness_aspect_critic": 0.20212568942046932,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who did the performer from Night Rocker play on Young and Restless?",
+            "correctness_aspect_critic": 0.18496211312994354,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who did the performer of Night Rocker play on Young and Restless?",
+            "correctness_aspect_critic": 0.1836494382502151,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who did the actor who played Michael Knight play on Young and Restless?",
+            "correctness_aspect_critic": 0.1826287047935602,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the spouse of the person who voices Smokey the bear?",
+            "correctness_aspect_critic": 0.9966130260419566,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the wife of the actor of Grace's boyfriend in Frankie and Grace?",
+            "correctness_aspect_critic": 0.19464710675201172,
+            "faithfulness_aspect_critic": 0.25,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the spouse of the person who played the sergeant major in We Were Soldiers?",
+            "correctness_aspect_critic": 0.9966130260419566,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the spouse of the person who does the voice for Smokey the Bear?",
+            "correctness_aspect_critic": 0.187030436451195,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What award did the author of The Happy Journey to Trenton and Camden receive?",
+            "correctness_aspect_critic": 0.2058580800828097,
+            "faithfulness_aspect_critic": 0.4,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When does the winter season begin in the place where fuser and alberto meet the indigenous couple who were traveling for work?",
+            "correctness_aspect_critic": 0.1814082129561413,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "At what local time does the country where Fuser and Alberto meet the indigenous couple traveling to look for work change their clocks for DST?",
+            "correctness_aspect_critic": 0.21912259954054436,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What city is in the county where the Red Cross is located?",
+            "correctness_aspect_critic": 0.19202061452615762,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "In which province is San Clemente, from the country where Fuser and Alberto meet the indigenous couple who were traveling to look for work?",
+            "correctness_aspect_critic": 0.739878251523383,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Before the military coup was staged, who was the president of the country where Fuser and Alberto met the indigenous couple who were traveling to look for work?",
+            "correctness_aspect_critic": 0.20254144334309615,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What song did Paul McCartney write for Cynthia Lennon's kid?",
+            "correctness_aspect_critic": 0.46981148703330783,
+            "faithfulness_aspect_critic": 0.25,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What song did Paul McCartney write for Sean Lennon's siblings?",
+            "correctness_aspect_critic": 0.7293404379389334,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What song did Paul McCartney write for the person who performed Too Late for Goodbyes?",
+            "correctness_aspect_critic": 0.5932699468054813,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What song did Paul McCartney write for the performer of Valotte?",
+            "correctness_aspect_critic": 0.5923709015096064,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Who is the child of the person who sponsored the resolution to reopen trade with Vietnam, along with Kerry?",
+            "correctness_aspect_critic": 0.2025767199621841,
+            "faithfulness_aspect_critic": 0.25,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "The food safety system of the agency that has the authority to decide if a drug is marketed otc or prescription is known as?",
+            "correctness_aspect_critic": 0.19847468544055863,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Where was Obama's opponent in his first election educated?",
+            "correctness_aspect_critic": NaN,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the child of Obama's opponent in his first election?",
+            "correctness_aspect_critic": 0.1965433878982571,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Where did the person who sponsored the resolution to reopen trade with Vietnam along with Kerry go to college?",
+            "correctness_aspect_critic": 0.20273513024411163,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the name of the food safety system of the federal agency that regulates prescription drugs?",
+            "correctness_aspect_critic": 0.99590501525218,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the food safety system of the antibiotic approval agency known as?",
+            "correctness_aspect_critic": 0.8459050152521801,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "The owner of IPLEDGE has a food safety system know as what?",
+            "correctness_aspect_critic": 0.1953625221394152,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What movie did the person who acted in the comedy film Crime School win his only Oscar for?",
+            "correctness_aspect_critic": 0.7354490024213114,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What movie did Lauren Bacall's spouse win his only Oscar?",
+            "correctness_aspect_critic": 0.3929175906301456,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What movie won the Knock on Any Door cast member his only Oscar?",
+            "correctness_aspect_critic": 0.1992497461949312,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "with what movie did Mary Philips' husband win his only oscar?",
+            "correctness_aspect_critic": 0.18807432496104465,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Who is the brother of the artist who made Nothin' My Love Can't Fix's album?",
+            "correctness_aspect_critic": 0.19894642237763777,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Where is the river where the majority of Egyptians lived located in the world?",
+            "correctness_aspect_critic": 0.6180561521214277,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who is the brother of the Melissa and Joey Theme Song singer?",
+            "correctness_aspect_critic": 0.9952179166914659,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the sibling of the actor who played Joey on Gimme a Break?",
+            "correctness_aspect_critic": 0.20296040290423922,
+            "faithfulness_aspect_critic": 0.25,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Where is the river that the engine pumped water from located in the world?",
+            "correctness_aspect_critic": 0.18266110925277082,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who was married to the creator of Ruby Loftus Screwing a Breech Ring?",
+            "correctness_aspect_critic": 0.1967401704162571,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the largest national park in the country where hunters are estimated to spend fifty to one hundred times that of the average ecotourist?",
+            "correctness_aspect_critic": 0.24734825532909355,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What is the name of the game reserve in the country where hunters spend 50 to 100 times more than the average ecotourist?",
+            "correctness_aspect_critic": 0.9908319307403569,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who is the permanent representative to the united nations of the country where it is estimated that a hunter spends fifty to one hundred times that of the average ecotourist?",
+            "correctness_aspect_critic": 0.18180790408093145,
+            "faithfulness_aspect_critic": 0.25,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What administrative territorial entity includes the place that KTRP is licensed to broadcast to?",
+            "correctness_aspect_critic": 0.20210796384116309,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the enrollment at Henry Latimer's alma mater?",
+            "correctness_aspect_critic": NaN,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the enrollment at the school that owns the Miami Hurricane?",
+            "correctness_aspect_critic": 0.9832747256557908,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What is the enrollment where the first debate between Kerry and Bush took place?",
+            "correctness_aspect_critic": 0.1818423845448274,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the enrollment at Jack Clay's employer?",
+            "correctness_aspect_critic": 0.17331083396735536,
+            "faithfulness_aspect_critic": 0.8333333333333334,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "The Live Life Loud album's band signed to which label?",
+            "correctness_aspect_critic": 0.17595295072355932,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the child of the cast member of Ice Bound: A Woman's Survival at the South Pole?",
+            "correctness_aspect_critic": 0.22005418071565333,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What label is responsible for the performer of \"Friend Like That\"?",
+            "correctness_aspect_critic": 0.17833062100807812,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What label is responsible for the performer of Crazy Love?",
+            "correctness_aspect_critic": 0.17455558920042002,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What label was responsible for who sang or played Delta Hardware?",
+            "correctness_aspect_critic": 0.199835926592671,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What label was responsible for the performer of Live Life Loud?",
+            "correctness_aspect_critic": 0.17656876459725956,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What label was responsible for the performer of Delta Hardware?",
+            "correctness_aspect_critic": 0.199835926592671,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What label is responsible for the performer of One Night in America?",
+            "correctness_aspect_critic": 0.20410529626187662,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What record label is responsible for the performer of \"Sanctuary\"?",
+            "correctness_aspect_critic": 0.20221082112897176,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who constituted the free crops in the location where the democratic government set up in Germany in 1919?",
+            "correctness_aspect_critic": 0.18995980451939207,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Who constituted the free crops in the state having Free State of Brunswick?",
+            "correctness_aspect_critic": 0.18584204833800158,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who constituted the freikorps in the country that the German Socialist Party was part of?",
+            "correctness_aspect_critic": 0.5964448831377658,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who constituted the free corps in the country that the Free State of Mecklenburg-Schwerin is located in?",
+            "correctness_aspect_critic": 0.1922742142633773,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the mother of Nephalion's father?",
+            "correctness_aspect_critic": 0.9905383391743456,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who is the mother of Andreogeus' father?",
+            "correctness_aspect_critic": 0.17972544246771063,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Who is the president of the organization Julio Maglione is located?",
+            "correctness_aspect_critic": 0.5673951440753838,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the president of the group Kim Un-yong is a member of?",
+            "correctness_aspect_critic": 0.19534005135120355,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Arthur Marryatt is a member of a sports association that has who as president?",
+            "correctness_aspect_critic": 0.1920559383241525,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the president of the organization that Avery Brundage is a member of?",
+            "correctness_aspect_critic": 0.18592126595806738,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the head of the agency that created MYSTIC?",
+            "correctness_aspect_critic": 0.19100396039441747,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the head of the developer of Simon?",
+            "correctness_aspect_critic": 0.19383495369647197,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who's the head of the owner of ThinThread?",
+            "correctness_aspect_critic": 0.1948209330243559,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the head of the main subject of NSA in popular culture?",
+            "correctness_aspect_critic": 0.188058785231214,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who was the spouse of the person the Bible says was the first king of Israel?",
+            "correctness_aspect_critic": 0.5111887775851196,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the spouse of the first king chosen to rule over the Israelites?",
+            "correctness_aspect_critic": 0.509333759762872,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "The author of Abel's Island wrote what 1982 book featuring a mouse-dentist?",
+            "correctness_aspect_critic": 0.8928571428571428,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What is another notable work by the illustrator of Sylvester and the Magic Pebble?",
+            "correctness_aspect_critic": 0.19018046990071158,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What other notable work did the person who illustrated Shrek work on?",
+            "correctness_aspect_critic": 0.18670581130828778,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Where was the president born on the fourth of July born?",
+            "correctness_aspect_critic": 0.4451106810711333,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the birth place of the US president with whose election the republican ascendancy of the 1920's began?",
+            "correctness_aspect_critic": 0.1959661456004373,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who wrote the song \"The Story\" that is sung by the performer of \"That Wasn't Me\"?",
+            "correctness_aspect_critic": 0.9964951204179306,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who wrote the song The Story sung by the performer of Give Up the Ghost?",
+            "correctness_aspect_critic": 0.9964951204179306,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who wrote the song The Story that is sung by the performer of Rhapsody Originals?",
+            "correctness_aspect_critic": 0.1846195637192217,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who wrote the song sung by the performer of The Story?",
+            "correctness_aspect_critic": 0.7464951204179306,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Why was Common Sense, written by the same author as The Rights of Man, an important work?",
+            "correctness_aspect_critic": 0.5820176106571358,
+            "faithfulness_aspect_critic": 0.8888888888888888,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Common Sense which was written by the author of The Age of Reason was an important work because?",
+            "correctness_aspect_critic": 0.40221490597508897,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Why was Common Sense, by the same author as Rights of Man, an important work?",
+            "correctness_aspect_critic": 0.3125782197502511,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Why is Common Sense, which was written by an author who encouraged revolt, an important work?",
+            "correctness_aspect_critic": 0.4035954243423664,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who is married to the cast member of Carolina Moon?",
+            "correctness_aspect_critic": 0.1916050465090472,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When does the river that pumps the engine flood every year?",
+            "correctness_aspect_critic": 0.18368238795547392,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "When does the river that the majority of Egyptians live near flood each year?",
+            "correctness_aspect_critic": 0.7107653528417911,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What is the birthplace of St. Simeon Stylites' author?",
+            "correctness_aspect_critic": 0.2334468164949872,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What tribe did the wife of the person who first brought postal service to Umayyad lands belong to?",
+            "correctness_aspect_critic": 0.18095308809342858,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the ranking of the law school at the university employing Bruce Nissen?",
+            "correctness_aspect_critic": 0.6963711196137621,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What is the U.S. News ranking of the law school at Carlos Alvarez's employer?",
+            "correctness_aspect_critic": 0.7014061189459184,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What is the U.S. News ranking of the law school at Abraham Lavender's employer?",
+            "correctness_aspect_critic": 0.5698410712547772,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What is the U.S. News ranking of the law school at Bruce Nissen's employer?",
+            "correctness_aspect_critic": 0.5843416263914876,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "When did the person who launched the Bardoli Satyagraha on 4th february 1928 die?",
+            "correctness_aspect_critic": 0.20118007415178812,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When did the father of Dahyabhai Patel die?",
+            "correctness_aspect_critic": 0.6003937894893834,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "How many episodes are in season 5 of the series with The Bag or the Bat?",
+            "correctness_aspect_critic": 0.1866954516763176,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "How many episodes are in season 5 of the series The Bag or the Bat is part of?",
+            "correctness_aspect_critic": 0.1860377123944168,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "How many campuses are there in the institution that Desert Studies Center is a part of?",
+            "correctness_aspect_critic": 0.19884662598533445,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What city was the author of Neighbors born in?",
+            "correctness_aspect_critic": 0.1815208957720481,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the name of the city where Tess Gallagher's spouse was born in?",
+            "correctness_aspect_critic": 0.4109795468507505,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What city was the author of What We Talk About When We Talk About love born in?",
+            "correctness_aspect_critic": 0.18074038599659556,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When did the stalemate happen in the war where UN troops approached the Yalu River?",
+            "correctness_aspect_critic": 0.20512028961412854,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What was the cast member in After Hours nominated for?",
+            "correctness_aspect_critic": 0.19570133249363603,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What was the director of Lisa Picard is Famous nominated for?",
+            "correctness_aspect_critic": 0.1874523004976575,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What type of government did North Korea have during the conflict when UN troops approached the Yalu River?",
+            "correctness_aspect_critic": 0.5162110923305148,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What was the director of Addicted to Love nominated for?",
+            "correctness_aspect_critic": 0.1841067390056552,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What was the director of The Accidental Husband nominated for?",
+            "correctness_aspect_critic": 0.19278449769866676,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who led North Korea in to the war where UN troops approached the Yalu river.",
+            "correctness_aspect_critic": 0.2033384223331325,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "During which span of years was the war where UN troops approached the Yalu River?",
+            "correctness_aspect_critic": 0.993506062415551,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What was the percentage the Dow Jones fell during the time the first cake mix come out?",
+            "correctness_aspect_critic": 0.23120158993924822,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What line by a cast member of Birds of Feather is believed to have started the archie nickname?",
+            "correctness_aspect_critic": 0.18641459095090945,
+            "faithfulness_aspect_critic": 0.6,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What line by a cast member of Doing His Bit is believed to have started the archie nickname?",
+            "correctness_aspect_critic": 0.1875016440951672,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What line by the Southern Roses cast member is believed to have started the Archie nickname?",
+            "correctness_aspect_critic": 0.19167898108745643,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who was mayor of New York when the first cake mix came out?",
+            "correctness_aspect_critic": 0.18247075125431003,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "When did the president of the Confederate States of America end his fight in the Mexican-American war?",
+            "correctness_aspect_critic": 0.19502918090207486,
+            "faithfulness_aspect_critic": 0.6,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "When did the famous leader of the Confederate Military end his fight in the Mexican-American war?",
+            "correctness_aspect_critic": 0.5010619266615229,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "When did the president of the Confederacy end his fight in the Mexican-American war?",
+            "correctness_aspect_critic": 0.19177557918132657,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What is the record label of the Thrill of a Lifetime performer?",
+            "correctness_aspect_critic": 0.21100933835242586,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When did the author of The Rise and Fall of the Confederate Government end his fight in the Mexican-American War?",
+            "correctness_aspect_critic": 0.7055587902601761,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When did the person chosen to be president of the confederacy end his fight in the Mexican-American war?",
+            "correctness_aspect_critic": 0.20222312532479494,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Who did the creator of Derech Mitzvosecha follow?",
+            "correctness_aspect_critic": 0.20255514187673104,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who followed Menucha Rochel Slonim's father?",
+            "correctness_aspect_critic": 0.2178170451457721,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is daughter to the third Rebbe of Chabad Lubavitch, named after his father?",
+            "correctness_aspect_critic": 0.19419838345231705,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What year did the city were Hans-Joachim Merker was born end?",
+            "correctness_aspect_critic": 0.18804802761505746,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What year did Ludwig Friedrich Otto Baumgarten-Crusius's birthplace end?",
+            "correctness_aspect_critic": 0.22481729574926815,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What year did the region where Leuna was located come to an end?",
+            "correctness_aspect_critic": 0.18715451098746633,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What is the mascot of William J. Ripple's university?",
+            "correctness_aspect_critic": 0.18549497651558033,
+            "faithfulness_aspect_critic": 0.875,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When did Charles Frederick II's birthplace fall?",
+            "correctness_aspect_critic": 0.19267285294327452,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the mascot of the university related to Randy Conrads?",
+            "correctness_aspect_critic": 0.9965858341126056,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "When is the date of birth of the creator of A Burial at Ornans?",
+            "correctness_aspect_critic": 0.5723643728068804,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the mascot of the operator of RV Wecoma?",
+            "correctness_aspect_critic": 0.20517375186338277,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the mascot of the institution that owns Memorial Union?",
+            "correctness_aspect_critic": 0.9965858341126056,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What is the mascot of the school that owns Goss Stadium at Coleman Field?",
+            "correctness_aspect_critic": 0.6031620510244725,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When is the birthday of the creator of Le ruisseau noir?",
+            "correctness_aspect_critic": 0.44195462386350853,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When was the creator of The Painter's Studio born?",
+            "correctness_aspect_critic": 0.38009354991926014,
+            "faithfulness_aspect_critic": 0.4,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When was the painter of Femme nue couch\u00e9e born?",
+            "correctness_aspect_critic": 0.5814999508917092,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What is the date of birth of the 'Woman with a Parrot' creator?",
+            "correctness_aspect_critic": 0.17754263170768886,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which two features were played up by the highest paid person in the world?",
+            "correctness_aspect_critic": 0.18299493916788231,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which two features were played up the Microsoft executive who announced IPTV in 2007?",
+            "correctness_aspect_critic": 0.19396453928263158,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What two features of Windows 98 were highlighted by the man who announced Windows in 1983?",
+            "correctness_aspect_critic": 0.8381622538970721,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Which two features were played up by the author of Business @ the Speed of Thought?",
+            "correctness_aspect_critic": 0.1901660510591309,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which two features were played up the person who had the biggest net worth in 2017?",
+            "correctness_aspect_critic": 0.17923757846898034,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What happened to the assets of the agency that abolished the dual system of government in bengal after it was removed from power?",
+            "correctness_aspect_critic": 0.2173182657331602,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When was the company that abolished the dual system of government in Bengal established?",
+            "correctness_aspect_critic": 0.205350363959878,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What administrative territorial entity includes the arrondissement that contains the Digne Cathedral?",
+            "correctness_aspect_critic": 0.7376176907314553,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "When was the ruler that was dissolved after the Indian Rebellion of 1857 established?",
+            "correctness_aspect_critic": 0.1909081321021457,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What record label does the performer of Emotional Rain belong to?",
+            "correctness_aspect_critic": NaN,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When was the entity that was dissolved after the Indian Rebellion in 1857 chartered?",
+            "correctness_aspect_critic": 0.21264764646007278,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When was the company who abolished the dual system of government in bengal founded?",
+            "correctness_aspect_critic": 0.21391910836820582,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What league includes the operating group of Al Janoub Stadium?",
+            "correctness_aspect_critic": 0.9902008654333256,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What body of water does the river that Toongabbie Creek flows into flow into?",
+            "correctness_aspect_critic": 0.7378429772162745,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Into what does the river for which Toongabbie Creek serves as the mouth flow?",
+            "correctness_aspect_critic": 0.45653152374037076,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What does the river that Darling Mills Creek turns into flow into?",
+            "correctness_aspect_critic": 0.6128429772162745,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "The island where they filmed ninja warrior in Australia is located in what harbor?",
+            "correctness_aspect_critic": 0.9768918444264298,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Into what harbour does the river Lennox Bridge in Parramatta crosses flow?",
+            "correctness_aspect_critic": 0.7378429772162745,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who created the work that features the appearance of Cosmic Boy?",
+            "correctness_aspect_critic": 0.17987020536173703,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Who wrote the show that Jimmy Olsen works for?",
+            "correctness_aspect_critic": 0.2029282798895698,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who wrote the TV Series containing the Finale episodes?",
+            "correctness_aspect_critic": 0.17988435189034133,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who wrote the fictional work Doctor Fate exists in?",
+            "correctness_aspect_critic": 0.18156742796368885,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Who is the mother of Katharine Smith Salisbury's brother?",
+            "correctness_aspect_critic": 0.20102934716485116,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the show Hawkgirl is from by?",
+            "correctness_aspect_critic": 0.19781568972825259,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who is the spouse of the voice actor of Batman in The Lego Batman Movie?",
+            "correctness_aspect_critic": 0.5069136156052458,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the spouse of the actress that plays leslie knope on parks and recreation?",
+            "correctness_aspect_critic": 0.18900754492039998,
+            "faithfulness_aspect_critic": 0.2,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Who is the spouse of the actor who voices Batman in the Lego Batman movie?",
+            "correctness_aspect_critic": 0.20357547134552853,
+            "faithfulness_aspect_critic": 0.4,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What actor had the role of the narrator of How I Met Your Mother?",
+            "correctness_aspect_critic": 0.20352974467638454,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Who is the spouse of the person who plays Batman in the Lego Batman Movie?",
+            "correctness_aspect_critic": 0.18972112007800332,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who does the narrator on How I Met Your Mother end up with?",
+            "correctness_aspect_critic": 0.9819957887609768,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What league includes the sports team that has Maycon Carvalho Inez?",
+            "correctness_aspect_critic": 0.1993653281159582,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who married the person telling the story in how i met your mother?",
+            "correctness_aspect_critic": 0.6005242657912988,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Who does the person telling the story in How I Met Your Mother end up with?",
+            "correctness_aspect_critic": 0.9601202528933892,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Who is part of the group performing Ask the Fish?",
+            "correctness_aspect_critic": 0.18338844813268051,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who married the narrator of How I Met Your Mother?",
+            "correctness_aspect_critic": 0.21610486155132103,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What company is the label responsible for Don't Let Me Wait Too Long a part of?",
+            "correctness_aspect_critic": 0.7444122743193157,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What company is I Dig Love's record label a part of?",
+            "correctness_aspect_critic": 0.1787419041010799,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Where did the painter of The Mud Bath study?",
+            "correctness_aspect_critic": 0.18745139469606736,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What company is the record label for Oh Woman, Oh Why a part of?",
+            "correctness_aspect_critic": 0.23126837758716276,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What administrative territorial entity contains the place where Mycenae House is located?",
+            "correctness_aspect_critic": 0.2222041850325693,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What company is the record label of Magic Christian Music part of?",
+            "correctness_aspect_critic": 0.5324114067616905,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the parent company of the record label releasing Cold Turkey?",
+            "correctness_aspect_critic": 0.21098011705553954,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What league does the team that uses Dick's Sporting Goods Park play for?",
+            "correctness_aspect_critic": 0.7398260321571446,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What other notable work did the creator of Shrek make?",
+            "correctness_aspect_critic": 0.18301031501214354,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What league was the team that Jose Cancela was a member of in?",
+            "correctness_aspect_critic": 0.5398260321571446,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "In which league was Ilsinho's team?",
+            "correctness_aspect_critic": 0.6148260321571446,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who was played by the creator of Push, Nevada in Dazed and Confused?",
+            "correctness_aspect_critic": 0.18080480088147943,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who did the person portraying Batman in the Justice League movie play in Dazed and Confused?",
+            "correctness_aspect_critic": 0.17597261826521832,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Who did the actor who played Batman in the new Justice League play in Dazed and Confused?",
+            "correctness_aspect_critic": 0.19601531359400917,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What shares a border with the administrative district where Bieliny, \u015awi\u0119tokrzyskie Voivodeship is the capital?",
+            "correctness_aspect_critic": 0.41162332154472125,
+            "faithfulness_aspect_critic": 0.16666666666666666,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who did the creator of Push, Nevada play in Dazed and Confused?",
+            "correctness_aspect_critic": 0.19710614435589977,
+            "faithfulness_aspect_critic": 0.25,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who did the screenwriter for Good Will Hunting play in Dazed and Confused?",
+            "correctness_aspect_critic": 0.17897198346334137,
+            "faithfulness_aspect_critic": 0.4,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When was the kingdom that Heptarchy was part of abolished?",
+            "correctness_aspect_critic": 0.18605145658406297,
+            "faithfulness_aspect_critic": 0.4,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "How much did the Black Death reduce the population of the region offered aid by the marshall plan?",
+            "correctness_aspect_critic": 0.20799655879160017,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "When was the country Merewalh was a citizen of abolished?",
+            "correctness_aspect_critic": 0.17932262149173187,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "When was Lady Godiva's birthplace abolished?",
+            "correctness_aspect_critic": 0.17989002903162543,
+            "faithfulness_aspect_critic": 0.25,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "When was a participant in the Battle of Maserfield abolished?",
+            "correctness_aspect_critic": 0.18817456798841634,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "By approximately what percentage did the Black Death reduce the population of the region that the Soviet Union feared invasion from?",
+            "correctness_aspect_critic": 0.5847989564654015,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "As a result of the black death it is estimated that the population of the country for B\u00e2ton \u00e0 feu was reduced by how much?",
+            "correctness_aspect_critic": 0.19428194077448707,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What is the mouth of the river which serves as the mouth of the Bumping River?",
+            "correctness_aspect_critic": 0.2186011831527192,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "As a result of the Black Death, how much was the population reduced in the place that the US helped with the Marshall Plan?",
+            "correctness_aspect_critic": 0.5771609759480463,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who is the child of Mahmoud Mirza's father?",
+            "correctness_aspect_critic": 0.2158718814958202,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "By how much of the population of the region where Baton a feu originated reduced by the black death?",
+            "correctness_aspect_critic": 0.45260705949823266,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who is the guy in the One Last Time music video by the singer of a new version of Somewhere Over the Rainbow?",
+            "correctness_aspect_critic": 0.995928462657186,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who stars alongside the songwriter of \"No Tears Left to Cry\" in the music video for \"one last time\"?",
+            "correctness_aspect_critic": 0.995928462657186,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who is the guy in the One Last Time video by the participant in The Listening Sessions?",
+            "correctness_aspect_critic": 0.5920750619242116,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the guy in the video of the performer of One Last Time?",
+            "correctness_aspect_critic": 0.22051886578030205,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who gives out the prize named after the author of The Wealth of Nations?",
+            "correctness_aspect_critic": 0.18906198455869266,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who stars in the video \"One Last Time\" by the performer of Baby I?",
+            "correctness_aspect_critic": 0.7154204469658452,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who gives out the award named after the person who argued that colonies were redundant?",
+            "correctness_aspect_critic": 0.17996305452020914,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which city is in the same county as Gmina Jordanow?",
+            "correctness_aspect_critic": 0.205529768800587,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who gives out the prize named after the author of Lectures on Jurisprudence?",
+            "correctness_aspect_critic": 0.18684025410718116,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "For what river does the river on which Pa Sak Jolasid Dam is located serve as the mouth?",
+            "correctness_aspect_critic": 0.60316964855059,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What gun does the director of Pollock use in Westworld?",
+            "correctness_aspect_critic": 0.19013908740350877,
+            "faithfulness_aspect_critic": 0.4,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What gun does Amy Madigan's spouse used in westworld?",
+            "correctness_aspect_critic": 0.19815051336993927,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What gun was used by Pollack's director in Westworld?",
+            "correctness_aspect_critic": 0.19036339089823454,
+            "faithfulness_aspect_critic": 0.6,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which was did the operator of the Jurmo class landing craft serve in?",
+            "correctness_aspect_critic": 0.20318642635542103,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which war did the operator of the R class patrol boat serve in?",
+            "correctness_aspect_critic": 0.2077898646671913,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which war did the operator of the Finnish coastal defence ship Ilmarinen serve in?",
+            "correctness_aspect_critic": 0.7283788131319708,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Where did the inventor of the Money in the Bank ladder match win in 2008?",
+            "correctness_aspect_critic": 0.18869124623457406,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which war did the operator of Finnish coastal defence ship V\u00e4in\u00e4m\u00f6inen serve in?",
+            "correctness_aspect_critic": 0.7283750837568117,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Which war did the operator of the Fabian Wrede-class training ship serve in?",
+            "correctness_aspect_critic": 0.20030244521055868,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Where did the wrestler who has held the intercontinental championship the most times win in 2008?",
+            "correctness_aspect_critic": 0.18602901550546092,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Where did the wrestler who created the Money in the Bank Ladder Match win in 2008?",
+            "correctness_aspect_critic": NaN,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Where did the author of A Lion's Tale: Around the World in Spandex win in 2008?",
+            "correctness_aspect_critic": 0.18661498746409982,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Where did the wrestler who has won the most intercontinental championships win in 2008?",
+            "correctness_aspect_critic": 0.18698554474019619,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "The city that Psycho Donuts is located in is in which county?",
+            "correctness_aspect_critic": 0.42077925700670116,
+            "faithfulness_aspect_critic": 0.6,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What river does the system containing Umchabezi River serve as the mouth of?",
+            "correctness_aspect_critic": 0.47203329146840356,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Into what river does the river that Thuli River turns into flow?",
+            "correctness_aspect_critic": 0.20509678351001276,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What river is the mouth of the watercourse that turns into the Mtetengwe?",
+            "correctness_aspect_critic": 0.2051960894207255,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the guy defending this stuff from the book from which by the skin of your teeth originated?",
+            "correctness_aspect_critic": 0.17855049383154015,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What specific part of the book where the quote \"by the skin of your teeth\" comes from document reference for Mary?",
+            "correctness_aspect_critic": 0.19160592180728203,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "In April 2010, what did the company owned by MV Macoma announce it was in the process of doing?",
+            "correctness_aspect_critic": 0.18370205931835215,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "MV Miralda's owner announced it was in the process of doing what in April 2010?",
+            "correctness_aspect_critic": 0.18777625522065247,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What did MV Rapana's owner announce it was the process of doing in April 2010?",
+            "correctness_aspect_critic": 0.1875583935731842,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What did M. King Hubbert's employer announce it was in the process of doing in April 2010?",
+            "correctness_aspect_critic": 0.17960174405510554,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "The operator of Brent field announced it was in the process of doing what in April 2010?",
+            "correctness_aspect_critic": 0.18440177406616406,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which country has a body of water that was inspiration for the name of the Mara Region?",
+            "correctness_aspect_critic": 0.7033175331985024,
+            "faithfulness_aspect_critic": 0.4,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What college did the 2011 Australian Open - Men's Doubles winner go to?",
+            "correctness_aspect_critic": 0.9954322471000063,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Where was the first female supreme court justice educated?",
+            "correctness_aspect_critic": 0.20033433629433178,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Where was the first woman appointed to the Supreme Court educated?",
+            "correctness_aspect_critic": 0.1950545121254007,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When did the rapper on On and On and Beyond release Best day Ever?",
+            "correctness_aspect_critic": 0.9967125320434029,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "When did the performer of I Love Life, Thank You release Best Day Ever?",
+            "correctness_aspect_critic": 0.6217125320434029,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "When did the performer of Goosebumpz release best day ever?",
+            "correctness_aspect_critic": 0.24671993018094635,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "When did the performer of Blue Slide Park release Best Day Ever?",
+            "correctness_aspect_critic": 0.846712532043403,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "When did the performer of Watching Movies release Best Day Ever?",
+            "correctness_aspect_critic": 0.5112741887549133,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What two dialects are included in the other pattern other vowels follow?",
+            "correctness_aspect_critic": 0.23250252957450862,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What two dialects does the /u/ remaining distinct in this form of Catalan include?",
+            "correctness_aspect_critic": 0.23063827831577535,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the brother of the player who has won the most bbc sports personality of the year awards?",
+            "correctness_aspect_critic": 0.9961567789098265,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who's the sibling of the player who won the men's wimbledon championship 2016?",
+            "correctness_aspect_critic": 0.75,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What year was the person who described the use of bitumen and pitch to tar ships born?",
+            "correctness_aspect_critic": 0.55,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the sibling of the player who won the 2012 U.S. Open Men's Singles final?",
+            "correctness_aspect_critic": 0.6071845569966319,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "In what oblast is the oldest city in the northeast located?",
+            "correctness_aspect_critic": 0.9957732080676097,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "The city where Dmitry Borisovich was born is located where in Russia?",
+            "correctness_aspect_critic": 0.21962036527477882,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What territorial entity does the town where John the Hairy lived belong to?",
+            "correctness_aspect_critic": 0.20933192908777076,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the life expectancy of the type of retriever named after the body of water the Patuxent River turns into?",
+            "correctness_aspect_critic": 0.20156817959088574,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the date of birth for the performer of Unbreakable?",
+            "correctness_aspect_critic": 1.0,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "When was the performer of So Nice born?",
+            "correctness_aspect_critic": 0.18243945267440453,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "On what date did the creator of The Blind Girl die?",
+            "correctness_aspect_critic": 0.1881534337538148,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the birth date of the By Your Side performer?",
+            "correctness_aspect_critic": 0.18256402343202632,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the date of birth of the performer of Stand Up?",
+            "correctness_aspect_critic": 0.18337986025081834,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the Smile performer's birthday?",
+            "correctness_aspect_critic": 0.17716799312547735,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What date did the creator of The Blind Girl Die?",
+            "correctness_aspect_critic": 0.18702463817791826,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When was the person who Messi's goals in Copa del Rey compared to get signed by Barcelona?",
+            "correctness_aspect_critic": 0.1873145265124333,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "When did the creator of Christ in the House of His Parents die?",
+            "correctness_aspect_critic": 0.20088263655263972,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What date did the creator of Autumn Leaves die?",
+            "correctness_aspect_critic": 0.1879538995487875,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "On what date did the creator of Peace Concluded die?",
+            "correctness_aspect_critic": 0.18467219670887713,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When was the father of Diego Sinagra signed by Barcelona?",
+            "correctness_aspect_critic": 0.1876207600468325,
+            "faithfulness_aspect_critic": 0.2,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When was the football star who backed out due to relay controversy signed by Barcelona?",
+            "correctness_aspect_critic": 0.19115895457663937,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "When was the footballer who decided not to be a torchbearer because of the controversy signed by Barcelona?",
+            "correctness_aspect_critic": 0.18002168407930258,
+            "faithfulness_aspect_critic": 0.25,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "When was the player that Iglesia Maradoniana is named after signed by Barcelona?",
+            "correctness_aspect_critic": 0.8462831061834063,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Where is the starting meridian for the longitude system on the world map?",
+            "correctness_aspect_critic": 0.20029514554332006,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Where is the place where Rudolph the red-nosed reindeer lives on the world map?",
+            "correctness_aspect_critic": 0.179403367042243,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which child of the author of One More Time helped adapt it into a play?",
+            "correctness_aspect_critic": 0.18888841172549853,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Where is the pole the balloon was supposed to pass over located on the world map?",
+            "correctness_aspect_critic": 0.20923083244328183,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who is the father of the father of Anwer Ali?",
+            "correctness_aspect_critic": 0.2101254138049911,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Along with Kenny G and the performer of Hello Tomorrow, what artist was featured on Smooth Jazz Stations?",
+            "correctness_aspect_critic": 0.7463409748757004,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Along with Kenny G and the performer of Off the Beaten Path, what artist was featured on smooth jazz stations?",
+            "correctness_aspect_critic": 0.9963289041932005,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Besides Kenny G and the artist behind A Smooth Jazz Christmas, who else had crossover hits played on smooth jazz stations?",
+            "correctness_aspect_critic": 0.246339360785307,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Which artist was featured on smooth jazz stations, along with Kenny G and the performer of Saxophonic?",
+            "correctness_aspect_critic": 0.9963439294797574,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What artist was featured on Smooth Jazz Stations, along with Kenny G and the performer of The Dance?",
+            "correctness_aspect_critic": 0.9963439294797574,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What sports team is the person who had the most sacks in the NFL this season a member of?",
+            "correctness_aspect_critic": 0.20682011971635794,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What team's player had the most league sacks?",
+            "correctness_aspect_critic": 0.21765963081513237,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What team is the player who led the league in sacks in 2017 a member of?",
+            "correctness_aspect_critic": 0.20684534499654728,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When did the first mosque in the place where Marshall Islands International Airport is located open?",
+            "correctness_aspect_critic": 0.1786145497097095,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who is the mother of the person who plays Nim in Return to Nim's Island?",
+            "correctness_aspect_critic": 0.17771995683299802,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Who is the father of Nim's actress in Return to Nim's Island?",
+            "correctness_aspect_critic": 0.45346436277354896,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Mohamed Atta's car made by the car manufacturer owning the naming rights to titans stadium is a type of what?",
+            "correctness_aspect_critic": 0.2087913851958349,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When did the first mosque in the capital of the Marshall Islands open?",
+            "correctness_aspect_critic": 0.9957515022544952,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is Mohamed Atta's car, manufactured by the company that includes Datsun, an instance of?",
+            "correctness_aspect_critic": 0.22350068714035035,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Mohammed Atta has what kind of model of the company that makes Datsun Type 12?",
+            "correctness_aspect_critic": 0.19989474591255763,
+            "faithfulness_aspect_critic": 0.6,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What model of car was Mohammed Atta's vehicle that is from the company that makes Datsun Sports?",
+            "correctness_aspect_critic": 0.1989895122266912,
+            "faithfulness_aspect_critic": 0.6,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the model of the vehicle of Mohammed Atta from the company that makes Datsun DC-3?",
+            "correctness_aspect_critic": 0.1933914754578164,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When did the first mosque open in the place where Tobolar Copra plant is located?",
+            "correctness_aspect_critic": 0.1762720616034523,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "When did the first mosque open where Air Marshall Islands is headquartered?",
+            "correctness_aspect_critic": 0.18106898891267975,
+            "faithfulness_aspect_critic": 0.8333333333333334,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When did the first mosque open where Federated States of Micronesia Maritime Boundary Treaty was signed?",
+            "correctness_aspect_critic": 0.1864201504778829,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "When did the first mosque in the place where the Marshall Islands International Airport is located open?",
+            "correctness_aspect_critic": 0.18152858494330876,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What field of work did the person who first recognized that hydrogen was a discrete substance work in?",
+            "correctness_aspect_critic": 0.20000866577673204,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "According to Pew, in 2010, what percent of Nigeria's population practiced the religion dominant in the countries surrounding Armenia?",
+            "correctness_aspect_critic": 0.2044371695055885,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "The field of work of the physicist making the first to measure value of the Newton Universal Gravitation Constant is what?",
+            "correctness_aspect_critic": 0.20982841101811345,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What field of work was the person who discovered the mathematical relationship between peaks and curves of light at different temperatures in?",
+            "correctness_aspect_critic": 0.21694652316824856,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "The scientist that the GHZ experiment is named for is in what field of work?",
+            "correctness_aspect_critic": 0.20364177805173012,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What percent of Nigerians in 2010 were the same religion as Avicenna?",
+            "correctness_aspect_critic": 0.4655958201056271,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "According to Pew, in 2010, what percent of Nigeria's population was the religion that Pickthall was buried in?",
+            "correctness_aspect_critic": 0.9957901804713923,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What is the anime that has Seta S\u014djir\u014d an instance of?",
+            "correctness_aspect_critic": 0.19509080548423352,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "According to Pew, in 2010 what percent of Nigeria's population was the same religion as Ibn Tufail?",
+            "correctness_aspect_critic": 0.45824357975138197,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "According to Pew in 2010, what percent of Nigeria's population was the people who conquered the Eastern provinces of the Byzantine empire?",
+            "correctness_aspect_critic": 0.19972467118740173,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "According to Pew, in 2010, what percent of Nigeria's population practiced the religion of most of the workers?",
+            "correctness_aspect_critic": 0.2096738847085569,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "The actor who plays Barney in \"How I Met Your Mother\" plays what character in Batman Under the Red Hood?",
+            "correctness_aspect_critic": 0.7432250283320232,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What character does the actor who played Barney on How I Met Your Mother play in Batman Under the Red Hood?",
+            "correctness_aspect_critic": 0.9909116485561675,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "The actor who plays Count Olaf in \"A Series of Unfortunate Events\" also plays which character in Batman Under the Red Hood?",
+            "correctness_aspect_critic": 0.8432250283320233,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Which county is the birth place of Keith Sebelius located at?",
+            "correctness_aspect_critic": 0.7357624608136673,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "In Batman Under the Red Hood, who does the actor of Barney Stinson from How I Met Your Mother play?",
+            "correctness_aspect_critic": 0.8251935521036984,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who does the Nothing Suits Me Like a Suit artist play in Batman Under the Red Hood?",
+            "correctness_aspect_critic": 0.5952676136352619,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "The actor playing Barney in How I Met Your Mother played who in Batman Under The Red Hood?",
+            "correctness_aspect_critic": 0.5242994386515494,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        }
+    ]
+}

@@ -1,0 +1,502 @@
+[
+    {   
+        "id": 1,
+        "chunks": [
+            "Influences also came to her from the art world, most notably through the works of Mexican artist Frida Kahlo. The music video of the song \"Bedtime Story\" featured images inspired by the paintings of Kahlo and Remedios Varo. Madonna is also a collector of Tamara de Lempicka's Art Deco paintings and has included them in her music videos and tours. Her video for \"Hollywood\" (2003) was an homage to the work of photographer Guy Bourdin; Bourdin's son subsequently filed a lawsuit for unauthorised use of his father's work. Pop artist Andy Warhol's use of sadomasochistic imagery in his underground films were reflected in the music videos for \"Erotica\" and \"Deeper and Deeper\".",
+            "Madonna's Italian-Catholic background and her relationship with her parents are reflected in the album Like a Prayer. It was an evocation of the impact religion had on her career. Her video for the title track contains Catholic symbolism, such as the stigmata. During The Virgin Tour, she wore a rosary and prayed with it in the music video for \"La Isla Bonita\". The \"Open Your Heart\" video sees her boss scolding her in the Italian language. On the Who's That Girl World Tour, she dedicated the song \"Papa Don't Preach\" to Pope John Paul II."
+        ],
+        "bridging_topic": "Madonna",
+        "multi_hop_question": "Was Madonna's homage to photographer Guy Bourdin expressed solely through a music video, while her dedication to Pope John Paul II was a tour performance?",
+        "multi_hop_answer": "Yes",
+        "type": "comparison_question",
+        "binary": true,
+        "quality_validation": {
+            "reason": "The question is rejected because it fails the 'Answerability from Context' and 'Standalone Retrieval Clarity' criteria. While the question mentions Madonna's homage to Guy Bourdin, the context provided does not contain any information confirming or denying whether this was expressed 'solely' through a music video (it only states the video was an homage). More importantly, the context mentions the dedication of 'Papa Don't Preach' to Pope John Paul II during a tour, but there is no information in the context to support a comparison or confirm the 'solely' aspect of the Bourdin homage relative to the tour performance. Finally, the question assumes facts that are not fully supported by the provided text.",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is rejected because it fails the 'Answerability from Context' and 'Standalone Retrieval Clarity' criteria. While the question mentions Madonna's homage to Guy Bourdin, the context provided does not contain any information confirming or denying whether this was expressed 'solely' through a music video (it only states the video was an homage). More importantly, the context mentions the dedication of 'Papa Don't Preach' to Pope John Paul II during a tour, but there is no information in the context to support a comparison or confirm the 'solely' aspect of the Bourdin homage relative to the tour performance. Finally, the question assumes facts that are not fully supported by the provided text.\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 2,
+        "chunks": [
+            "The New York Giants Radio Network is a broadcast radio network based in New York City, the official radio broadcaster of the New York Giants. The network's radio broadcasts are currently flagshipped at WFAN, a station owned by CBS Radio. Overflow radio casts air on WCBS, WFAN's corporate sibling",
+            "WFAN-FM (101.9 MHz), also known as \"Sports Radio 66 and 101.9 FM\" or \"The Fan\", is a commercial FM sports radio station licensed to New York City. The station is owned and operated by Entercom, and is simulcast with WFAN (660 AM). WFAN-FM's studios are located in the combined Entercom facility in the Hudson Square neighborhood of Manhattan and its transmitter is located at the Empire State Building."
+        ],
+        "bridging_topic": "New York City",
+        "multi_hop_question": "Are the New York Giants Radio Network's flagship station and WFAN-FM owned by the same corporate entity?",
+        "multi_hop_answer": "No",
+        "type": "comparison_question",
+        "binary": true,
+        "quality_validation": {
+            "reason": "The question is of low quality for RAG because it contains a contradiction between the provided context and the entity mentioned in the question. The question asks about 'WFAN-FM', while the context states that the Giants' flagship station is 'WFAN' (660 AM), which is owned by CBS Radio. Furthermore, the context identifies WFAN-FM as being owned by Entercom. While a user could potentially determine the answer is 'No', the premise of the question is confusing because it conflates two different station entities ('WFAN' vs 'WFAN-FM') in a way that makes the retriever's job difficult, as the primary flagship is WFAN (AM), not WFAN-FM. To improve, the question should explicitly distinguish between the stations or ask about the ownership of the specific station mentioned in the context to avoid ambiguity. For example: 'Is the flagship station of the New York Giants Radio Network owned by the same corporate entity as WFAN-FM?'",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            true,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is of low quality for RAG because it contains a contradiction between the provided context and the entity mentioned in the question. The question asks about 'WFAN-FM', while the context states that the Giants' flagship station is 'WFAN' (660 AM), which is owned by CBS Radio. Furthermore, the context identifies WFAN-FM as being owned by Entercom. While a user could potentially determine the answer is 'No', the premise of the question is confusing because it conflates two different station entities ('WFAN' vs 'WFAN-FM') in a way that makes the retriever's job difficult, as the primary flagship is WFAN (AM), not WFAN-FM. To improve, the question should explicitly distinguish between the stations or ask about the ownership of the specific station mentioned in the context to avoid ambiguity. For example: 'Is the flagship station of the New York Giants Radio Network owned by the same corporate entity as WFAN-FM?'\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "yes",
+            "no"
+        ]
+    },
+    {
+        "id": 3,
+        "chunks": [
+            "The New York Giants Radio Network is a broadcast radio network based in New York City, the official radio broadcaster of the New York Giants. The network's radio broadcasts are currently flagshipped at WFAN, a station owned by CBS Radio. Overflow radio casts air on WCBS, WFAN's corporate sibling",
+            "WFAN-FM (101.9 MHz), also known as \"Sports Radio 66 and 101.9 FM\" or \"The Fan\", is a commercial FM sports radio station licensed to New York City. The station is owned and operated by Entercom, and is simulcast with WFAN (660 AM). WFAN-FM's studios are located in the combined Entercom facility in the Hudson Square neighborhood of Manhattan and its transmitter is located at the Empire State Building."
+        ],
+        "bridging_topic": "New York City",
+        "multi_hop_question": "Is the flagship station of the New York Giants Radio Network owned by the same corporate entity as WFAN-FM?",
+        "multi_hop_answer": "No",
+        "type": "comparison_question",
+        "binary": true,
+        "quality_validation": {
+            "reason": "The question is of low quality for a RAG system because it contains a factual contradiction based on the provided context. The context states that the New York Giants Radio Network's flagship is WFAN (owned by CBS Radio), but also states that WFAN-FM is owned by Entercom. Furthermore, the context refers to WFAN and WFAN-FM as being 'simulcast', implying they are related entities, yet provides conflicting ownership information (CBS Radio vs. Entercom). Because the question relies on identifying the 'flagship station' and comparing ownership, the provided context is internally inconsistent or outdated regarding the ownership of these stations, making it impossible to derive a definitive 'Yes' or 'No' based strictly on the text provided. To improve, the question should be updated to reflect current, non-contradictory ownership data or the context should be curated to provide a single, consistent source of truth.",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is of low quality for a RAG system because it contains a factual contradiction based on the provided context. The context states that the New York Giants Radio Network's flagship is WFAN (owned by CBS Radio), but also states that WFAN-FM is owned by Entercom. Furthermore, the context refers to WFAN and WFAN-FM as being 'simulcast', implying they are related entities, yet provides conflicting ownership information (CBS Radio vs. Entercom). Because the question relies on identifying the 'flagship station' and comparing ownership, the provided context is internally inconsistent or outdated regarding the ownership of these stations, making it impossible to derive a definitive 'Yes' or 'No' based strictly on the text provided. To improve, the question should be updated to reflect current, non-contradictory ownership data or the context should be curated to provide a single, consistent source of truth.\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 4,
+        "chunks": [
+            "The Volkswagen Polo Mk2 is the second generation of the Volkswagen Polo supermini. It was produced from late 1981 until 1994. It received a major facelift in 1990 and was available in three different body styles, including a distinctive \"\"kammback\"\"-styled hatchback. The sedan version received the name of Volkswagen Derby.",
+            "Some buyers lamented the small size of the first Japanese compacts, and both Toyota and Nissan (then known as Datsun) introduced larger cars such as the Toyota Corona Mark II, the Toyota Cressida, the Mazda 616 and Datsun 810, which added passenger space and amenities such as air conditioning, power steering, AM-FM radios, and even power windows and central locking without increasing the price of the vehicle. A decade after the 1973 oil crisis, Honda, Toyota and Nissan, affected by the 1981 voluntary export restraints, opened US assembly plants and established their luxury divisions (Acura, Lexus and Infiniti, respectively) to distinguish themselves from their mass-market brands."
+        ],
+        "bridging_topic": "1981",
+        "multi_hop_question": "Which 1981 event, the launch of the Volkswagen Polo Mk2 or the voluntary export restraints, was associated with a greater number of distinct car manufacturers?",
+        "multi_hop_answer": "The voluntary export restraints",
+        "type": "comparison_question",
+        "binary": false,
+        "quality_validation": {
+            "reason": "The question is rejected because it fails the 'Answerability from Context' and 'Standalone Retrieval Clarity' criteria. While the question names two specific events, the provided context does not contain sufficient information to determine the number of distinct car manufacturers associated with either the 'launch of the Volkswagen Polo Mk2' or the 'voluntary export restraints.' Specifically, the context mentions three manufacturers (Honda, Toyota, Nissan) regarding the voluntary export restraints, but provides no data regarding the manufacturers associated with the Volkswagen Polo Mk2 (other than Volkswagen itself) or enough comprehensive information to perform a valid comparison between the two events. Therefore, the question cannot be answered using the provided text.",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "```json\n{\n    \"reason\": \"The question is rejected because it fails the 'Answerability from Context' and 'Standalone Retrieval Clarity' criteria. While the question names two specific events, the provided context does not contain sufficient information to determine the number of distinct car manufacturers associated with either the 'launch of the Volkswagen Polo Mk2' or the 'voluntary export restraints.' Specifically, the context mentions three manufacturers (Honda, Toyota, Nissan) regarding the voluntary export restraints, but provides no data regarding the manufacturers associated with the Volkswagen Polo Mk2 (other than Volkswagen itself) or enough comprehensive information to perform a valid comparison between the two events. Therefore, the question cannot be answered using the provided text.\",\n    \"accepted\": false\n}\n```",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 5,
+        "chunks": [
+            "Mansour was born in Cairo. He graduated from Cairo University Law School in 1967, earned a postgraduate degree in law in 1969, studied economics and earned a postgraduate degree in management science from Cairo University in 1970. He later attended France's \u00c9cole nationale d'administration (ENA) and graduated in 1977.",
+            "At the age of 20, Ibrahim Shihata graduated with a BA in law from Cairo University Law School at the top of his class. He originally planned to continue his education in the United States, but then received an offer from the Conseil d\u2019Etat to work as a legal advisor in the Ministry of Health."
+        ],
+        "bridging_topic": "Cairo University Law School",
+        "multi_hop_question": "Did any graduate of Cairo University Law School both earn multiple postgraduate degrees from Cairo University and graduate at the top of their class?",
+        "multi_hop_answer": "No",
+        "type": "intersection_question",
+        "binary": true,
+        "quality_validation": {
+            "reason": "The question is of low quality for RAG because it is 'meta' in nature, relying on the provided context as the source of truth for a historical fact. While it is unambiguous and clearly stated, it fails the 'Standalone Retrieval Clarity' test for RAG purposes: a retrieval system searching for this question would be looking for a document containing the specific answer ('No') rather than documents containing the biographical data of the graduates. Furthermore, the question implies a search for a specific person, but the phrasing makes it difficult for a retriever to pinpoint the relevant entities ('Cairo University Law School') effectively because it acts as a boolean query rather than a factual retrieval query. To improve, the question should be reframed to ask for biographical details of specific individuals mentioned in the text, such as: 'Which graduates of Cairo University Law School earned multiple postgraduate degrees from that institution, and did any of them graduate at the top of their class?'",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is of low quality for RAG because it is 'meta' in nature, relying on the provided context as the source of truth for a historical fact. While it is unambiguous and clearly stated, it fails the 'Standalone Retrieval Clarity' test for RAG purposes: a retrieval system searching for this question would be looking for a document containing the specific answer ('No') rather than documents containing the biographical data of the graduates. Furthermore, the question implies a search for a specific person, but the phrasing makes it difficult for a retriever to pinpoint the relevant entities ('Cairo University Law School') effectively because it acts as a boolean query rather than a factual retrieval query. To improve, the question should be reframed to ask for biographical details of specific individuals mentioned in the text, such as: 'Which graduates of Cairo University Law School earned multiple postgraduate degrees from that institution, and did any of them graduate at the top of their class?'\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 6,
+        "chunks": [
+            "Mansour was born in Cairo. He graduated from Cairo University Law School in 1967, earned a postgraduate degree in law in 1969, studied economics and earned a postgraduate degree in management science from Cairo University in 1970. He later attended France's \u00c9cole nationale d'administration (ENA) and graduated in 1977.",
+            "At the age of 20, Ibrahim Shihata graduated with a BA in law from Cairo University Law School at the top of his class. He originally planned to continue his education in the United States, but then received an offer from the Conseil d\u2019Etat to work as a legal advisor in the Ministry of Health."
+        ],
+        "bridging_topic": "Cairo University Law School",
+        "multi_hop_question": "Does Mansour, a graduate of Cairo University Law School, also hold the distinction of graduating at the top of his class, a characteristic found in another graduate of that institution?",
+        "multi_hop_answer": "No",
+        "type": "intersection_question",
+        "binary": true,
+        "quality_validation": {
+            "reason": "The question is of low quality for a RAG system for two primary reasons. First, it fails the 'Standalone Retrieval Clarity' test because it uses vague, non-specific phrasing ('another graduate of that institution') that forces the retriever to guess which entity the user is actually comparing Mansour against. A retriever cannot 'search' for 'another graduate' without knowing who that person is. Second, the question is ambiguous; 'another graduate' is not a defined search term and there are likely thousands of graduates from Cairo University Law School, making the premise of the comparison unclear to the search engine. To improve this, the user should explicitly name the person they are comparing Mansour to (e.g., 'Did Mansour graduate at the top of his class from Cairo University Law School, similar to the achievement of Ibrahim Shihata?')",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is of low quality for a RAG system for two primary reasons. First, it fails the 'Standalone Retrieval Clarity' test because it uses vague, non-specific phrasing ('another graduate of that institution') that forces the retriever to guess which entity the user is actually comparing Mansour against. A retriever cannot 'search' for 'another graduate' without knowing who that person is. Second, the question is ambiguous; 'another graduate' is not a defined search term and there are likely thousands of graduates from Cairo University Law School, making the premise of the comparison unclear to the search engine. To improve this, the user should explicitly name the person they are comparing Mansour to (e.g., 'Did Mansour graduate at the top of his class from Cairo University Law School, similar to the achievement of Ibrahim Shihata?')\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 7,
+        "chunks": [
+            "The Second Amendment (Amendment II) to the United States Constitution protects the right of the people to keep and bear arms and was adopted on December 15, 1791, as part of the first ten amendments contained in the Bill of Rights. The Supreme Court of the United States has ruled that the right belongs to individuals, while also ruling that the right is not unlimited and does not prohibit all regulation of either firearms or similar devices. State and local governments are limited to the same extent as the federal government from infringing this right, per the incorporation of the Bill of Rights.",
+            "The Second Amendment (Amendment II) to the United States Constitution protects the right of the people to keep and bear arms and was adopted on December 15, 1791, as part of the first ten amendments contained in the Bill of Rights. The Supreme Court of the United States has ruled that the right belongs to individuals for self defense. while also ruling that the right is not unlimited and does not prohibit all regulation of either firearms or similar devices. State and local governments are limited to the same extent as the federal government from infringing this right, per the incorporation of the Bill of Rights."
+        ],
+        "bridging_topic": "Second Amendment (Amendment II)",
+        "multi_hop_question": "Does every description of the Supreme Court's ruling on the Second Amendment in the provided texts explicitly specify that the right belongs to individuals for self-defense?",
+        "multi_hop_answer": "No",
+        "type": "intersection_question",
+        "binary": true,
+        "quality_validation": {
+            "reason": "The question is invalid for a RAG pipeline because it fails the 'Standalone Retrieval Clarity' and 'Explicit Entity Grounding' criteria. The question references 'the provided texts' and 'the provided material,' which makes it a meta-question about the RAG system's context rather than a query meant to retrieve information from a database. A retriever searching for this question would be searching for its own prompt or a meta-discussion about the context, rather than the factual content regarding the Second Amendment. Additionally, the question is self-referential to the context provided. To improve it, the question should be reframed to ask for facts directly, such as: 'What has the Supreme Court of the United States ruled regarding the Second Amendment and individual rights?'",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            true,
+            true
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is invalid for a RAG pipeline because it fails the 'Standalone Retrieval Clarity' and 'Explicit Entity Grounding' criteria. The question references 'the provided texts' and 'the provided material,' which makes it a meta-question about the RAG system's context rather than a query meant to retrieve information from a database. A retriever searching for this question would be searching for its own prompt or a meta-discussion about the context, rather than the factual content regarding the Second Amendment. Additionally, the question is self-referential to the context provided. To improve it, the question should be reframed to ask for facts directly, such as: 'What has the Supreme Court of the United States ruled regarding the Second Amendment and individual rights?'\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "yes",
+            "yes"
+        ]
+    },
+    {
+        "id": 8,
+        "chunks": [
+            "\"Girl Talk\" is a song by American group TLC. It was written by band members Lisa Lopes and Tionne Watkins along with Anita McLoud, Edmund \"Eddie Hustle\" Clement, and Kandi Burruss for the group's fourth studio album, \"3D\" (2002). Featuring production by Hustle, it was released as the album's lead single in September 2002, along with a previously unreleased song \"Get Away\". While the song contains vocals by Lisa Lopes, the music video for \"Girl Talk\" marked the band's first release without Lopes, following her death in April of the same year.",
+            "Esegine Allen (born 28 March 1986), better known by his stage name Orezi, is a Nigerian musician from Delta State. He rose to prominence with his song \"Rihanna\" in 2013."
+        ],
+        "bridging_topic": "Rihanna",
+        "multi_hop_question": "Which musician, known for rising to prominence with the song 'Rihanna', also co-wrote a lead single for TLC's '3D' album?",
+        "multi_hop_answer": "None",
+        "type": "intersection_question",
+        "binary": false,
+        "quality_validation": {
+            "reason": "The question is rejected for two main reasons. First, it is factually incorrect based on the provided context: the context identifies 'Girl Talk' as the lead single for TLC's '3D' album, and its songwriters are listed as Lisa Lopes, Tionne Watkins, Anita McLoud, Edmund Clement, and Kandi Burruss. None of these individuals are identified as having risen to prominence with the song 'Rihanna'. Second, the answer is 'None' because the premises of the question do not align with the provided material. To improve, the question should be grounded in the facts present in the text (e.g., 'Who were the songwriters for TLC's lead single 'Girl Talk' from the album '3D'?', or 'What song did the musician Esegine Allen release in 2013 that helped him rise to prominence?').",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is rejected for two main reasons. First, it is factually incorrect based on the provided context: the context identifies 'Girl Talk' as the lead single for TLC's '3D' album, and its songwriters are listed as Lisa Lopes, Tionne Watkins, Anita McLoud, Edmund Clement, and Kandi Burruss. None of these individuals are identified as having risen to prominence with the song 'Rihanna'. Second, the answer is 'None' because the premises of the question do not align with the provided material. To improve, the question should be grounded in the facts present in the text (e.g., 'Who were the songwriters for TLC's lead single 'Girl Talk' from the album '3D'?', or 'What song did the musician Esegine Allen release in 2013 that helped him rise to prominence?').\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 9,
+        "chunks": [
+            "Fabiana da Silva Sim\u00f5es (born 4 August 1989), known as Fabiana or Fabiana Baiana (by adding the demonym of Bahia, her home state), is a Brazilian football defender who last played for F.C. Barcelona in the Primera Divisi\u00f3n, and for the Brazil national team. In 2009 and 2010 she played professional club football in the United States with Boston Breakers of Women's Professional Soccer (WPS). As well as teams in her native Brazil, Fabiana has played for Sporting de Huelva of Spain's Primera Divisi\u00f3n and WFC Rossiyanka of the Russian Top Division.",
+            "B\u00e1rbara Micheline do Monte Barbosa (born 4 July 1988), commonly known as B\u00e1rbara, is a Brazilian footballer who plays as a goalkeeper for Kindermann and the Brazil women's national football team. B\u00e1rbara has played for clubs in Italy, Sweden and Germany as well as in her native Brazil. Since making her national team debut in 2007, she has won over 30 caps for Brazil. She has been part of her country's squad at four editions of the FIFA Women's World Cup and at two Olympic football tournaments."
+        ],
+        "bridging_topic": "Brazil",
+        "multi_hop_question": "Which national football team has players who have played for both F.C. Barcelona and Kindermann?",
+        "multi_hop_answer": "Brazil national team",
+        "type": "intersection_question",
+        "binary": false,
+        "quality_validation": {
+            "reason": "The question is rejected because it is not answerable using the provided context. While the context mentions that Fabiana played for F.C. Barcelona and B\u00e1rbara played for Kindermann, and both played for the Brazil national team, the context does not explicitly state that any single player has played for *both* F.C. Barcelona and Kindermann. Therefore, the premise of the question cannot be verified or answered using the provided text. To improve the question, it should be phrased to reflect the actual information available, such as: 'Which national football team do both Fabiana da Silva Sim\u00f5es (who played for F.C. Barcelona) and B\u00e1rbara Micheline do Monte Barbosa (who plays for Kindermann) represent?'",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is rejected because it is not answerable using the provided context. While the context mentions that Fabiana played for F.C. Barcelona and B\u00e1rbara played for Kindermann, and both played for the Brazil national team, the context does not explicitly state that any single player has played for *both* F.C. Barcelona and Kindermann. Therefore, the premise of the question cannot be verified or answered using the provided text. To improve the question, it should be phrased to reflect the actual information available, such as: 'Which national football team do both Fabiana da Silva Sim\u00f5es (who played for F.C. Barcelona) and B\u00e1rbara Micheline do Monte Barbosa (who plays for Kindermann) represent?'\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 10,
+        "chunks": [
+            "Chris Stillwell (born June 4, 1966, Seattle, Washington, United States) is the American bassist for the band The Greyboy Allstars.",
+            "Wardell Jackson (born July 18, 1951 in Yazoo City, Mississippi) is a retired professional basketball small forward who played one season in the National Basketball Association (NBA) as a member of the Seattle SuperSonics during the 1974\u201375 season. He attended Ohio State University where he was drafted by the Sonics during the sixth round of the 1974 NBA draft."
+        ],
+        "bridging_topic": "Seattle",
+        "multi_hop_question": "Which US city is both the birthplace of Chris Stillwell and home to the Seattle SuperSonics?",
+        "multi_hop_answer": "Seattle",
+        "type": "intersection_question",
+        "binary": false,
+        "quality_validation": {
+            "reason": "The question is rejected because it is based on a false premise (a hallucination) regarding the provided context. While the context confirms Chris Stillwell was born in Seattle, it states that Wardell Jackson played for the Seattle SuperSonics; it never establishes that the Seattle SuperSonics currently or historically call Seattle their 'home' (the context refers to them as the 'Sonics' and notes a player played for them in 1974-75, but the location of the franchise is not explicitly stated as 'Seattle' in the context). Furthermore, the question implies these are the facts, but if the context did not mention the team's location, the question would be unanswerable. To improve, the question should be grounded strictly in the provided text, such as: 'In which city was Chris Stillwell born, according to the provided text?'",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is rejected because it is based on a false premise (a hallucination) regarding the provided context. While the context confirms Chris Stillwell was born in Seattle, it states that Wardell Jackson played for the Seattle SuperSonics; it never establishes that the Seattle SuperSonics currently or historically call Seattle their 'home' (the context refers to them as the 'Sonics' and notes a player played for them in 1974-75, but the location of the franchise is not explicitly stated as 'Seattle' in the context). Furthermore, the question implies these are the facts, but if the context did not mention the team's location, the question would be unanswerable. To improve, the question should be grounded strictly in the provided text, such as: 'In which city was Chris Stillwell born, according to the provided text?'\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 11,
+        "chunks": [
+            "The Oklahoma Woman is a 1956 film directed by Roger Corman, involving the return of Steve Ward (Richard Denning) to his hometown to claim his inheritance. Ward ends up getting involved in a local election and the ambitions of saloon owner, Marie \"Oklahoma\" Saunders (Peggie Castle).",
+            "Thundering Caravans is a 1952 American western film directed by Harry Keller and starring Allan Lane, Mona Knox and Eddy Waller."
+        ],
+        "bridging_topic": "Allan Lane",
+        "multi_hop_question": "Did the director of 'The Oklahoma Woman' also direct a film starring an actor who appeared alongside Mona Knox and Eddy Waller?",
+        "multi_hop_answer": "No",
+        "type": "attribute_composition",
+        "binary": true,
+        "quality_validation": {
+            "reason": "The question is of low quality for a RAG system because it relies on complex, chained logic that assumes the system knows the full cast and filmography of the actors mentioned in the context. Specifically, the question requires determining the director of 'The Oklahoma Woman' (Roger Corman), then identifying if he directed any other film that features an actor who was in a movie with Mona Knox and Eddy Waller (a 6-degree-of-separation style query). While the provided context identifies the actors in 'Thundering Caravans', it does not contain the necessary information about other films these actors appeared in, nor the comprehensive filmography of the directors to verify the answer. Furthermore, the question structure makes it impossible for a standard retriever to fetch the relevant chunks because the retriever cannot 'reason' across unknown external filmographies to identify which entities to look for. To improve, the question should be made explicit: 'Did Roger Corman, the director of The Oklahoma Woman, also direct the 1952 film Thundering Caravans?' (if that were the intent) or provide the list of films/actors to be compared within the context itself.",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is of low quality for a RAG system because it relies on complex, chained logic that assumes the system knows the full cast and filmography of the actors mentioned in the context. Specifically, the question requires determining the director of 'The Oklahoma Woman' (Roger Corman), then identifying if he directed any other film that features an actor who was in a movie with Mona Knox and Eddy Waller (a 6-degree-of-separation style query). While the provided context identifies the actors in 'Thundering Caravans', it does not contain the necessary information about other films these actors appeared in, nor the comprehensive filmography of the directors to verify the answer. Furthermore, the question structure makes it impossible for a standard retriever to fetch the relevant chunks because the retriever cannot 'reason' across unknown external filmographies to identify which entities to look for. To improve, the question should be made explicit: 'Did Roger Corman, the director of The Oklahoma Woman, also direct the 1952 film Thundering Caravans?' (if that were the intent) or provide the list of films/actors to be compared within the context itself.\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 12,
+        "chunks": [
+            "Jiangsu Province Kun Opera is one of the best theatres for Kunqu, China's oldest stage art. It is considered a conservative and traditional troupe. Nanjing also has professional opera troupes for the Yang, Yue (shaoxing), Xi and Jing (Chinese opera varieties) as well as Suzhou pingtan, spoken theatre and puppet theatre.",
+            "Some of the leading art groups of China are based in Nanjing; they include the Qianxian Dance Company, Nanjing Dance Company, Jiangsu Peking Opera Institute and Nanjing Xiaohonghua Art Company among others."
+        ],
+        "bridging_topic": "China",
+        "multi_hop_question": "Does Nanjing host a leading art group from China that performs an opera variety for which the city also has other professional troupes?",
+        "multi_hop_answer": "Yes",
+        "type": "attribute_composition",
+        "binary": true,
+        "quality_validation": {
+            "reason": "The question is of low quality for a RAG system because it is poorly structured and relies on ambiguous phrasing ('an opera variety for which the city also has other professional troupes'). While the information is technically present in the two chunks, the question does not explicitly name the 'opera variety' or the specific 'leading art group' being queried, forcing the retriever to perform complex semantic matching on a vague, nested conditional statement. Furthermore, the question asks if Nanjing hosts 'a leading art group' that performs 'an opera variety,' but the context lists multiple groups and multiple varieties, making the connection logic hard to execute via standard retrieval. To improve, the question should be direct: 'Which leading art group based in Nanjing performs Peking Opera, and does the city also host other professional troupes for this opera variety?'",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            true,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is of low quality for a RAG system because it is poorly structured and relies on ambiguous phrasing ('an opera variety for which the city also has other professional troupes'). While the information is technically present in the two chunks, the question does not explicitly name the 'opera variety' or the specific 'leading art group' being queried, forcing the retriever to perform complex semantic matching on a vague, nested conditional statement. Furthermore, the question asks if Nanjing hosts 'a leading art group' that performs 'an opera variety,' but the context lists multiple groups and multiple varieties, making the connection logic hard to execute via standard retrieval. To improve, the question should be direct: 'Which leading art group based in Nanjing performs Peking Opera, and does the city also host other professional troupes for this opera variety?'\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "yes",
+            "no"
+        ]
+    },
+    {
+        "id": 13,
+        "chunks": [
+            "The executive branch consists of the Governor, their staff, and other elected officials. The principal head of government, the Governor is the chief executive of the Oklahoma executive branch, serving as the ex officio Commander-in-Chief of the Oklahoma National Guard when not called into Federal use and reserving the power to veto bills passed through the Legislature. The responsibilities of the Executive branch include submitting the budget, ensuring that state laws are enforced, and ensuring peace within the state is preserved.",
+            "The President is responsible for the implementation of the Constitution and for the exercise of executive powers, except for matters directly related to the Supreme Leader, who has the final say in all matters. The President appoints and supervises the Council of Ministers, coordinates government decisions, and selects government policies to be placed before the legislature. Eight Vice-Presidents serve under the President, as well as a cabinet of twenty-two ministers, who must all be approved by the legislature."
+        ],
+        "bridging_topic": "Legislature",
+        "multi_hop_question": "Does the governmental body that passes bills which the Oklahoma Governor can veto, also approve the appointment of cabinet ministers?",
+        "multi_hop_answer": "Yes",
+        "type": "attribute_composition",
+        "binary": true,
+        "quality_validation": {
+            "reason": "The question is invalid for two primary reasons. First, it suffers from a lack of clarity regarding the entity being discussed. The context provides information for two different governmental systems (Oklahoma and a system featuring a President and Supreme Leader). The question asks about the 'Oklahoma Governor', but the second chunk\u2014which contains the information about a 'legislature' approving a 'cabinet of twenty-two ministers'\u2014refers to a completely different, unnamed political system (implied to be Iran), not Oklahoma. Therefore, the question is based on a false premise that the two chunks describe the same entity. Second, even if interpreted as a general inquiry, the context provided is insufficient to answer the question for the Oklahoma government specifically, as the passage detailing cabinet approval does not pertain to Oklahoma. To improve, the question should be specific to the entity described in the relevant chunk: 'Does the Oklahoma Legislature approve the appointment of cabinet ministers?' (and the context should be updated to contain the correct information for Oklahoma).",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is invalid for two primary reasons. First, it suffers from a lack of clarity regarding the entity being discussed. The context provides information for two different governmental systems (Oklahoma and a system featuring a President and Supreme Leader). The question asks about the 'Oklahoma Governor', but the second chunk\u2014which contains the information about a 'legislature' approving a 'cabinet of twenty-two ministers'\u2014refers to a completely different, unnamed political system (implied to be Iran), not Oklahoma. Therefore, the question is based on a false premise that the two chunks describe the same entity. Second, even if interpreted as a general inquiry, the context provided is insufficient to answer the question for the Oklahoma government specifically, as the passage detailing cabinet approval does not pertain to Oklahoma. To improve, the question should be specific to the entity described in the relevant chunk: 'Does the Oklahoma Legislature approve the appointment of cabinet ministers?' (and the context should be updated to contain the correct information for Oklahoma).\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 14,
+        "chunks": [
+            "The executive branch consists of the Governor, their staff, and other elected officials. The principal head of government, the Governor is the chief executive of the Oklahoma executive branch, serving as the ex officio Commander-in-Chief of the Oklahoma National Guard when not called into Federal use and reserving the power to veto bills passed through the Legislature. The responsibilities of the Executive branch include submitting the budget, ensuring that state laws are enforced, and ensuring peace within the state is preserved.",
+            "The President is responsible for the implementation of the Constitution and for the exercise of executive powers, except for matters directly related to the Supreme Leader, who has the final say in all matters. The President appoints and supervises the Council of Ministers, coordinates government decisions, and selects government policies to be placed before the legislature. Eight Vice-Presidents serve under the President, as well as a cabinet of twenty-two ministers, who must all be approved by the legislature."
+        ],
+        "bridging_topic": "Legislature",
+        "multi_hop_question": "Does the governmental body responsible for passing bills that can be vetoed by the chief executive of the Oklahoma executive branch, also approve a cabinet of twenty-two ministers?",
+        "multi_hop_answer": "No",
+        "type": "attribute_composition",
+        "binary": true,
+        "quality_validation": {
+            "reason": "The question is of low quality for RAG because it fails the 'Standalone Retrieval Clarity' and 'Answerability from Context' requirements. While it correctly identifies the Oklahoma Governor and Legislature in the first chunk, the second part of the question\u2014concerning a cabinet of twenty-two ministers\u2014relates to a completely different, unnamed government (the context describes an Iranian-style executive system, not Oklahoma). A retriever would struggle to find a single document set containing this specific comparison, and the question implies a single government structure that does not exist. Furthermore, it fails to explicitly name the country or entity the second chunk belongs to, making the premise of the question confusing and non-factual in the context of Oklahoma. To improve, the question should explicitly state the entities being compared (e.g., 'Does the Oklahoma Legislature, which can have its bills vetoed by the Governor, also approve a cabinet of twenty-two ministers as described in the provided government documentation?').",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "```json\n{\n    \"reason\": \"The question is of low quality for RAG because it fails the 'Standalone Retrieval Clarity' and 'Answerability from Context' requirements. While it correctly identifies the Oklahoma Governor and Legislature in the first chunk, the second part of the question\u2014concerning a cabinet of twenty-two ministers\u2014relates to a completely different, unnamed government (the context describes an Iranian-style executive system, not Oklahoma). A retriever would struggle to find a single document set containing this specific comparison, and the question implies a single government structure that does not exist. Furthermore, it fails to explicitly name the country or entity the second chunk belongs to, making the premise of the question confusing and non-factual in the context of Oklahoma. To improve, the question should explicitly state the entities being compared (e.g., 'Does the Oklahoma Legislature, which can have its bills vetoed by the Governor, also approve a cabinet of twenty-two ministers as described in the provided government documentation?').\",\n    \"accepted\": false\n}\n```",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 15,
+        "chunks": [
+            "The second season begins eight hours after the escape, focusing mainly on the eight escapees. Series creator Paul Scheuring describes the second season as \"The Fugitive times eight\" and likens it to the \"second half of The Great Escape.\" The fugitives split up and journey to locations across the country with the authorities close behind them as they each pursue their individual goals. Brad Bellick gets fired from the prison where he worked as the main guard and chases after the inmates himself for the reward money. Several of the escapees reunite in search of a large cache of money buried long ago by another Fox River inmate, Charles Westmoreland. Federal agent Alexander Mahone is assigned to track down and capture the eight fugitives, but is revealed to be working for The Company, which wants all eight men dead. When Sara discovers her father, Governor Frank Tancredi, has been killed, she meets with Michael, remaining with him as the brothers try to bring down now-President Reynolds, a Company member. To ensure the brothers' safety, Sara allows herself to be arrested and faces trial. During the trial, the testimony of former Secret Service agent Paul Kellerman, who used to work for The Company-controlled President, exonerates Lincoln and Sara. Half of the escapees are killed or recaptured, but the brothers make it to Panama. Michael, T-Bag, Mahone, and Bellick are arrested by the Panamanian authorities and imprisoned at the Penitenciar\u00eda Federal de Sona.",
+            "When Shawn returns and unexpectedly declares the experiment a success (due to Michael's fake reports), he orders the humans to be brought to the real Bad Place and the neighborhood destroyed. He also promotes Michael to higher management. The group escapes with Michael's help, and they attempt to get to the Good Place by appealing to an entity known as the ``Judge ''(Maya Rudolph), who had once created a`` Medium Place'' for exactly one person. When Michael reveals that the Judge resides in a separate space that can only be reached by a portal in the Bad Place, the group ventures through the Bad Place offices to find it. They make it to the portal, and Michael sacrifices himself for the others, allowing himself to be captured by Shawn."
+        ],
+        "bridging_topic": "Michael",
+        "multi_hop_question": "What is the name of the prison where the character promoted to higher management by Shawn was confined?",
+        "multi_hop_answer": "Penitenciar\u00eda Federal de Sona",
+        "type": "attribute_composition",
+        "binary": false,
+        "quality_validation": {
+            "reason": "The question is of low quality for RAG because it relies on internal knowledge to link disparate entities that are not explicitly connected in the provided text. Specifically, the context provided discusses two entirely different narratives ('Prison Break' and 'The Good Place'). The question references a character named 'Shawn' and a 'promotion to higher management,' which appears in the second chunk, but it incorrectly assumes that this character is linked to a prison location mentioned in the first chunk (which discusses different characters like Michael and Bellick). The question fails the Standalone Retrieval Clarity test because it assumes a relationship between these disjointed contexts that does not exist in the source material. Furthermore, it is not answerable from the context, as the context does not state that the person promoted by Shawn was ever confined in a prison named in the provided text.",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is of low quality for RAG because it relies on internal knowledge to link disparate entities that are not explicitly connected in the provided text. Specifically, the context provided discusses two entirely different narratives ('Prison Break' and 'The Good Place'). The question references a character named 'Shawn' and a 'promotion to higher management,' which appears in the second chunk, but it incorrectly assumes that this character is linked to a prison location mentioned in the first chunk (which discusses different characters like Michael and Bellick). The question fails the Standalone Retrieval Clarity test because it assumes a relationship between these disjointed contexts that does not exist in the source material. Furthermore, it is not answerable from the context, as the context does not state that the person promoted by Shawn was ever confined in a prison named in the provided text.\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 16,
+        "chunks": [
+            "The second season begins eight hours after the escape, focusing mainly on the eight escapees. Series creator Paul Scheuring describes the second season as \"The Fugitive times eight\" and likens it to the \"second half of The Great Escape.\" The fugitives split up and journey to locations across the country with the authorities close behind them as they each pursue their individual goals. Brad Bellick gets fired from the prison where he worked as the main guard and chases after the inmates himself for the reward money. Several of the escapees reunite in search of a large cache of money buried long ago by another Fox River inmate, Charles Westmoreland. Federal agent Alexander Mahone is assigned to track down and capture the eight fugitives, but is revealed to be working for The Company, which wants all eight men dead. When Sara discovers her father, Governor Frank Tancredi, has been killed, she meets with Michael, remaining with him as the brothers try to bring down now-President Reynolds, a Company member. To ensure the brothers' safety, Sara allows herself to be arrested and faces trial. During the trial, the testimony of former Secret Service agent Paul Kellerman, who used to work for The Company-controlled President, exonerates Lincoln and Sara. Half of the escapees are killed or recaptured, but the brothers make it to Panama. Michael, T-Bag, Mahone, and Bellick are arrested by the Panamanian authorities and imprisoned at the Penitenciar\u00eda Federal de Sona.",
+            "When Shawn returns and unexpectedly declares the experiment a success (due to Michael's fake reports), he orders the humans to be brought to the real Bad Place and the neighborhood destroyed. He also promotes Michael to higher management. The group escapes with Michael's help, and they attempt to get to the Good Place by appealing to an entity known as the ``Judge ''(Maya Rudolph), who had once created a`` Medium Place'' for exactly one person. When Michael reveals that the Judge resides in a separate space that can only be reached by a portal in the Bad Place, the group ventures through the Bad Place offices to find it. They make it to the portal, and Michael sacrifices himself for the others, allowing himself to be captured by Shawn."
+        ],
+        "bridging_topic": "Michael",
+        "multi_hop_question": "What is the name of the prison where the character who remained with Sara after her father, Governor Frank Tancredi, was killed, was confined?",
+        "multi_hop_answer": "Penitenciar\u00eda Federal de Sona",
+        "type": "attribute_composition",
+        "binary": false,
+        "quality_validation": {
+            "reason": "The question is rejected because it is not a high-quality RAG question. Specifically, it fails the 'Standalone Retrieval Clarity' criterion. The question is overly complex, convoluted, and relies on an implicit, nested chain of knowledge ('the character who remained with Sara after her father... was killed') that makes it difficult for a retriever to perform a semantic search. While the answer is technically contained within the context, the phrasing is non-standard and relies on the user already knowing the plot points to phrase the query correctly. A better way to phrase this would be: 'After Governor Frank Tancredi was killed, which character remained with Sara, and in what prison was that character later confined?' Furthermore, the question refers to 'the character' without naming them, which violates the requirement for explicit entity grounding.",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is rejected because it is not a high-quality RAG question. Specifically, it fails the 'Standalone Retrieval Clarity' criterion. The question is overly complex, convoluted, and relies on an implicit, nested chain of knowledge ('the character who remained with Sara after her father... was killed') that makes it difficult for a retriever to perform a semantic search. While the answer is technically contained within the context, the phrasing is non-standard and relies on the user already knowing the plot points to phrase the query correctly. A better way to phrase this would be: 'After Governor Frank Tancredi was killed, which character remained with Sara, and in what prison was that character later confined?' Furthermore, the question refers to 'the character' without naming them, which violates the requirement for explicit entity grounding.\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 17,
+        "chunks": [
+            "The B\u00e2ton \u00e0 feu, or Baston \u00e0 feu (French for \"Fire stick\"), is a type of hand cannon developed in the 14th century in Western Europe. This weapon type corresponds to the portable artillery of the second half of 14th century.",
+            "The QF 3-pounder Hotchkiss or in French use Canon Hotchkiss \u00e0 tir rapide de 47\u00a0mm were a family of long-lived light naval guns introduced in 1886 to defend against new, small and fast vessels such as torpedo boats and later submarines. There were many variants produced, often under license which ranged in length from 32 to 50 calibers but 40 caliber was the most common version. They were widely used by the navies of a number of nations and often used by both sides in a conflict. They were also used ashore as coastal defense guns and later as an anti-aircraft gun, whether on improvised or specialized HA/LA mounts."
+        ],
+        "bridging_topic": "French",
+        "multi_hop_question": "What year was the weapon known as 'Canon Hotchkiss \u00e0 tir rapide de 47 mm' in the language where 'Fire stick' is translated as 'Baston \u00e0 feu' introduced?",
+        "multi_hop_answer": "1886",
+        "type": "attribute_composition",
+        "binary": false,
+        "quality_validation": {
+            "reason": "The question is of low quality for RAG because it relies on a complex, convoluted linguistic riddle to identify the entity rather than using the entity's name directly. While it technically contains the entity name ('Canon Hotchkiss \u00e0 tir rapide de 47 mm'), it embeds it within an unnecessary and confusing conditional clause about a translation for 'Fire stick'. A RAG system should be queried using explicit identifiers. Furthermore, the phrasing 'in the language where...' introduces unnecessary ambiguity and complexity that could lead to retrieval failures if the language (French) were not correctly inferred or mapped by the retriever. It is better to ask directly about the weapon.",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is of low quality for RAG because it relies on a complex, convoluted linguistic riddle to identify the entity rather than using the entity's name directly. While it technically contains the entity name ('Canon Hotchkiss \u00e0 tir rapide de 47 mm'), it embeds it within an unnecessary and confusing conditional clause about a translation for 'Fire stick'. A RAG system should be queried using explicit identifiers. Furthermore, the phrasing 'in the language where...' introduces unnecessary ambiguity and complexity that could lead to retrieval failures if the language (French) were not correctly inferred or mapped by the retriever. It is better to ask directly about the weapon.\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 18,
+        "chunks": [
+            "Magbass Is a farming town in Tonkolili District in the Northern Province of Sierra Leone. Magbass is located about 55 miles from Freetown. The town is home to the Magbass Sugar Complex, one of the largest sugar producing plantation in West Africa . The factory provides employment for a number of people within Tonkolili District and across Sierra Leone .",
+            "Alhaji Mohamed Kakay is a Sierra Leonean politician who is a member of parliament of Sierra Leone representing his hometown of Koinadugu District, one of the five districts that make up the Northern Province. Kakay is from the Mandingo ethnic group."
+        ],
+        "bridging_topic": "Northern Province",
+        "multi_hop_question": "What is the ethnic group of the parliament member who represents a district located in the same province as the town of Magbass?",
+        "multi_hop_answer": "Mandingo",
+        "type": "attribute_composition",
+        "binary": false,
+        "quality_validation": {
+            "reason": "The question is of low quality for RAG retrieval. While it explicitly mentions 'Magbass', it relies on an implicit relationship to identify the target person. The retriever would have to perform a complex JOIN operation (Magbass -> Tonkolili District -> Northern Province -> identify a parliament member from that same province). Furthermore, the context provided mentions two different districts (Tonkolili and Koinadugu) that happen to be in the same province, but the question implies a link between the parliament member and the town of Magbass that does not exist in a direct, factual way. The question is structurally ambiguous and relies on inference across multiple entities to construct a query that the retriever might struggle to resolve without clear entity-linking in the query itself. To improve, the question should be more direct: 'What is the ethnic group of the Sierra Leonean politician Alhaji Mohamed Kakay?'",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is of low quality for RAG retrieval. While it explicitly mentions 'Magbass', it relies on an implicit relationship to identify the target person. The retriever would have to perform a complex JOIN operation (Magbass -> Tonkolili District -> Northern Province -> identify a parliament member from that same province). Furthermore, the context provided mentions two different districts (Tonkolili and Koinadugu) that happen to be in the same province, but the question implies a link between the parliament member and the town of Magbass that does not exist in a direct, factual way. The question is structurally ambiguous and relies on inference across multiple entities to construct a query that the retriever might struggle to resolve without clear entity-linking in the query itself. To improve, the question should be more direct: 'What is the ethnic group of the Sierra Leonean politician Alhaji Mohamed Kakay?'\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 19,
+        "chunks": [
+            "Yelasi is a small village in Sorab Taluk in Shimoga district of Karnataka state, India. It belongs to the Bangalore division. It is located 83\u00a0km towards the west from district headquarters, Shimoga.",
+            "Poovathani is a small village bordering Malappuram and Palakkad Districts in Kerala, India. It is shared by three grama panchayaths: Thachanattukara, Aliparamba] and Thazhekode."
+        ],
+        "bridging_topic": "India",
+        "multi_hop_question": "Which village, Yelasi or Poovathani, is described as being part of or bordering a greater number of distinct administrative entities?",
+        "multi_hop_answer": "Poovathani",
+        "type": "comparison_question",
+        "binary": false,
+        "quality_validation": {
+            "reason": "The question is of low quality for RAG because it is 'context-dependent' in its framing. It asks for a comparison of 'administrative entities' based on a provided text that defines geography differently for each village. Crucially, the context provided for Yelasi mentions only its own Taluk, District, and State, while the context for Poovathani lists two districts and three grama panchayaths. A retriever looking for 'administrative entities' related to these villages would succeed, but the question relies on an external definition of what constitutes an 'administrative entity' (e.g., does a Taluk count the same as a grama panchayat?). Furthermore, the question is ambiguous because the provided text for Yelasi is incomplete regarding its administrative scope compared to the detailed listing for Poovathani, making the comparison an exercise in comparing different types of administrative units rather than a factual extraction. To improve, the question should be more direct, such as: 'How many grama panchayaths is Poovathani shared by, and what district is Yelasi located in?'",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is of low quality for RAG because it is 'context-dependent' in its framing. It asks for a comparison of 'administrative entities' based on a provided text that defines geography differently for each village. Crucially, the context provided for Yelasi mentions only its own Taluk, District, and State, while the context for Poovathani lists two districts and three grama panchayaths. A retriever looking for 'administrative entities' related to these villages would succeed, but the question relies on an external definition of what constitutes an 'administrative entity' (e.g., does a Taluk count the same as a grama panchayat?). Furthermore, the question is ambiguous because the provided text for Yelasi is incomplete regarding its administrative scope compared to the detailed listing for Poovathani, making the comparison an exercise in comparing different types of administrative units rather than a factual extraction. To improve, the question should be more direct, such as: 'How many grama panchayaths is Poovathani shared by, and what district is Yelasi located in?'\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    },
+    {
+        "id": 20,
+        "chunks": [
+            "Yelasi is a small village in Sorab Taluk in Shimoga district of Karnataka state, India. It belongs to the Bangalore division. It is located 83\u00a0km towards the west from district headquarters, Shimoga.",
+            "Poovathani is a small village bordering Malappuram and Palakkad Districts in Kerala, India. It is shared by three grama panchayaths: Thachanattukara, Aliparamba] and Thazhekode."
+        ],
+        "bridging_topic": "India",
+        "multi_hop_question": "Which village, Yelasi or Poovathani, is explicitly associated with a greater number of distinct districts?",
+        "multi_hop_answer": "Poovathani",
+        "type": "comparison_question",
+        "binary": false,
+        "quality_validation": {
+            "reason": "The question is of low quality for RAG retrieval. While the entities 'Yelasi' and 'Poovathani' are clearly named, the question relies on a comparison that is not explicitly supported by the provided context. The context states that Yelasi is in 'Shimoga district' (one district). Regarding Poovathani, it states it is 'bordering Malappuram and Palakkad Districts' and is shared by 'three grama panchayaths'. The context does not explicitly state that Poovathani is 'associated with' three districts; it only mentions two specific districts by name and then discusses grama panchayaths (which are not districts). Furthermore, the question asks for a count that requires external knowledge or an assumption that the mentioned grama panchayaths imply a third district, which is not in the text. This makes the question factually unsupported by the provided context and ambiguous in its interpretation of 'associated with'. To improve, the question should be rephrased to ask directly about the information present, e.g., 'Which districts are named in relation to Poovathani, and is this count higher than the number of districts associated with Yelasi as described in the text?'",
+            "accepted": false
+        },
+        "sufficient_context_flags": [
+            false,
+            false
+        ],
+        "quality_validation_original_response": "{\n    \"reason\": \"The question is of low quality for RAG retrieval. While the entities 'Yelasi' and 'Poovathani' are clearly named, the question relies on a comparison that is not explicitly supported by the provided context. The context states that Yelasi is in 'Shimoga district' (one district). Regarding Poovathani, it states it is 'bordering Malappuram and Palakkad Districts' and is shared by 'three grama panchayaths'. The context does not explicitly state that Poovathani is 'associated with' three districts; it only mentions two specific districts by name and then discusses grama panchayaths (which are not districts). Furthermore, the question asks for a count that requires external knowledge or an assumption that the mentioned grama panchayaths imply a third district, which is not in the text. This makes the question factually unsupported by the provided context and ambiguous in its interpretation of 'associated with'. To improve, the question should be rephrased to ask directly about the information present, e.g., 'Which districts are named in relation to Poovathani, and is this count higher than the number of districts associated with Yelasi as described in the text?'\",\n    \"accepted\": false\n}",
+        "sufficient_context_original_responses": [
+            "no",
+            "no"
+        ]
+    }
+]

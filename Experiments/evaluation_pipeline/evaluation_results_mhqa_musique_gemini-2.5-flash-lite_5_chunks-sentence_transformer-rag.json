@@ -1,0 +1,3357 @@
+{
+    "file_path": "mhqa_musique_gemini-2.5-flash-lite_5_chunks-sentence_transformer-rag.json",
+    "average_scores": {
+        "correctness_aspect_critic": 0.24166001672033188,
+        "faithfulness_aspect_critic": 0.5948014212658563,
+        "context_precision": 0.09874476987447697,
+        "context_recall": 0.24686192468619247
+    },
+    "detailed_results": [
+        {
+            "content": "Is Evangelicalism exclusively defined as a transdenominational Christian movement according to the provided information?",
+            "correctness_aspect_critic": 0.17791762116197685,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did Madonna's homage to photographer Guy Bourdin result in a lawsuit, whereas her dedication to Pope John Paul II occurred during a world tour?",
+            "correctness_aspect_critic": 0.18807139600787487,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did the marathon run from Windsor Castle at the 1908 Olympics occur before the castle withstood a prolonged siege during the First Barons' War?",
+            "correctness_aspect_critic": 0.19250206033557313,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did the British Interplanetary Society's study for Project Daedalus last longer than their study for Project Boreas?",
+            "correctness_aspect_critic": 0.17978709436661938,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Do KKVU and KVCK broadcast the same music format?",
+            "correctness_aspect_critic": 0.18698097735321578,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was the Trevi Fountain, which appeared in 'Three Coins in the Fountain', located in one of the Italian filming locations praised by critics?",
+            "correctness_aspect_critic": 0.1914927339675275,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Did Howard Earl Williams compete in the same type of 1952 basketball championship event as Dean Smith?",
+            "correctness_aspect_critic": 0.18683508360101897,
+            "faithfulness_aspect_critic": 0.25,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did Stephen Jackson win an NBA championship with the San Antonio Spurs in 1999?",
+            "correctness_aspect_critic": 0.18944176417327083,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did the Art Ensemble of Chicago album 'Reese and the Smooth Ones' feature a greater number of listed performers than their album 'Coming Home Jamaica'?",
+            "correctness_aspect_critic": 0.186251521106129,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did \"Arthur's Theme (Best That You Can Do)\" achieve a number one ranking on the adult contemporary chart before the release of the album \"Another Page\"?",
+            "correctness_aspect_critic": 0.18637780555556435,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was the year Amanda Feilding produced 'Heartbeat in the Brain' earlier than the year France began administering Ad\u00e9lie Land?",
+            "correctness_aspect_critic": 0.18758529603097646,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who was born earlier, Alejandro Llorente y Lannas or \"Don\" Carlos, Duke of Madrid?",
+            "correctness_aspect_critic": 0.21098239796826462,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which event impacting Jewish communities occurred earlier: the attack on the Jewish quarter in Valencia or the expulsion of Jews from Spain?",
+            "correctness_aspect_critic": 0.5967028125854625,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Who was born earlier, Firmin Baes or Jacqueline Fontyn?",
+            "correctness_aspect_critic": 0.20541753602896512,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which band, between the Tommy Seebach Band and 1x Band, won a national final to participate in the Eurovision Song Contest 1993?",
+            "correctness_aspect_critic": 0.21621223376152052,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did the Volkswagen Polo Mk2, which began production in late 1981, offer more distinct body styles than the number of luxury divisions established by Japanese manufacturers following the 1981 voluntary export restraints?",
+            "correctness_aspect_critic": 0.18026508349703121,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Which municipality, Los Olmos or Codos, had a larger population based on their respective census data?",
+            "correctness_aspect_critic": 0.20458897265411652,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which happened earlier, the March 1991 referendum that saw citizens vote to preserve the Soviet Union as a renewed federation, or the scheduled signing of the New Union Treaty intended to convert the Soviet Union into a less centralized state?",
+            "correctness_aspect_critic": 0.22184583871378233,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which feast day associated with Peter and Paul is celebrated later in the year, the Dedication of the Basilicas of the Apostles Peter and Paul or the Feast of Saints Peter and Paul?",
+            "correctness_aspect_critic": 0.2232618243115257,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What was the numerical difference in the population residing on Guam between 2015 and 2016?",
+            "correctness_aspect_critic": 0.18187829572241726,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which Canadian radio station, CKCW-FM or CJCW, broadcasts on the AM band?",
+            "correctness_aspect_critic": 0.20402187110300693,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which radio station, CJBC-FM or CING-FM, broadcasts at a lower frequency?",
+            "correctness_aspect_critic": 0.20286187210975004,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which number is greater for the Open Championship won by Jordan Spieth in 2017: its edition number or the par score of the course?",
+            "correctness_aspect_critic": 0.1826789097315683,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was any film mentioned in the provided text both released in 2004 and based on a novel published in 2004?",
+            "correctness_aspect_critic": 0.19077412014344522,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did Mercury Records release both the album 'Oh, What a Life' and the single 'Best Day of My Life'?",
+            "correctness_aspect_critic": 0.18637780555556435,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did Empress Dowager Cixi serve as a regent to the Tongzhi Emperor and trace her descent to the Yehe division of the Nara clan?",
+            "correctness_aspect_critic": 0.1831342450467199,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Are both Hevel Eilot Regional Council and Gazit regional councils?",
+            "correctness_aspect_critic": 0.18702273760512897,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did any scientist whose thorough investigation into the photoelectric effect was published in 1887 also receive a Nobel Prize in 1923 for work related to the photoelectric effect?",
+            "correctness_aspect_critic": 0.18825284333989256,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did Frankie Avalon star in both the films 'Ski Party' and 'Muscle Beach Party'?",
+            "correctness_aspect_critic": 0.18378213421652131,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Do both Westminster Choir College and Whitman College reside in the same U.S. state?",
+            "correctness_aspect_critic": 0.18807139600787487,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is East Java home to both the main port and the theorized capital city of the Majapahit Empire?",
+            "correctness_aspect_critic": 0.1863904039788613,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did Gerald T. Whelan both serve as the 30th Lieutenant Governor of Nebraska and obtain a law degree from Creighton University?",
+            "correctness_aspect_critic": 0.18637780555556435,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "In 1999, did Warner Bros. both release a studio album and have a former affiliation with a production house that established a new film label?",
+            "correctness_aspect_critic": 0.18637780555556435,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Does the Supreme Court of the United States consistently rule that the individual right protected by the Second Amendment is specifically for self-defense?",
+            "correctness_aspect_critic": 0.18602884240206477,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is Otzoloapan Municipality a municipality that borders both the state of Michoac\u00e1n and Mexico City?",
+            "correctness_aspect_critic": 0.1856199733531718,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Are both Castiliscar and Bijuesca municipalities in Zaragoza, Spain, that had a population exceeding 100 inhabitants in the 2004 census?",
+            "correctness_aspect_critic": 0.17919442639498243,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What kind of Boston City Council position is held by Michael F. Flaherty and is also explicitly defined as a citywide seat?",
+            "correctness_aspect_critic": 0.9616449588571586,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which year is listed as following both the 2017 US Open and the 2017 Australian Open tournaments?",
+            "correctness_aspect_critic": 0.5820597940504848,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Which year saw the release of the Bengali film 'Sati' and was the first full year after the Indian Sati Prevention Act criminalizing glorification of sati?",
+            "correctness_aspect_critic": 0.18832673392368987,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which nation both had military aircraft involved in the 1994 Black Hawk shootdown incident over northern Iraq and led the coalition against Iraq in the Persian Gulf War?",
+            "correctness_aspect_critic": 0.8056499867082381,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which individuals, who were songwriters for TLC's lead single 'Girl Talk' from the album '3D', are also known for rising to prominence with a song titled 'Rihanna'?",
+            "correctness_aspect_critic": 0.1949156634143387,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which television series, featuring Wharmby as a regular cast member for 16 series, also included a father-son acting duo where the actors were real-life relatives?",
+            "correctness_aspect_critic": 0.178219403969051,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which territory contains both its fifth built mosque and a small island called Ap Lo Chun?",
+            "correctness_aspect_critic": 0.1826344135161374,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which city contains both the administrative headquarters of the Detroit Medical Society and the largest single-campus medical school in the United States?",
+            "correctness_aspect_critic": 0.5771334564899568,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which national football team features a player who last played for F.C. Barcelona and also features a player who plays for Kindermann?",
+            "correctness_aspect_critic": 0.1765799967836114,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which US city is the birthplace of Chris Stillwell and appears in the name of the NBA team Wardell Jackson played for?",
+            "correctness_aspect_critic": 0.18333353908535308,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which brand is associated with a music show broadcast from Australia and with product licensing in Australia?",
+            "correctness_aspect_critic": 0.1824294551361556,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which Canadian parliamentary institution hosted the elections of both a Liberal Member of Parliament representing Prince Edward\u2014Hastings in 1988 and a Progressive Conservative Member of Parliament from Provencher in 1972?",
+            "correctness_aspect_critic": 0.20851808447323072,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is the parish in Azuay Province that has a population of 12,650 located in the same canton as the parish with a population of 1,622?",
+            "correctness_aspect_critic": 0.1864294724921866,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was the King of Bavaria from 1886 to 1913 the son of Richard, 4th Prince of Sayn-Wittgenstein-Berleburg?",
+            "correctness_aspect_critic": 0.18215821484113184,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Is the municipality of Champlain located in the same province where the Saint-Maurice River empties into the Saint Lawrence River?",
+            "correctness_aspect_critic": 0.18125393440125928,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did Germany win the 2014 FIFA World Cup against a team that also participated in the Roca Cup?",
+            "correctness_aspect_critic": 0.1841153312984401,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is the company that relocated its corporate headquarters from New York City to Henrico County in 2008 also considered one of the largest private employers in the Richmond area through its operations?",
+            "correctness_aspect_critic": 0.6896246216080727,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Did the director of 'The Oklahoma Woman' also direct the film that stars the actor who appears alongside Mona Knox and Eddy Waller?",
+            "correctness_aspect_critic": 0.18755914252623007,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Does the mission control centre for the agency that led the Jupiter Ganymede Orbiter also operate unmanned spacecraft?",
+            "correctness_aspect_critic": 0.18807139600787487,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Does Nanjing also host professional troupes for the specific Chinese opera variety performed by the Jiangsu Peking Opera Institute?",
+            "correctness_aspect_critic": 0.1958352956934207,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Is the journal edited by Jesper Falkheimer also published by the institution that established a journal in 1996 covering service learning?",
+            "correctness_aspect_critic": 0.1910076466082792,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was the American fantasy-drama series that aired on ABC from October 2013 developed for the same production company that produced the first Cartoon Network show made by a woman?",
+            "correctness_aspect_critic": 0.18685235846957082,
+            "faithfulness_aspect_critic": 0.2,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Is the presidential museum dedicated to Gerald R. Ford located in the same city as the Impression 5 Science Center?",
+            "correctness_aspect_critic": 0.19250206033557313,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Does the river that provides the only whitewater rafting opportunities in its state flow into the Gulf of Mexico?",
+            "correctness_aspect_critic": 0.19250206033557313,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What was the name of the document that explained the basic principles of the scientific project involving the Dean of Engineering at Columbia University?",
+            "correctness_aspect_critic": 0.17490802026013816,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "In what year was the company that built the \"Albion\"-class landing platform dock split into separate submarine and surface ship units?",
+            "correctness_aspect_critic": 0.18369714660860892,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What author wrote another BBC Books original novel that features the same characters as 'The Year of Intelligent Tigers'?",
+            "correctness_aspect_critic": 0.18576727024655512,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the birth date of the footballer who plays for PSAP Sigli and is from the country where Demang Lehman Stadium is located?",
+            "correctness_aspect_critic": 0.1835767694295849,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "In the language that uses the term 'Baston \u00e0 feu', what year was the 'Canon Hotchkiss \u00e0 tir rapide de 47 mm' introduced?",
+            "correctness_aspect_critic": 0.18246823394920703,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What political party did the American politician who became the fifth Governor of Wisconsin help found, if another American politician served as Governor of Tennessee from 1915 to 1919?",
+            "correctness_aspect_critic": 0.5139648738495846,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What is the publication year of the book about a mouse-dentist, which was written by the same person who wrote Abel's Island?",
+            "correctness_aspect_critic": 0.19232624096890683,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the birth name of the actor who played an insecure, supremely ethical network TV reporter in the 1987 film \"Broadcast News\"?",
+            "correctness_aspect_critic": 0.1822239712666163,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What is the 2005 population of the tambon, located in the same country as Piang Luang, that contains 10 villages?",
+            "correctness_aspect_critic": 0.18127341986779566,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the first written notice year for the village located in the Brno-Country District, which is in the same country as the \u017dermanice Dam?",
+            "correctness_aspect_critic": 0.1914336699583436,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Who was married to an artist that shares the nationality of Alexa Meade?",
+            "correctness_aspect_critic": 0.18159178091363376,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What record label released the double album of improvised music by Keith Jarrett that came out the same year as Sofia Rotaru's album \"Monologue of Love\"?",
+            "correctness_aspect_critic": 0.18248263188407965,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What novel was published in the birth year of Bernard Fresson?",
+            "correctness_aspect_critic": 0.1858512817770802,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was the population of Banjevac in 2002 greater than the population of R\u0111avica?",
+            "correctness_aspect_critic": 0.5650886033931203,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Did Steve Gordon direct his final film, Arthur, in the same year that Christopher Cross achieved his last American number-one hit with Arthur's Theme?",
+            "correctness_aspect_critic": 0.18393841951907086,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was the Oswego Yacht Club clubhouse, designed by Claude Fayette Bragdon, completed earlier than the Ocean Forest Country Club, designed by Raymond Hood?",
+            "correctness_aspect_critic": 0.1817277618149354,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "For the competition whose quarter-finals draw took place on 17 February 2018, was the count of Level 3 teams in that round greater than the number of distinct winning prize categories specified in the financial rewards list?",
+            "correctness_aspect_critic": 0.18174449424312136,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Was the number of seasons Simon Cowell was on American Idol greater than the number of seasons the record vote total from Fantasia Barrino's winning season remained the highest?",
+            "correctness_aspect_critic": 0.18387408763449836,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was the unreleased Nintendo Entertainment System game Sunman commercially released in the same year that Nightshade Part 1: The Claws of Sutekh was released?",
+            "correctness_aspect_critic": 0.18922967534435314,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Was Jean-Fran\u00e7ois Miniac born in an earlier year than Suzy Solidor?",
+            "correctness_aspect_critic": 0.19125663625674,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was James F. Brooks born earlier than John E. Brooks?",
+            "correctness_aspect_critic": 0.19099160093304735,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did Aylward's first professional season occur before Harold Newhouser began pitching in Major League Baseball?",
+            "correctness_aspect_critic": 0.18684252867340279,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was the first solar cell developed earlier than Hans K. Ziegler's birth year?",
+            "correctness_aspect_critic": 0.192006872405952,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Is the population of Carefree greater than the population of Litchfield Park?",
+            "correctness_aspect_critic": 0.18444013975392803,
+            "faithfulness_aspect_critic": 0.6,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did the actor who stood in for Thanos during filming of Guardians of the Galaxy also portray a separate credited character in that film, a distinction not shared by the actor who portrayed Thanos in The Avengers?",
+            "correctness_aspect_critic": 0.18315291628271788,
+            "faithfulness_aspect_critic": 0.25,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was Todd Bergen born before the club that eventually became the New Jersey Devils was founded?",
+            "correctness_aspect_critic": 0.1830066612201463,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Is the Department of National Defence, identified as a federal government department and civilian support system, considered part of the military command structure led by the Chief of the Defence Staff, in the same way the Armed Forces Council is?",
+            "correctness_aspect_critic": 0.19250206033557313,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did the mass-production of the IKCO Dena begin in the same calendar year that the Genesis brand was officially announced as a standalone marque?",
+            "correctness_aspect_critic": 0.18074405979694552,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Was the population of Makit County in 2002 greater than the population of Akshinsky District?",
+            "correctness_aspect_critic": 0.17798639152667417,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did the Dartford nuns' approach to faith involve the same emphasis on mystical union as was characteristic of the spiritual tradition of Dominic's Order?",
+            "correctness_aspect_critic": 0.18282626819605113,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did the lifespan of Sir Edwin Landseer Lutyens overlap with the early 20th century revival of Neo-Georgian architecture in Great Britain?",
+            "correctness_aspect_critic": 0.1796129796603141,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is Big Flat Brook located in the same state as Fort Delaware State Park?",
+            "correctness_aspect_critic": 0.18760949965190227,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did the UN counter-offensive at Inchon occur before the First Phase Offensive launched by the PVA 13th Army Group?",
+            "correctness_aspect_critic": 0.18637780555556435,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is the maximum current allowed during the initial low-power mode connection for a USB 2.0 device greater than the maximum current drawn by a low-power device connected to a USB 3.0 port?",
+            "correctness_aspect_critic": 0.18435730733132788,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did the Chevrolet Opala begin being sold in the same year that Enterprise Rent-A-Car changed its name?",
+            "correctness_aspect_critic": 0.17893913667590983,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did the Samsung Galaxy S4 introduce a more significantly redesigned physique compared to its predecessor than the Samsung Galaxy S II did for its own predecessor?",
+            "correctness_aspect_critic": 0.18762642390385392,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did the ABS-CBN drama Mara Clara run for a longer duration than Fernando L\u00f3pez's tenure as chairman of ABS-CBN?",
+            "correctness_aspect_critic": 0.18948891467319853,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Does Southern Cross Station in Melbourne, which provides direct interstate rail services to Sydney, have a single platform like the Oak Flats intercity train station?",
+            "correctness_aspect_critic": 0.18711923643356404,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Was Lil Wayne's song 'Right Above It' released as a single earlier than his song 'It's Good'?",
+            "correctness_aspect_critic": 0.4857653584167427,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Did Hitler's 1934 pronouncements regarding an inescapable battle against Pan-Slavism precede the development of Pan-Slavism as a movement among intellectuals?",
+            "correctness_aspect_critic": 0.18882739840460233,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did the TVB drama 'The Beauty of the Game' first air earlier than 'Twilight of a Nation'?",
+            "correctness_aspect_critic": 0.18774079808518537,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was the Dashengguan Yangtze River Bridge completed prior to the Wushan Yangtze River Bridge?",
+            "correctness_aspect_critic": 0.18895727207877483,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did Jean Delville's active painting career extend into a later century than Hendrick de Clerck's?",
+            "correctness_aspect_critic": 0.18362250852058548,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did John I, Count of Foix, live in the same century as the John who had conjugal relationships with Isabella of Angoul\u00eame?",
+            "correctness_aspect_critic": 0.18990774865201648,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did Adam Smith's Lectures on Jurisprudence appear earlier than his work titled The Wealth of Nations?",
+            "correctness_aspect_critic": 0.1880503640300537,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Is Terminal 2 at Copenhagen Airport described as being set apart from its other main buildings, like Terminal 2 at Dubai International Airport?",
+            "correctness_aspect_critic": 0.18403553038820614,
+            "faithfulness_aspect_critic": 0.5714285714285714,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did the Chicago Cubs' World Series victory as depicted in the 1989 film Back to the Future Part II involve a comeback from a 3-1 deficit, similar to their actual World Series win against the Indians?",
+            "correctness_aspect_critic": 0.18791795559344054,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Did Lateduster's most active period occur earlier than Koerner, Ray & Glover's notable period?",
+            "correctness_aspect_critic": 0.18817928897281844,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did ERS Artistic Director John Collins receive his US Artists Donnelley Fellowship before Popper was knighted?",
+            "correctness_aspect_critic": 0.18822627350587276,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was Don Pietro de' Medici born earlier than Garzia de' Medici?",
+            "correctness_aspect_critic": 0.19323882077272372,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did the discussions of Neo-Platonists by Eckstein's group occur before Johannes Tauler promoted a neo-platonist dimension?",
+            "correctness_aspect_critic": 0.18636009475191312,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Does the San Carlos High School located in San Carlos, Arizona, operate under the same school district as the San Carlos High School that existed in San Carlos, California?",
+            "correctness_aspect_critic": 0.18832484831880242,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did the British begin assessing the impact of 'The Blitz' before the Luftwaffe started targeting British cities in the same campaign?",
+            "correctness_aspect_critic": 0.18758334866155668,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Was the 1940 film 'Sky Murder' released by the same studio that distributed 'Island of Doomed Men'?",
+            "correctness_aspect_critic": 0.19260494085251575,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did the Willie Nelson who founded Lone Star Records release 'Face of a Fighter' before the Willie Nelson who holds the NABF Intercontinental Super Welterweight title had a professional fight against Jesse Feliciano?",
+            "correctness_aspect_critic": 0.18246731239405495,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did the number of murders committed by Fiz's husband, John Stape, exceed the number of Western leaders killed during the coordinated attacks in London?",
+            "correctness_aspect_critic": 0.19241540240283725,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is the tallest building in Provo, Utah, located in the same city as the headquarters of The Church of Jesus Christ of Latter-day Saints?",
+            "correctness_aspect_critic": 0.18637288724707596,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did the Gelug school receive similar official recognition from the Ming dynasty as the Karmapa Kargyu school?",
+            "correctness_aspect_critic": 0.18726263615026525,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did the Ottoman civil war, which ended with Mehmed I becoming sultan, conclude before the Fall of Constantinople by Mehmed the Conqueror?",
+            "correctness_aspect_critic": 0.43896296220453757,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did the mutiny on the Royal Navy vessel HMS Bounty occur prior to the arrival of the First Fleet in Sydney?",
+            "correctness_aspect_critic": 0.18674831941440043,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did the repeal of the Slavery Abolition Act 1833 occur earlier than the enactment of William Wilberforce's Slave Trade Act 1807?",
+            "correctness_aspect_critic": 0.1926236380784827,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Were both the 2004 film 'Care Bears: Journey to Joke-a-lot' and 'Shrek 2' produced using computer animation?",
+            "correctness_aspect_critic": 0.18691354567953578,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Was Carles Busquets Barroso born before the season when Guardiola's Barcelona team set their club record of 28 consecutive games unbeaten?",
+            "correctness_aspect_critic": 0.18254039875401631,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was John Mickel born earlier than Gregory Jack Biffle?",
+            "correctness_aspect_critic": 0.18872239942345778,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Does Stadio Erasmo Iacovone have a larger seating capacity than Stadio Antonio Bianco?",
+            "correctness_aspect_critic": 0.17911904808657828,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was the National Film Board of Canada documentary 'Traitor or Patriot' broadcast on CBC's 'Man Alive' series?",
+            "correctness_aspect_critic": 0.19260494085251575,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was the Confederacy established before the American Civil War began with the attack on Fort Sumter?",
+            "correctness_aspect_critic": 0.18807139600787487,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did the CBC lose its exclusive broadcasting rights for Canadian Curling Association events before it lost exclusive use of the 'Hockey Night in Canada' brand?",
+            "correctness_aspect_critic": 0.48301524794107176,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Does Nicaragua have more large lakes than it has official names?",
+            "correctness_aspect_critic": 0.18807139600787487,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is the Central Library, the main library of the Kansas City Public Library system, also a Carnegie library, similar to the Wichita City Carnegie Library Building?",
+            "correctness_aspect_critic": 0.19250206033557313,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was the film Night Alarm released earlier than Mabel, Fatty and the Law?",
+            "correctness_aspect_critic": 0.19200185256075986,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Was Datuk Chua Tee Yong born before the general election for the 11th Parliament of Malaysia?",
+            "correctness_aspect_critic": 0.6794458785239479,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Was 'The Crossovers' created in the same year that 'EVO: Endgame' concluded?",
+            "correctness_aspect_critic": 0.19401556516493879,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Was 'The Homo Handbook: Getting in Touch with Your Inner Homo' published as a paper book in the same year that '253, or Tube Theatre' was published as a paper book?",
+            "correctness_aspect_critic": 0.18845346029361632,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did the Louis Sachar novel published in 1981 achieve a Number One chart position, like Razzy Bailey's single released in the same year?",
+            "correctness_aspect_critic": 0.19040843687850453,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did the first *Twilight* film, released by Summit Entertainment, earn more on its opening day than the second installment, *New Moon*?",
+            "correctness_aspect_critic": 0.18284488969566606,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Is the city where Bojana Stamenov performs for children the same as the town where the film Tilva Ro\u0161 is set?",
+            "correctness_aspect_critic": 0.18771287990685911,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was the album 'Atomic Playboys' released before the band Xenomorph was formed?",
+            "correctness_aspect_critic": 0.18170757324467973,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did Tim McGraw's single \"Grown Men Don't Cry\" achieve a higher peak position on the US country charts than The Charlie Daniels Band's \"This Ain't No Rag, It's a Flag\"?",
+            "correctness_aspect_critic": 0.18147835535711535,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did the Scarborough Town Centre open earlier than the Toronto Coach Terminal?",
+            "correctness_aspect_critic": 0.18693494886974343,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did Elizabeth make her first radio broadcast earlier than her induction into the Welsh Gorsedd of Bards?",
+            "correctness_aspect_critic": 0.18418311155430403,
+            "faithfulness_aspect_critic": 0.6,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was the film 'The Jade Pussycat' released after 'The Longest Night in Shanghai'?",
+            "correctness_aspect_critic": 0.18768092392008023,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did Kung Fu Tai Chi magazine begin publication before The New York Times was founded?",
+            "correctness_aspect_critic": 0.18763811357428833,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Was the folk music trio The Sons of the Never Wrong founded in the same city where the ensemble Trio Sonnerie was co-founded?",
+            "correctness_aspect_critic": 0.1895535580811655,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did the USS Jason (AR-8) have the distinction of being the only U.S. naval vessel to bear its name, a characteristic shared by the USS Askari (ARL-30)?",
+            "correctness_aspect_critic": 0.1887634508168597,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Was the Christmas song 'It's Beginning to Look a Lot Like Christmas' written earlier than 'Till There Was You'?",
+            "correctness_aspect_critic": 0.18113585565104512,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was Mishael Morgan born earlier than Christel Khalil?",
+            "correctness_aspect_critic": 0.18584707926300137,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Do both the Reconquista River and the Dolores River have names that originate from Spanish?",
+            "correctness_aspect_critic": 0.946348792044966,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which of these Alaskan geographic features, Mount Miller or the Sawtooth Range, is a subrange of the Boundary Ranges?",
+            "correctness_aspect_critic": 0.20885630475427513,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which acquisition involving ARC occurred earlier, ARC's acquisition of the Columbia Phonograph Company or its acquisition by the Columbia Broadcasting System?",
+            "correctness_aspect_critic": 0.7411541630868386,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Which occurred first: the formation of the rock band Papa Roach or the release of their single 'Still Swingin''?",
+            "correctness_aspect_critic": 0.6030909753172994,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Which BMW creation was intended for vehicle production: the iPod automobile interface or the Vision ConnectedDrive concept car?",
+            "correctness_aspect_critic": 0.7209757397138398,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Which American actress, Jodi Benson or Susan Egan, was born first?",
+            "correctness_aspect_critic": 0.1788795628046116,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which Titian portrait, La Bella or Portrait of a Lady, was painted earlier?",
+            "correctness_aspect_critic": 0.21689505386108918,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Which second generation Nissan model, the Armada or the Rogue, was launched earlier?",
+            "correctness_aspect_critic": 0.21362240927811732,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Is the AM frequency of the radio station licensed to Notus numerically larger than the city of Notus's population at the 2010 census?",
+            "correctness_aspect_critic": 0.18149771740397572,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which record label was founded or renamed earlier, Rebelle Records AB or the company that became Sony Music Entertainment?",
+            "correctness_aspect_critic": 0.18560850307641255,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which entity had a smaller maximum daily production in barrels, the Bitumount oil separation plant or the overall oil sands in Alberta?",
+            "correctness_aspect_critic": 0.2106515021178785,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which was dissolved or first published later: the Holy Roman Empire or the novel 'The Prisoner of Zenda'?",
+            "correctness_aspect_critic": 0.20975156013203125,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which Mariah Carey release, 'The Emancipation of Mimi' or 'Thank God I Found You', was released first?",
+            "correctness_aspect_critic": 0.1829143304925763,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which character, the prince or the Featherduster, was transformed into an inanimate object by the Enchantress?",
+            "correctness_aspect_critic": 0.21352478884466353,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What type of ability is deemed necessary for a working dog by the Australian Cattle Dog breed standard, and what kind of achievements defined the 'Queensland Heeler' line in the 1940s?",
+            "correctness_aspect_critic": 0.9601266798954201,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Which of the Moray Bridge or the Honor\u00e9 Mercier Bridge was originally named to describe its physical characteristics?",
+            "correctness_aspect_critic": 0.2057045582150624,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which military force was established earlier, the Confederate States Army or the 54th Regiment Massachusetts Volunteer Infantry?",
+            "correctness_aspect_critic": 0.21384778594851098,
+            "faithfulness_aspect_critic": 0.7142857142857143,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which 1995 film, 'Leaving Las Vegas' or 'Dolores Claiborne', starred a larger number of actors according to the provided text?",
+            "correctness_aspect_critic": 0.19655433974827058,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which entity named Clear Springs in Texas existed first, the high school or the historic settlement?",
+            "correctness_aspect_critic": 0.18046467062631938,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which album released on the Blue Note label was recorded earlier, Something Personal or The 3 Sounds?",
+            "correctness_aspect_critic": 0.20423971761670845,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which company, Tiffany & Co. or McCrory Stores, was founded earlier?",
+            "correctness_aspect_critic": 0.20864384778841805,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did Rajendra Prasad assume the role of inaugural President of India before or after he honored Vishwanath at the Gandharva Mahavidyalaya?",
+            "correctness_aspect_critic": 0.183835123727247,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which event occurred first: Air India's shift to Terminal 3 or Cochin International Airport becoming fully solar powered?",
+            "correctness_aspect_critic": 0.5987721076333375,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Which Somali athlete competed in an earlier Summer Olympics, Samiya Yuusf Omar or Mohamed Hassan Mohamed?",
+            "correctness_aspect_critic": 0.21256324916330632,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which album was released earlier, Paul Simon's second self-titled studio album or Simon & Garfunkel's 'Bridge over Troubled Water'?",
+            "correctness_aspect_critic": 0.2094649960579198,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is the number of creators for How I Met Your Mother greater or less than the number of people identified as its main character?",
+            "correctness_aspect_critic": 0.1779405038518471,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "How many more campuses does the entire University of California system contain compared to the number of its campuses explicitly listed within the Tech Coast region?",
+            "correctness_aspect_critic": 0.43876318942241194,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Was Erich Zakowski born before or after the establishment of the East Prussian Regional Museum?",
+            "correctness_aspect_critic": 0.18010807978354854,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is the railway connecting Brazzaville and Pointe-Noire in the Republic of the Congo longer than the country's total paved roads?",
+            "correctness_aspect_critic": 0.19250206033557313,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Who was born earlier, Mulham Arufin or Andrian Mardiansyah?",
+            "correctness_aspect_critic": 0.2031552615930215,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Who was born earlier, Lloyd Dane or Wendell Oliver Scott?",
+            "correctness_aspect_critic": 0.2085608360442892,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which conflict involving the United States began earlier, the Second Seminole War or the Northwest Indian War?",
+            "correctness_aspect_critic": 0.21443961206946968,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which entity, Carpetania or the province of Toledo, is described as bordering a larger number of distinct regions or geographical features?",
+            "correctness_aspect_critic": 0.22236105742183337,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Of the television programs that started airing in 1983, which one, Just Men! or The Joy of Painting, concluded its run later?",
+            "correctness_aspect_critic": 0.20266138896150884,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Between Bill Irwin and Leslie Carrara-Rudolph, which performer is noted for primarily engaging in puppeteering roles?",
+            "correctness_aspect_critic": 0.20545202710286642,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which character, Tara Grace Knowles-Teller or Rachel Berry, has a 'First appearance' entry that explicitly includes a year?",
+            "correctness_aspect_critic": 0.2045201860283754,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "According to the Census, which type of household income, the real median level reported in 2016 or the mean income reported in 2014, had a higher numerical value?",
+            "correctness_aspect_critic": 0.20799274571648838,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which defensive measure regarding Richmond proved ineffective: moving the state capital for isolation from British attack, or moving military supplies to a foundry?",
+            "correctness_aspect_critic": 0.23076796071846611,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which operating system, MS-DOS or Windows Vista, was released earlier by Microsoft?",
+            "correctness_aspect_critic": 0.19803959343108568,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Who was born earlier, Peter Hayden Dinklage or Neil Patrick Harris?",
+            "correctness_aspect_critic": 0.20821351768603455,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which date occurred earlier: the birth date of Todd Michael Sievers, who was part of the 2001 Division 1-A National Championship team, or the playing date of the 2002 Rose Bowl?",
+            "correctness_aspect_critic": 0.5799460795253011,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which year came first: the introduction year of the Australian two-dollar coin or the year of the coin design featuring Queen Elizabeth II on the obverse with eucalyptus leaves?",
+            "correctness_aspect_critic": 0.18967041902126136,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which municipality named Dolores, the one in Tolima, Colombia or the one in Montezuma County, Colorado, had a larger population according to their respective censuses?",
+            "correctness_aspect_critic": 0.21523084530926556,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who was born earlier, Andrew Norman Meldrum or Eve Blantyre Simpson?",
+            "correctness_aspect_critic": 0.18469640966710205,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Between John Ray Dunning and Robert Serber, both American physicists involved in the Manhattan Project, who lived longer?",
+            "correctness_aspect_critic": 0.18182330740799763,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which United States Army installation, Fort Leonard Wood or Fort Washita, was established earlier?",
+            "correctness_aspect_critic": 0.2305582789344205,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Which initiative occurred earlier in Santa Monica's history: the launch of its Bicycle sharing system or the presence of a Japanese fishing village near the Long Wharf?",
+            "correctness_aspect_critic": 0.18335307638730178,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Based on the provided text, which Qatari football club, Muaither or Al Kharaitiyat SC, is mentioned in connection with a greater number of distinct Qatari domestic football leagues or divisions?",
+            "correctness_aspect_critic": 0.19889918504390616,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which Allen Toussaint album, 'The Bright Mississippi' or 'Toussaint', was released earlier?",
+            "correctness_aspect_critic": 0.19994978294916388,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which song by Holly Dunn, 'Love Someone Like Me' or 'Only When I Love', reached a higher position on the Billboard Hot Country Singles & Tracks chart?",
+            "correctness_aspect_critic": 0.18325669553518303,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which actor from the cast of Wet Hot American Summer has their film debut explicitly mentioned in one description of the movie but not the other?",
+            "correctness_aspect_critic": 0.18824563223768648,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which racing-themed media, Speed Racer or Stunt Race FX, had its earliest form published as a print serialization?",
+            "correctness_aspect_critic": 0.20931182603448914,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which actor, Charles J. Richman or Thomas John Mitchell, was born earlier?",
+            "correctness_aspect_critic": 0.21020031417785634,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which public event drew more participants: the reburial gathering in Kiev for Vasyl Stus, Oleksiy Tykhy, and Yuriy Lytvyn, or the memorial service in Lviv marking Taras Shevchenko's death anniversary?",
+            "correctness_aspect_critic": 0.23034618763050424,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Which event occurred earlier: Paul Georg von M\u00f6llendorff's birth or the Nazi-initiated renaming of places in Prussia?",
+            "correctness_aspect_critic": 0.20654711633286768,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Of the John Burroughs Medal and the John Burroughs Memorial State Historic Site, which one is described as an annually recurring event?",
+            "correctness_aspect_critic": 0.5277963678389632,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Is the country where Guido Maus was born the same as the country where the public sculpture 'Sky Mirror' is installed?",
+            "correctness_aspect_critic": 0.1893326346706269,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which Atlanta Braves World Series championship year is closest to the institution year of the MLB wild card system?",
+            "correctness_aspect_critic": 0.19112520731393268,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which Antarctic airfield, Wilkins Runway or Williams Field, consists of fewer runways?",
+            "correctness_aspect_critic": 0.2164752587905504,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which occurred first: the publication of John Kerry's Vietnam reminiscences or the date he received his second Purple Heart?",
+            "correctness_aspect_critic": 0.19316919007622926,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which British Columbia creek had gold discovered in it first, Lambly Creek or Defot Creek?",
+            "correctness_aspect_critic": 0.2132840104984449,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Did Adidas become a FIFA World Cup official match ball supplier before or after Russia was awarded the hosting rights for the 2018 FIFA World Cup?",
+            "correctness_aspect_critic": 0.18854723244323923,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which individual's noted achievement at Howard University occurred first: Slowe becoming Dean of Women or Winona Cargile Alexander founding Delta Sigma Theta?",
+            "correctness_aspect_critic": 0.19831496045545685,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which Super Bowl featuring the NFC champion Rams, Super Bowl XIV or Super Bowl XXXVI, had a greater point differential between the winning and losing teams?",
+            "correctness_aspect_critic": 0.20803915100769874,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is Ethernet a technology that demanding customers can utilize and was previously widely used with RG-58 cable?",
+            "correctness_aspect_critic": 0.9464881493952727,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Is there an actress mentioned who played both a love interest of Ted Mosby and the first lead female character for the Call of Duty franchise?",
+            "correctness_aspect_critic": 0.18470252051787583,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was any single individual both a writer and a director for the 'Gravity Falls' episode 'Dreamscaperers'?",
+            "correctness_aspect_critic": 0.18473937548147573,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is there a cemetery in Australia that serves as the main cemetery for its capital and is located in Victoria?",
+            "correctness_aspect_critic": 0.1887984753362263,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did both the songs 'Drop the Pilot' and 'Play the Game' peak within the Top 50 of the US charts?",
+            "correctness_aspect_critic": 0.18372822462903604,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Do both Maquoketa Community High School and Waukee High School have freshmen attending separate 8/9 schools?",
+            "correctness_aspect_critic": 0.1840431826371749,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is the city where Bryan Namoff was born the same city where the LA Galaxy is based?",
+            "correctness_aspect_critic": 0.18769669174164172,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did any Padma Shri recipient mentioned in the text contribute to both literature and radiation chemistry?",
+            "correctness_aspect_critic": 0.18613424351519253,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Was Germany a participant in the 2002 FIFA World Cup Final and also associated with a defending World Cup Super G champion?",
+            "correctness_aspect_critic": 0.18355715098899628,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Are Gmina Pabianice and Gmina Gorlice both rural gminas located within Poland?",
+            "correctness_aspect_critic": 0.18039716743103965,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Does the organization established by Mahatma Gandhi cater to the same demographic group for whom seats are reserved in the Gujarat Legislative Assembly?",
+            "correctness_aspect_critic": 0.18312203633633406,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did Muawiyah, who was the father of Yazid, oversee military expansion in North Africa?",
+            "correctness_aspect_critic": 0.19131867029747882,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Is there a song from Michael Jackson's 'Thriller' album that was a duet featuring Paul McCartney and was released after 'The Girl Is Mine'?",
+            "correctness_aspect_critic": 0.19260494085251575,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Do both the Lieutenant Governor of Texas and the Governor of Texas currently serve four-year terms?",
+            "correctness_aspect_critic": 0.17765051521482841,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Was Johnny Ringo, known as an Old West gunman, a character portrayed in the 2013 film 'The Lone Ranger'?",
+            "correctness_aspect_critic": 0.19250206033557313,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did Joseph Stalin order the dissolution or disbandment of both the Chechen-Ingush ASSR and the Karachay Autonomous Oblast, with parts of their territories subsequently transferred to the Georgian SSR?",
+            "correctness_aspect_critic": 0.39688891948243443,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Is the common toad considered a native amphibian species of Great Britain?",
+            "correctness_aspect_critic": 0.9471928344938634,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Was any individual named Jones both lynched and executed in Louisiana?",
+            "correctness_aspect_critic": 0.1887618733961693,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did any single record label release both Shawn Amos's 'Thank You Shirl-ee May (A Love Story)' album and the 'Punk Goes 80's' compilation in 2005?",
+            "correctness_aspect_critic": 0.18445291587924106,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Was the publication year of David Leavitt's novel 'The Lost Language of Cranes' identical to the year Thomas Harris's novel 'Red Dragon' was adapted into the film 'Manhunter'?",
+            "correctness_aspect_critic": 0.18333963696323044,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did US President Donald Trump recognize a city as Israel's capital whose sovereignty over its eastern part is not recognized internationally?",
+            "correctness_aspect_critic": 0.1925876225504659,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Is there any described location in the Appalachian Mountains of North Carolina that is both accessible at milepost 422.4 of the Blue Ridge Parkway and offers both fishing and swimming?",
+            "correctness_aspect_critic": 0.18594575441690636,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is the term 'Ashkenazi' as identified by the concept of Yiddishkeit the same as how it is currently used in Israel?",
+            "correctness_aspect_critic": 0.1874714540547246,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Is a single named individual identified as the director for both the film 'Arthur' and the narrative featuring Margaret 'Marnie' Edgar?",
+            "correctness_aspect_critic": 0.18918452694047805,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was the Empire State Building considered the world's tallest building in 1980 and the 6th-tallest freestanding structure in the Americas as of 2017?",
+            "correctness_aspect_critic": 0.18257587462534539,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was 'The Movie Song Album', described by Tony Bennett in his autobiography as his 'all time favorite record', released by Columbia Records?",
+            "correctness_aspect_critic": 0.19250206033557313,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Were the Redshirts, known as the volunteers who followed Giuseppe Garibaldi, among the forces that participated in the Battle of Aspromonte?",
+            "correctness_aspect_critic": 0.18637780555556435,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Is the United States both the biggest missionary sender globally and the country where Presbyterianism first officially arrived in Colonial America in 1703?",
+            "correctness_aspect_critic": 0.18337757205484626,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Do both the Pakistani government's fiscal year and Australia's financial year begin on 1 July and conclude on 30 June?",
+            "correctness_aspect_critic": 0.1822366803188042,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is there a professor at Harvard University who was awarded the Fields Medal and is also known for pioneering work in mathematical biology?",
+            "correctness_aspect_critic": 0.18878698912024383,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did an actor from the musical comedy duo Flight of the Conchords provide the voice for Treebeard in Peter Jackson's 'The Lord of the Rings' films?",
+            "correctness_aspect_critic": 0.18699483736285658,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is the song 'For You', written and recorded by Bruce Springsteen, featured on Olivia Newton-John's debut studio album 'If Not for You'?",
+            "correctness_aspect_critic": 0.1846335464894862,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Is Cairo associated with both a non-scheduled international passenger flight that resulted in 30 fatalities and a stadium with a capacity of 30,000 spectators?",
+            "correctness_aspect_critic": 0.18637780555556435,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was the supercomputer System X, assembled by Virginia Tech, powered by an operating system that was the predecessor to Windows Vista?",
+            "correctness_aspect_critic": 0.18482157641597927,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did any individual both appear as an on-screen extra in 'The Lord of the Rings: The Fellowship of the Ring' and perform as a voice actor for a CGI or animatronic character in 'The Lord of the Rings: The Two Towers'?",
+            "correctness_aspect_critic": 0.19250206033557313,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is there a Mississippi River tributary mentioned that flows through Minneapolis and is also the largest river flowing across Iowa?",
+            "correctness_aspect_critic": 0.19225826921325043,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did the Billboard Hot Country Songs chart feature as a number one hit for both '19 Somethin'' by Mark Wills and 'Must Be Doin' Somethin' Right' by Billy Currington?",
+            "correctness_aspect_critic": 0.17954083463321086,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Are both Eden Lake Township in Stearns County, Minnesota, and Eden Township in Benton County, Iowa, located within the United States?",
+            "correctness_aspect_critic": 0.568217193416819,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Is the Rhine both the longest river in Germany and the second-longest river in Central and Western Europe?",
+            "correctness_aspect_critic": 0.18420314852123504,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is there a film that features 'Beach' in its title, was filmed on the Thai island Koh Phi Phi, and was directed by Hong Sang-soo?",
+            "correctness_aspect_critic": 0.18682380901971957,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Does any diplomatic mission of the Republic of the Philippines publish a document on industrial relations, such as The Sipag Pinoy?",
+            "correctness_aspect_critic": 0.19042752197032156,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Did any English statesman also serve as mayor of Bath?",
+            "correctness_aspect_critic": 0.1898653004473329,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Was the director of 'Underground Secrets' also involved in the film 'The Girl with the Dragon Tattoo'?",
+            "correctness_aspect_critic": 0.1880593755035976,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is Madison Square Garden home to any professional sports team whose league's headquarters are located in New York City?",
+            "correctness_aspect_critic": 0.19667298315198173,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Does Switzerland rank as the eighth-highest for per capita gross domestic product on the IMF list and also rank 8th globally for GDP per capita when adjusted for purchasing power parity according to the World Bank and IMF?",
+            "correctness_aspect_critic": 0.18807139600787487,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Were Frank Orren Lowden and John Peter Altgeld both governors of Illinois?",
+            "correctness_aspect_critic": 0.9454106994051941,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Was either the song \"You Were on My Mind\" or \"Till There Was You\" both written in 1962 and featured in a 1962 movie adaptation?",
+            "correctness_aspect_critic": 0.18620366524466928,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which person both starred in 'The Cosby Show' and was an executive producer for 'Here and Now'?",
+            "correctness_aspect_critic": 0.18184227793644805,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did both Beaver Motorcoach Corporation, based in Oregon, and Beaverton Corporate Center Heliport, also located in Oregon, cease operations in 2009?",
+            "correctness_aspect_critic": 0.18199019935338345,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did any player who won the Bronze Boot in the 2018 World Cup score 5 goals in the 2010 World Cup?",
+            "correctness_aspect_critic": 0.1879168720191505,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was the record company subsidiary, which the Columbia Broadcasting System considered renaming from Columbia Records to CBS Records in 1965, the same entity that had been operating internationally under the CBS Records name since 1962?",
+            "correctness_aspect_critic": 0.19250206033557313,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Was a Paul McCartney song released in February 1971 also a single from his 1986 album \"Press to Play\"?",
+            "correctness_aspect_critic": 0.18466009902627628,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which year for the Summer Olympics, in which Barrett won a gold medal for the United States national basketball team, also marks the end of a seven-consecutive title streak for United States men's Olympic basketball teams?",
+            "correctness_aspect_critic": 0.18865631883938877,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did Hayek both come into conflict with Liberal Party leader David Steel and was he argued by Arthur M. Diamond to have problems when going beyond economic science?",
+            "correctness_aspect_critic": 0.182240767133643,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was the American family music group that signed with Motown also the artist whose first three singles topped the US charts?",
+            "correctness_aspect_critic": 0.18791103966162817,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did Clive Carter play Raoul in the 1985 Sydmonton preview, and did Raoul recognize Christine Daa\u00e9 as his childhood playmate?",
+            "correctness_aspect_critic": 0.17946294323343417,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did an individual who earned a doctorate from the University of Breslau also serve as an editor for the journal 'Deutsche Mathematik'?",
+            "correctness_aspect_critic": 0.19260494085251575,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was a song released by Epic featured in the soundtrack for FIFA 16?",
+            "correctness_aspect_critic": 0.18415588151839393,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which American country music artist both wrote the lead single for their sixth studio album and released their fourth studio album whose first single reached number one on the Billboard Country Airplay chart?",
+            "correctness_aspect_critic": 0.1899435147631694,
+            "faithfulness_aspect_critic": 0.8333333333333334,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Were both individuals associated with the name Solidor connected to the city of Paris by either birth or residence?",
+            "correctness_aspect_critic": 0.18384188089721626,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is there a country that was previously described as a 'Hindu Kingdom' and is listed among the three countries where Hinduism is the majority?",
+            "correctness_aspect_critic": 0.1813219144463754,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did Mabel Normand star in a film directed by Victor Schertzinger and also in a film directed by Fatty Arbuckle?",
+            "correctness_aspect_critic": 0.18807139600787487,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is any of Rachel Berry's significant others also the coach of Vocal Adrenaline?",
+            "correctness_aspect_critic": 0.19260494085251575,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is there an American individual described who is both based in New York City and was born in New York?",
+            "correctness_aspect_critic": 0.1898715426546488,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did both Dean Sampson and Hines represent England?",
+            "correctness_aspect_critic": 0.18756955729497451,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did Susan Aglukark or Jane Siberry release an album that was both a commercial breakthrough in Canada and their most famous internationally?",
+            "correctness_aspect_critic": 0.19260494085251575,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was the 2015 film distributed by Lionsgate also the ninth highest-grossing film of 2015?",
+            "correctness_aspect_critic": 0.1839271555541565,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did a single individual serve as both the founder and a rosh yeshiva of the Telz Yeshiva?",
+            "correctness_aspect_critic": 0.19250206033557313,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did both 'Law of the Plainsman' and 'Tales of the Texas Rangers' air on NBC Television?",
+            "correctness_aspect_critic": 0.1860372120620505,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Was Robert Zemeckis both the director of the 1985 film 'Back to the Future' and an artist featured on its soundtrack album?",
+            "correctness_aspect_critic": 0.19250206033557313,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Were both the Martin BM and the AAM-N-4 Oriole programs, developed by the Glenn L. Martin Company for the United States Navy, cancelled before flight testing began?",
+            "correctness_aspect_critic": 0.1906638550043229,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did a British athlete win the Girls' Championship in 2008, the same year a match was declared over due to a wrestler's inability to continue at the Great American Bash?",
+            "correctness_aspect_critic": 0.1830055625833767,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which government officer, explicitly mentioned as pledging to uphold the Constitution, can have their appointments terminated by impeachment by Congress?",
+            "correctness_aspect_critic": 0.19068201957027833,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which artist both released a debut studio album produced by Joel Diamond and released an album that includes cover songs by Glen Campbell?",
+            "correctness_aspect_critic": 0.17894993968431447,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which Roman Catholic nun, who established a congregation focused on the care of women, was active before the Bas\u00edlica Minore del Santo Ni\u00f1o de Ceb\u00fa was made a minor basilica?",
+            "correctness_aspect_critic": 0.19842655774491635,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which political alliance includes a party with a member born in Ferrol and a party with a Member of the European Parliament for Central France?",
+            "correctness_aspect_critic": 0.20643280351900337,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which constellation contains a white dwarf star that shows traces of external metal contamination and also a G-type giant star approximately 331 light years away?",
+            "correctness_aspect_critic": 0.18191387829257466,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which chart listed both John Berry's song \"What's in It for Me\" and Chris LeDoux's song \"Whatcha Gonna Do with a Cowboy\"?",
+            "correctness_aspect_critic": 0.17538453033411128,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which empire did Muawiyah wage unceasing war against and also establish a navy to stop its harassment?",
+            "correctness_aspect_critic": 0.706637018298622,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which Philippine media corporation was both the broadcaster of the 'Mara Clara' telenovela and had Fernando Hofile\u00f1a L\u00f3pez Sr. as its chairman?",
+            "correctness_aspect_critic": 0.2060968850386735,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which club did John Terry both make his professional debut for and later become vice-captain under manager Claudio Ranieri?",
+            "correctness_aspect_critic": 0.17711032139837865,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which individual is credited as both a producer for the 'Back to the Future' franchise and a writer for the 1985 film 'Back to the Future'?",
+            "correctness_aspect_critic": 0.1855972465501804,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which American company, formed by predecessors including the Wolcottville Brass Company, also continued operations while American Stores Company was still running chains of supermarkets and drugstores?",
+            "correctness_aspect_critic": 0.8233519577080012,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Which baseball team both played in the final game at Municipal Stadium and is one of the teams listed for completing a 3-1 deficit comeback in a best-of-seven World Series?",
+            "correctness_aspect_critic": 0.19966644906445874,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which of the two Pakistani locations, Punial or Darial, is a mountainous valley and is not found within the Islamabad Capital Territory?",
+            "correctness_aspect_critic": 0.1995691699247249,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which Oklahoma airport is both the state's busiest commercial airport and was outranked by Jones Airport as the busiest overall in Oklahoma?",
+            "correctness_aspect_critic": 0.9718849006550081,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Which country was involved in the 2001 Hainan Island aircraft collision and also experienced the FAA grounding of all civilian aircraft within its continental U.S. borders?",
+            "correctness_aspect_critic": 0.18983278907419213,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What country served as the birthplace for both Georges B\u00e9gu\u00e9, whose father was a railway engineer, and Pierre Louis Del\u00e2ge, who later worked for a railway company?",
+            "correctness_aspect_critic": 0.18506182457295944,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which empire participated in a battle in 530 and also fought under Belisarius in 531 AD?",
+            "correctness_aspect_critic": 0.17883804664487613,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which district borders both Panda District of Inhambane Province and Chibuto District of Gaza Province?",
+            "correctness_aspect_critic": 0.17927289442472194,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which tennis player is listed as having 14 titles and also holds 6 US Open Women's Singles Open Era titles?",
+            "correctness_aspect_critic": 0.19859083179207015,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which brand manufactures both a car model that debuted at the 2013 North American International Auto Show and a full-size luxury car powered by a V8 engine?",
+            "correctness_aspect_critic": 0.20159170269533386,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which month saw Nine's upfronts confirm both the second season renewal of the series hosted by Rebecca Maddern, Ben Fordham, and Freddie Flintoff, and the fourteenth season of The Block?",
+            "correctness_aspect_critic": 0.5665572279189668,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which individual founded a school whose lamas were granted titles by the Ming dynasty, and also sent a disciple who received the 'State Teacher' title from the Yongle Emperor?",
+            "correctness_aspect_critic": 0.1748621103941374,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which country, where the English Church was brought back under papal authority in 1553, is also cited as a primary ancestral origin of the Presbyterian church?",
+            "correctness_aspect_critic": 0.1848013701662885,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which city contains prominent museums that display paintings by Joseph Severn and also houses the National Gallery, where a disputed mythological subject attributed to Piero di Cosimo is located?",
+            "correctness_aspect_critic": 0.18339374259160138,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What single word appears in the description of the puppy character that inspired the dragon Elliot's name and also describes the group led by Peter Pan?",
+            "correctness_aspect_critic": 1.0,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which specific national order, one of two awarded to Trairong Suwankiri, is named after the monarchy that historically resided at the Grand Palace?",
+            "correctness_aspect_critic": 0.17341404022761175,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which American character and voice actor, known for his work with The Walt Disney Company, was the original voice of the title character who appeared in the live-action/puppet series 'Welcome to Pooh Corner'?",
+            "correctness_aspect_critic": 0.1754441455914834,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which country is known for both the Harmelen train disaster on 8 January 1962 and as the location where the Rhine river eventually empties into the North Sea?",
+            "correctness_aspect_critic": 0.9925159820988809,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which constellation contains the fifth magnitude star Kappa Fornacis and also hosts the extrasolar planet HD 16417 b, discovered by the radial velocity method?",
+            "correctness_aspect_critic": 0.21437674526705205,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Which geological formation has outcroppings along the sides of both Kakisa Lake and Tathlina Lake?",
+            "correctness_aspect_critic": 0.17768825634319213,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which term is both a location near the Alameda Dam and a descriptive term for a type of lake found near Grand Tower Island?",
+            "correctness_aspect_critic": 0.18211305703656927,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What is the shared nationality of Turid Birkeland, a former Minister of Culture, and Erna Solberg, the current Prime Minister?",
+            "correctness_aspect_critic": 0.20669687348830948,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which ruler, identified as the third ruler of the state of Qin, was succeeded by an individual whose ancestral name was Ying?",
+            "correctness_aspect_critic": 0.18183352729606914,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which political figure in Prince Edward Island held office both before and after its federation into Canada?",
+            "correctness_aspect_critic": 0.17923646482579947,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which city was the destination of a sculptor's move in 1820 and was also described as being near where a baker was born?",
+            "correctness_aspect_critic": 0.19393100390064766,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which national team won the first Copa Roca and hosted the 2014 FIFA World Cup?",
+            "correctness_aspect_critic": 0.19179227382922098,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which individual both produced The-Dream's album 'Love King' and wrote Katy Perry's song 'Hummingbird Heartbeat'?",
+            "correctness_aspect_critic": 0.179335765985143,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which nation is responsible for the foreign affairs of Saint Helena and acts as the sovereign entity overseeing the administrative system that held the 2012 LegCo election where Charles Mok was elected?",
+            "correctness_aspect_critic": 0.18969758134261766,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which singer performed a song for a 1999 Pepsi advertising campaign and co-wrote and produced a track listed in the Rock Song Index?",
+            "correctness_aspect_critic": 0.18227462386116783,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which specific role is held by a Glee series co-creator for the eighty-first overall episode, and also by a Glee series co-creator for the forty-sixth overall episode?",
+            "correctness_aspect_critic": 0.18985077172895548,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which city is explicitly mentioned as home to both a recording studio where Plan B's 2010 award-winning album was created, and the administrative headquarters of the monarch of the United Kingdom?",
+            "correctness_aspect_critic": 0.18339374259160138,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Who was the father of both Louise, Princess Royal, and Prince Albert Victor?",
+            "correctness_aspect_critic": 0.18038561532644767,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which American race car driver, who made seven starts for Kelley Racing, also won the 2007 NASCAR Busch Series championship?",
+            "correctness_aspect_critic": 0.1949156634143387,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which unincorporated community in Arkansas is located at the junction of Arkansas highways 13 and 38 and has a ZIP code different from Natural Dam's?",
+            "correctness_aspect_critic": 0.1860388237985515,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which professional American football league both included a team that played its home games at Borchert Field and features the third-oldest franchise?",
+            "correctness_aspect_critic": 0.1776232628108203,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which country has both an airport managed by Aena and an airport located near Mah\u00f3n?",
+            "correctness_aspect_critic": 0.18273876202867062,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which music company both released an album nominated for Best Latin Urban Album at the Grammy Awards and was the multinational conglomerate that Az\u00facar Moreno's final label was a subsidiary of?",
+            "correctness_aspect_critic": 0.17689613093332607,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which individual, who initially guided British Puritans in their Reformed worship practices, is also identified as the French theologian credited with developing Reformed theology?",
+            "correctness_aspect_critic": 0.18010651453985776,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which county seat in Tennessee is located in West Tennessee and has a smaller population than the county seat of Hamilton County?",
+            "correctness_aspect_critic": 0.18349320440249728,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which Tehsil in Gujrat District contains both a village located at 32\u00b052'0N 74\u00b08'0E and a town located at 32\u00b046'0N 73\u00b050'0E?",
+            "correctness_aspect_critic": 0.1883998295743915,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What U.S. state is home to both the musical act The Balloon Farm and the second-most populous city, Jersey City?",
+            "correctness_aspect_critic": 0.2110241957919029,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which river is spanned by the Willemsbrug and forms the southern boundary of Rotterdam Centrum?",
+            "correctness_aspect_critic": 0.7289019820167789,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which territory is associated with both a cape named by John Richardson in 1826 and a marginal sea named after Sir Francis Beaufort?",
+            "correctness_aspect_critic": 0.18073082360775536,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which city, founded by Jean-Baptiste Le Moyne de Bienville, had Nicolas Girod as its fifth mayor?",
+            "correctness_aspect_critic": 0.8153237683541941,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which country saw its last sovereign's reign end in 1885 and had its independence achieved by a figure assassinated in 1947?",
+            "correctness_aspect_critic": 0.18365618876282114,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which company is responsible for the production of both Ten High whiskey and Barton Premium whiskey?",
+            "correctness_aspect_critic": 0.9749148352952618,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Which year saw the original release of Peter Hammill's 'Out of Water' and was also a year when the artist of 'Out of the Cradle' had already departed from Fleetwood Mac?",
+            "correctness_aspect_critic": 0.19312750247586496,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What common professional title connects John Masefield, to whom 'The Collected Poems' are attributed, and Christopher Marlowe, who wrote the play 'Edward II'?",
+            "correctness_aspect_critic": 0.18643879624318518,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which artist both hosted a talk show on MTV and created a series of works depicting an electric chair?",
+            "correctness_aspect_critic": 0.18073655811131908,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which American historian, honored for a first book on American history by the Organization of American Historians, is also a Professor of History and Anthropology at the University of California, Santa Barbara?",
+            "correctness_aspect_critic": 0.18604336036332333,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which historical figure both founded Alexandria Bucephalous and fought against King Porus in the Battle of the Hydaspes?",
+            "correctness_aspect_critic": 0.18135115321420822,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which country is associated with traditional English ale made solely from fermented malt and also with English whisky whose single malt production ceased until 2003?",
+            "correctness_aspect_critic": 0.8312013885766372,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Which population group is both the focus of an organization founded by Mahatma Gandhi for upliftment and has reserved constituencies in a state's unicameral legislature?",
+            "correctness_aspect_critic": 0.18871020504647226,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which Thuringian college town, recognized for its high rate of foreigners, has a combined total of 5,000 students from both its polytechnic and private colleges?",
+            "correctness_aspect_critic": 0.1807199573805156,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which political party both participated in the 1959 Singaporean Prime Ministerial election and won all parliamentary seats between 1966 and 1981?",
+            "correctness_aspect_critic": 0.97262779388252,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Which two states, that had not proclaimed their secession by the time of Lincoln's March 4, 1861, inaugural address, were later given seats in the Confederate Congress?",
+            "correctness_aspect_critic": 0.19449402368228685,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which Dutch explorer both discovered a new sea route from Europe to Indonesia and was the brother of the individual who made observations of the southern stars?",
+            "correctness_aspect_critic": 0.21096362823833126,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which American films released in 1936 included 'Gentleman' in their title?",
+            "correctness_aspect_critic": 0.17993440261626714,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which musical chart featured both Cyndi Lauper's top twenty hits and The Supremes' number-one singles?",
+            "correctness_aspect_critic": 0.17707917694956565,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which entity was responsible for mapping both Figaro Nunatak and Dvo\u0159\u00e1k Ice Rise on Alexander Island, Antarctica?",
+            "correctness_aspect_critic": 0.19524026933498825,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Was the agency to which the Roosevelt Administration gave the new name Federal Emergency Relief Administration initially created by an executive order?",
+            "correctness_aspect_critic": 0.19250206033557313,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Does the NFL pay appearance fees to halftime show performers for the major sporting event after which PCH announces its $10 million prize winners?",
+            "correctness_aspect_critic": 0.19069246900214926,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did the bridge named after former premier of Quebec Honor\u00e9 Mercier open in May 1997?",
+            "correctness_aspect_critic": 0.19250206033557313,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Does Shannon Spake provide analysis for the pre-race television show that Wendy Venturini was a reporter for?",
+            "correctness_aspect_critic": 0.19658978867799212,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Was the Formula One motor race held in the city where the LGBTQ Pride Parade set a Guinness World Record part of the 2015 FIA Formula One World Championship?",
+            "correctness_aspect_critic": 0.1840708714758395,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is the person depicted in Francis Bacon's 'Portrait of George Dyer Talking' also featured in his triptych 'Three Studies of the Male Back'?",
+            "correctness_aspect_critic": 0.19331390014141098,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did Heinrich Koenen work as an engineer in the city where Klaus Mehnert was born?",
+            "correctness_aspect_critic": 0.17984251537828533,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Does the 9th-century historical compilation, Historia Brittonum, mention battles fought by the figure who obtained the British throne by pulling a sword from an anvil?",
+            "correctness_aspect_critic": 0.18807139600787487,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was 'With a Little Help From My Friends', the opening theme song for the Time Life DVD releases, also the Bon Jovi single that was released immediately after 'You Give Love a Bad Name'?",
+            "correctness_aspect_critic": 0.19260494085251575,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did the writer who was born in the same country as the father of Hans M\u00fcnstermann's character Andreas Klein emigrate to the U.S. in 1940?",
+            "correctness_aspect_critic": 0.184199780980247,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Do the ISO 3166-2 entries for Switzerland and Belgium both define codes for the principal subdivisions of countries?",
+            "correctness_aspect_critic": 0.9458838546997614,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Was Hilda Crosby Standish inducted into the Women's Hall of Fame for the state governed by the first woman elected governor of a U.S. state without having been the spouse or widow of a former governor?",
+            "correctness_aspect_critic": 0.1811305548273522,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is Krouch Chhmar District located 35 kilometers northeast of the provincial capital of the province that contains Chol Kiri District?",
+            "correctness_aspect_critic": 0.1919722021660404,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did the performer whose likeness was used for the Madonna in the portrait commissioned by Dolce and Gabbana collect paintings by Tamara de Lempicka?",
+            "correctness_aspect_critic": 0.18204147868001885,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Does Lago District share its northern boundary with the country where Longido District is located?",
+            "correctness_aspect_critic": 0.1791334728933938,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was the city founded by Samuel Brannan and John Augustus Sutter, Jr. located in the same state that experienced the 1906 San Francisco earthquake?",
+            "correctness_aspect_critic": 0.68944793471578,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Is the model that explains the migration of giant planets after forming near the central star considered a variant of the hypothesis developed by Immanuel Kant?",
+            "correctness_aspect_critic": 0.18898291585239957,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did the warlord who ruled Qinghai Circuit live during the time when the title of Emperor of Yan was claimed?",
+            "correctness_aspect_critic": 0.18083819268163293,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was the primary creator of the online role-playing game developed in 2007 by Pearson Education's Family Education Network the author of a book published that same year?",
+            "correctness_aspect_critic": 0.19570060473785264,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did the country where G. S. Gai served as Chief Epigraphist develop a symbol for zero in its numeral system?",
+            "correctness_aspect_critic": 0.18807139600787487,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was the cathedral in Alatri, located in the same country as Foligno, declared a basilica minor by Pope Pius XII?",
+            "correctness_aspect_critic": 0.18002752676584796,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is the name of John Klemmer's live album also used to describe a type of geographical feature found in Canada?",
+            "correctness_aspect_critic": 0.1848687851141956,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did the dialect, which was taught in schools starting in 1993, originate in southern Fujian?",
+            "correctness_aspect_critic": 0.4308039537593156,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did the footballer who last played for Sutton United also play for Walsall?",
+            "correctness_aspect_critic": 0.18680473442588205,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Was the philosopher whose collected essays were published as 'The Windmills of Humanity' associated with the Frankfurt School?",
+            "correctness_aspect_critic": 0.18352860443263158,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Were the finches collected on the Gal\u00e1pagos Islands by the person whose birth bicentenary the genus \"Darwinius\" commemorates?",
+            "correctness_aspect_critic": 0.1834377923765308,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was the final winning score of the National Championship Game where Watson played listed among the game results that included Florida?",
+            "correctness_aspect_critic": 0.18495787086319873,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is the capital of the country whose Premier of the Cabinet has the McCune-Reischauer romanization 'Chongni' bordered by China?",
+            "correctness_aspect_critic": 0.18431022434062733,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did the basketball player who competed in the 1952 Summer Olympics and played collegiately at Purdue University also play for Argentina?",
+            "correctness_aspect_critic": 0.19005191088893275,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did the mission launched by the Proton-K carrier rocket depart from the same general spaceport as Tyazhely Sputnik?",
+            "correctness_aspect_critic": 0.18807139600787487,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was the hurricane season following the year Hurricane Sandy crossed into Canada the first above-average and costliest since that same year?",
+            "correctness_aspect_critic": 0.1822492349533037,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Was the satellite constructed by TRW the first 3-axis stabilized spacecraft in geostationary orbit?",
+            "correctness_aspect_critic": 0.19260494085251575,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is the incorporated village located mainly in the Town of Hempstead also in Columbia County?",
+            "correctness_aspect_critic": 0.19250206033557313,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did James Franco star in the 1939 Metro-Goldwyn-Mayer film to which Oz the Great and Powerful is a spiritual prequel?",
+            "correctness_aspect_critic": 0.19260494085251575,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is the most important Carnival city that adopts a musical background similar to Brazilian or Uruguayan Carnival located in Spain?",
+            "correctness_aspect_critic": 0.18763767880856885,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Is Philabundance a non-profit food bank that serves the region where PYM operates?",
+            "correctness_aspect_critic": 0.1845821734863292,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did the sitcom starring Cybill Shepherd air on the same network as the series featuring Ted Mosby?",
+            "correctness_aspect_critic": 0.18184248274421586,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did Wootz steel originate during the period described as a Hindu religious and intellectual resurgence?",
+            "correctness_aspect_critic": 0.18745610617567715,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did the senators representing Taraba North and Adamawa Central constituencies begin their terms of office in the same year?",
+            "correctness_aspect_critic": 0.19686728165860776,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did the actor who portrayed Jonathan Kent in the TV series Smallville also have minor appearances in the film Superman?",
+            "correctness_aspect_critic": 0.18465087448034517,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is the largest freshwater lake in the world by surface area also the second largest lake in the world by area?",
+            "correctness_aspect_critic": 0.18807139600787487,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is Kansas City also a county seat for the county where Blue Springs is located?",
+            "correctness_aspect_critic": 0.18807139600787487,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Are the codes for the principal subdivisions of Gabon defined by the same standard that defines the codes for Guinea's principal subdivisions?",
+            "correctness_aspect_critic": 0.18807139600787487,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is the novel 'Against the Day', written by the author of 'Vineland', longer than 1,000 pages?",
+            "correctness_aspect_critic": 0.18088031996368623,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did the show known as 'Time Team Digs: A History of Britain' air on the same channel as a program whose final episode aired in May 2012 and premiered in the same year?",
+            "correctness_aspect_critic": 0.1866268696132653,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Was a Carpenter Gothic house added to the Alabama Register of Landmarks and Heritage, a register that also includes Belvoir?",
+            "correctness_aspect_critic": 0.17831937175597096,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was the artist who released the mixtape 'I Love Life, Thank You' also responsible for 'Best Day Ever'?",
+            "correctness_aspect_critic": 0.1868400801452721,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Does the publisher of the book In the Shadow of Greatness hold several annual conferences?",
+            "correctness_aspect_critic": 0.1804293197986427,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was Alan O'Neill born in the same year as Joseph Anthony Gallagher?",
+            "correctness_aspect_critic": 0.1867248544432219,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did the company that acquired ConvergeNet Technologies in 1999 have operating costs that made up 10 percent of its $35 billion revenue in 2002?",
+            "correctness_aspect_critic": 0.1818815169831039,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is the administrative center of Gera located in the same country as the \u0160e\u0161uvis river?",
+            "correctness_aspect_critic": 0.18592976507868436,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did Harland Stimson Rowe and Harry William Parker both throw right-handed?",
+            "correctness_aspect_critic": 0.18471463458611723,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Is the reason for high mutual intelligibility among dialects of the Catalan language the same as the reason for the relative mutual incomprehensibility between French and Italian?",
+            "correctness_aspect_critic": 0.18142083617619434,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "Was the song that won the Grammy for Record of the Year in 1972 ever released as a single by The Everly Brothers?",
+            "correctness_aspect_critic": 0.18618841836054398,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was Nicol\u00f2 Sagredo the Doge of the entity that gained control of Cyprus following James III of Cyprus's death?",
+            "correctness_aspect_critic": 0.18807139600787487,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was Hans Jendretzky a politician of the same party that Alfred Kurella was a functionary of?",
+            "correctness_aspect_critic": 0.18441452029479455,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Is the radio station owned by Vermont Public Radio licensed to a city within the same state where Nassau Broadcasting III, LLC owned a radio station?",
+            "correctness_aspect_critic": 0.18342601219361682,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Does the province where Fulton Place is located also contain a neighbourhood with 4,654 residents?",
+            "correctness_aspect_critic": 0.18644366605836507,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was the 2017 estimated population of the capital city of Minnesota, which is also the county seat of Ramsey County, greater than its 2016 estimated population?",
+            "correctness_aspect_critic": 0.18807139600787487,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Does the director of the 1998 Hong Kong crime drama film starring Andy Lau and Gigi Leung also direct the God of Gamblers series?",
+            "correctness_aspect_critic": 0.3349244817488822,
+            "faithfulness_aspect_critic": 0.8888888888888888,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Are the populations of Tamiami and Princeton both counted within the same Florida county in the 2010 census?",
+            "correctness_aspect_critic": 0.180184629853337,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Does the municipality of Bordalba share a province with a municipality that has a population greater than 100 inhabitants?",
+            "correctness_aspect_critic": 0.17709554955049728,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did the individual who inherited Waddesdon Manor also serve as President of the Board of Deputies of British Jews?",
+            "correctness_aspect_critic": 0.183429522027853,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Was the empire associated with Rudolph II defeated decisively by the Swedish Army in a battle during the Thirty Years' War?",
+            "correctness_aspect_critic": 0.18807593752681265,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Was the artist who created the 'Head of a Catalan Peasant' series also known for painting 'Blue Horses'?",
+            "correctness_aspect_critic": 0.19250206033557313,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Does the Supreme Leader appoint the commanders of the forces that executed Houshang Montazeralzohour?",
+            "correctness_aspect_critic": 0.18807139600787487,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Did the individual who won the championship by defeating Jinder Mahal also retain the WWE Championship against Rusev?",
+            "correctness_aspect_critic": 0.1823625460630078,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Did Mark Dismore race for the same team that Tony Renna made seven starts for in the Indy Racing League?",
+            "correctness_aspect_critic": 0.18637780555556435,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which academic institutions does the law school located in Anheuser-Busch Hall offer joint-degree programs with?",
+            "correctness_aspect_critic": 0.19055619447501929,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which artist, noted for her boldness, inspired the creation of Beyonc\u00e9's alter-ego Sasha Fierce?",
+            "correctness_aspect_critic": 0.21345282879554242,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What was Marie-Jeanne Rose Bertin known as, given she was born in the same country as Suzanne Valadon, a painter admitted to the Soci\u00e9t\u00e9 Nationale des Beaux-Arts?",
+            "correctness_aspect_critic": 0.5304127428771407,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who rules as king of the gods to whom ambrosia was brought by doves?",
+            "correctness_aspect_critic": 0.18272750195696608,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What year was the remake of The Parent Trap, which starred the same actress as Freaky Friday, released?",
+            "correctness_aspect_critic": 0.18851657417863832,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What is the population of the district that borders Cambodia, which is in the same Mekong Delta region as Th\u1edbi B\u00ecnh?",
+            "correctness_aspect_critic": 0.17806932268937112,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What was the release year of the fourth studio album by the artist who co-produced the single 'Humble and Kind'?",
+            "correctness_aspect_critic": 0.18772524727291282,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What year was the director of 'Absolute Hangover' born?",
+            "correctness_aspect_critic": 0.18360546964401442,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the date of independence for the country where Meat Corporation of Namibia is headquartered?",
+            "correctness_aspect_critic": 0.1863323090007255,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which state, located in the country that was the first to develop lethal injection as a method of execution, has the highest per capita rate of death sentences?",
+            "correctness_aspect_critic": 0.18551817588741995,
+            "faithfulness_aspect_critic": 0.3333333333333333,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Who did the lead actor from 'Fire Over England', known for his first pairing with Vivien Leigh, meet during a 1948 trip to Australia?",
+            "correctness_aspect_critic": 0.18435875355744766,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What is the historical base location of the Marvel superhero team whose associated family of characters are barred from Walt Disney World due to a licensing agreement with Universal Studios?",
+            "correctness_aspect_critic": 0.7162692043682546,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the proclaimed capital of the country where Gazit is located?",
+            "correctness_aspect_critic": 0.19868736770825976,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What was the season number for the Danish Superliga league championship that occurred in the same season as the 69th Japan Figure Skating Championships?",
+            "correctness_aspect_critic": 0.18727520880654985,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What year was Nicolle Dickson born in the city where the co-founder of BananaMana Films obtained his Bachelor of Dramatic Arts?",
+            "correctness_aspect_critic": 0.1921970317155072,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What cultural characteristic developed in the southern Levant when it was under the control of the empire that governed Judea from 301 to 219 BCE?",
+            "correctness_aspect_critic": 0.813880699200287,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "Which software serves as the official documentation system for the GNU Project and shares its license with Siag Office?",
+            "correctness_aspect_critic": 0.1886785491413993,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What is the official declaration date of the capital city of the country where Reden\u00e7\u00e3o was the first to abolish slavery?",
+            "correctness_aspect_critic": 0.1824747202052717,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What collegiate athletic conference includes the academic institution with the largest financial endowment?",
+            "correctness_aspect_critic": 0.19736763643044755,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What writer composed the song that was ranked the No. 13 song of 1976 by Billboard, if the single produced by Ritchie Cordell was considered 'the bubblegum apotheosis'?",
+            "correctness_aspect_critic": 0.1856462434147871,
+            "faithfulness_aspect_critic": 0.25,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What was the 2010 population of Lebanon, a city located in the same state as Bigler?",
+            "correctness_aspect_critic": 0.17679303562089013,
+            "faithfulness_aspect_critic": 0.6,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What is the description of Vatican City in relation to the city where Antonio Tosti was Cardinal-Priest of San Pietro in Montorio?",
+            "correctness_aspect_critic": 0.5117500880696022,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "How many native amphibian species are found in the territory where the Kerry slug is not native?",
+            "correctness_aspect_critic": 0.18861056297560225,
+            "faithfulness_aspect_critic": 0.8,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What was the date of the finale for the American Idol season that initiated the 'Idol Gives Back' charity event?",
+            "correctness_aspect_critic": 0.18944119609912238,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What artifact is on display at the Archaeological Museum of Olympia, a facility located in the same country as the Municipal Art Gallery of the Municipality of Thessaloniki?",
+            "correctness_aspect_critic": 0.18617170676983827,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What was the nationality of the poet born in 1894, the same year Hamlin Garland completed 'Crumbling Idols'?",
+            "correctness_aspect_critic": 0.18184255782271358,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "In what year did the European power, whose forces were expelled from Muscat by the Yaruba dynasty, establish its independence as a kingdom from Le\u00f3n?",
+            "correctness_aspect_critic": 0.18837422267453102,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What year was the film featuring the voice talents of Irene Bedard and Mel Gibson released, which shares a production company with the 2002 musical comedy 'The Country Bears'?",
+            "correctness_aspect_critic": 0.1895075214272093,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What substance spread to the continent where smoking introduced a new type of social activity, after first being documented in Sufi monasteries of Yemen?",
+            "correctness_aspect_critic": 0.18505937666248595,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the series number of 'The Sarah Jane Adventures' story that aired earlier than the one featuring the robot dog K9?",
+            "correctness_aspect_critic": 0.1904258755109864,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What are the four suits included in the most common deck of playing cards, which is characterized by the same descriptor used for the alternative name of the International Federation of Association Football?",
+            "correctness_aspect_critic": 0.3898590978987885,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the capital of the country where the cacique, whose real name was Macuilmiquiztli, was encountered by Spanish conquistadors?",
+            "correctness_aspect_critic": 0.18146114130420052,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What is the total land area of the city supplied with drinking water by the protected Catskill Mountains watershed?",
+            "correctness_aspect_critic": 0.19549026092112054,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the geographical area served by the central organizing body for Quaker meetings that reunited in 1955?",
+            "correctness_aspect_critic": 0.1816400559294313,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "During the same year that Black Cobain became The Board Administration's first official signee, what honor did Obama receive?",
+            "correctness_aspect_critic": NaN,
+            "faithfulness_aspect_critic": 0.75,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What year did the person who appointed John Crawfurd as the new governor establish Singapore as a key trading post?",
+            "correctness_aspect_critic": 0.18977832499777855,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What country produced the crime film that was entered into the festival where 'When You Hear the Bells' won a Silver Prize?",
+            "correctness_aspect_critic": 0.1771221110019157,
+            "faithfulness_aspect_critic": 0.5,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What was the profession of Agostinho Barbosa, who was born in the country where the Diana Bar library is located?",
+            "correctness_aspect_critic": 0.18148309825143477,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Which other player was a member of the same team that won the gold medal at the Pan American Games in Indianapolis, alongside Alejandra S. Palma?",
+            "correctness_aspect_critic": 0.19379863936714214,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What dynasty was preceded by the Yuan dynasty and also preceded the Qing dynasty?",
+            "correctness_aspect_critic": 0.1787057294016224,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "During the century when Agatho was active in Rome, which group of missionaries was most active in Western Europe?",
+            "correctness_aspect_critic": 0.18028529845975438,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What is the city where the artwork depicting Judas sitting separately was created by an artist who shares the same artistic period as Sandro Botticelli?",
+            "correctness_aspect_critic": 0.18365032895305988,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Where does the river flow that shares a name with the city located directly south of Kempele?",
+            "correctness_aspect_critic": 0.19278863167404356,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "When did the network that switched the air date for Mike Tyson's episode \"Monster's Legacy\" officially cancel \"The Michael J. Fox Show\"?",
+            "correctness_aspect_critic": 0.38427312701090327,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the approximate diameter of the Jezero crater, located on the planet whose prime meridian was originally defined by the Airy-0 crater?",
+            "correctness_aspect_critic": 0.18734427250633048,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What capital city was established by the people of the same nationality as the composer Juan P\u00e9rez Rold\u00e1n?",
+            "correctness_aspect_critic": 0.19526164956239547,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "During what period did Laura Denvir Stith serve as Chief Justice in the state where Raeanne Presley was mayor?",
+            "correctness_aspect_critic": 0.1814797534800915,
+            "faithfulness_aspect_critic": 0.6666666666666666,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What company purchased the Binion's Horseshoe, a casino located in the same city where Heather West became an executive chef?",
+            "correctness_aspect_critic": 0.17706209721587216,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What is the release date of the debut studio album that features the song \"Best Day of My Life\" by American Authors?",
+            "correctness_aspect_critic": 0.18719082159968095,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What was the release date of the Donald Duck cartoon featuring Daisy Duck's debut, whose writer also directed the film where Clarence Nash voiced Donald?",
+            "correctness_aspect_critic": 0.18593192875208464,
+            "faithfulness_aspect_critic": 0.8571428571428571,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "Who were the founders of the American soccer team that was a member of the same overarching league system as West Virginia Illusion and was founded in 2001?",
+            "correctness_aspect_critic": 0.9586845129329811,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.4,
+            "context_recall": 1.0
+        },
+        {
+            "content": "What is the United States' oldest institution of higher learning located in the city where William B. Broydrick was born?",
+            "correctness_aspect_critic": 0.18701255949605125,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What is the capital city of the country where The Herald-Press is published?",
+            "correctness_aspect_critic": 0.18868137702049992,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What was the sport of the athlete born in 1928 whose country differs from the fencer who competed in the 1936 Summer Olympics?",
+            "correctness_aspect_critic": 0.19274379918034146,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        },
+        {
+            "content": "What is the elevation of the administrative center of the Gedeo Zone, which is located in the country that contains the Oromia Region?",
+            "correctness_aspect_critic": 0.17939551244981378,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What is the county of the city that is part of the Jacksonville Micropolitan Statistical Area, within the same region as the city whose population was 2,060 at the 2010 census?",
+            "correctness_aspect_critic": 0.17500352360761995,
+            "faithfulness_aspect_critic": 0.0,
+            "context_precision": 0.0,
+            "context_recall": 0.0
+        },
+        {
+            "content": "What was the previous doctoral work of Milan Raspopovi\u0107, a physicist whose research was halted due to funding issues from a government in a geographic area also home to the university founded by Holy Roman Emperor Charles IV?",
+            "correctness_aspect_critic": 0.9643924109671855,
+            "faithfulness_aspect_critic": 1.0,
+            "context_precision": 0.2,
+            "context_recall": 0.5
+        }
+    ]
+}
