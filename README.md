@@ -4,7 +4,7 @@ A comprehensive system for generating, validating and extracting question-answer
 
 ![Pipeline](images/mhqa.png)
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Project Overview](#-project-overview)
 - [Directory Structure](#-directory-structure)
@@ -15,7 +15,7 @@ A comprehensive system for generating, validating and extracting question-answer
 - [Supported Datasets](#-supported-datasets)
 - [Models](#-models)
 
-## 🎯 Project Overview
+## Project Overview
 
 TRIAD is designed to:
 - **Generate** synthetic QA pairs from document collections using various question types
@@ -24,7 +24,7 @@ TRIAD is designed to:
 - **Work with domain specific datasets** 
 
 
-## 📁 Directory Structure
+## Directory Structure
 
 ```
 triad/
@@ -67,7 +67,7 @@ triad/
 
 ```
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 - Python 3.8+
@@ -114,7 +114,7 @@ Default connection: `postgresql+psycopg://postgres:password@localhost:5432/hotpo
 
 
 
-## 💻 Usage
+## Usage
 
 ### Main Workflow
 
